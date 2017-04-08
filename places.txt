@@ -294,7 +294,7 @@ Berg TG;8572;TG;&X=273339&Y=732229&zoom=6
 Berg TG;8572;TG;&X=271416&Y=729536&zoom=6
 Berg am Irchel;8415;ZH;&X=269506&Y=687248&zoom=6
 Bergdietikon;8962;AG;&X=249308&Y=671102&zoom=6
-Bergün/Bravuogn;7482;GR;&X=166590&Y=776659&zoom=6
+Bergün-Bravuogn;7482;GR;&X=166590&Y=776659&zoom=6
 Berikon;8965;AG;&X=244956&Y=670885&zoom=6
 Beringen;8222;SH;&X=283789&Y=685119&zoom=6
 Berken;3376;BE;&X=230573&Y=620245&zoom=6
@@ -354,10 +354,10 @@ Bichwil;9248;SG;&X=253400&Y=728145&zoom=6
 Bidogno;6958;TI;&X=104188&Y=720763&zoom=6
 Biel VS;3989;VS;&X=145371&Y=659745&zoom=6
 Biel-Benken BL;4105;BL;&X=261427&Y=606077&zoom=6
-Biel/Bienne;2502;BE;&X=221241&Y=585367&zoom=6
-Biel/Bienne;2503;BE;&X=220065&Y=585797&zoom=6
-Biel/Bienne;2504;BE;&X=221177&Y=585435&zoom=6
-Biel/Bienne;2505;BE;&X=220325&Y=583260&zoom=6
+Biel-Bienne;2502;BE;&X=221241&Y=585367&zoom=6
+Biel-Bienne;2503;BE;&X=220065&Y=585797&zoom=6
+Biel-Bienne;2504;BE;&X=221177&Y=585435&zoom=6
+Biel-Bienne;2505;BE;&X=220325&Y=583260&zoom=6
 Bielersee;9999;BE;&X=215169&Y=580262&zoom=6
 Biembach im Emmental;3419;BE;&X=204695&Y=613504&zoom=6
 Biessenhofen;8580;TG;&X=267792&Y=737133&zoom=6
@@ -431,7 +431,7 @@ Borex;1277;VD;&X=137224&Y=503008&zoom=6
 Borgnone;6658;TI;&X=112735&Y=690974&zoom=6
 Borgonovo;7604;GR;&X=135136&Y=766837&zoom=6
 Bosco Luganese;6935;TI;&X=98276&Y=713819&zoom=6
-Bosco/Gurin;6685;TI;&X=130028&Y=681099&zoom=6
+Bosco-Gurin;6685;TI;&X=130028&Y=681099&zoom=6
 Bossonnens;1615;FR;&X=152448&Y=554837&zoom=6
 Boswil;5623;AG;&X=239579&Y=665807&zoom=6
 Bottens;1041;VD;&X=163555&Y=540323&zoom=6
@@ -463,7 +463,7 @@ Bratsch;3957;VS;&X=130054&Y=620546&zoom=6
 Braunau;9502;TG;&X=262423&Y=722878&zoom=6
 Braunwald;8784;GL;&X=200023&Y=718733&zoom=6
 Breganzona;6932;TI;&X=96313&Y=715219&zoom=6
-Breil/Brigels;7165;GR;&X=181096&Y=724156&zoom=6
+Breil-Brigels;7165;GR;&X=181096&Y=724156&zoom=6
 Breitenbach;4226;SO;&X=250265&Y=608480&zoom=6
 Bremblens;1121;VD;&X=155460&Y=529367&zoom=6
 Bremgarten AG;5620;AG;&X=245310&Y=667872&zoom=6
@@ -477,7 +477,7 @@ Bretigny-sur-Morrens;1053;VD;&X=161035&Y=538997&zoom=6
 Bretonnières;1329;VD;&X=173889&Y=526333&zoom=6
 Bretzwil;4207;BL;&X=249877&Y=615868&zoom=6
 Brienz BE;3855;BE;&X=178505&Y=644686&zoom=6
-Brienz/Brinzauls GR;7084;GR;&X=170877&Y=764829&zoom=6
+Brienz-Brinzauls GR;7084;GR;&X=170877&Y=764829&zoom=6
 Brienzersee;9999;BE;&X=175396&Y=640931&zoom=6
 Brienzwiler;3856;BE;&X=177876&Y=650453&zoom=6
 Brig;3900;VS;&X=129606&Y=642972&zoom=6
@@ -664,7 +664,7 @@ Cavergno;6690;TI;&X=133257&Y=689956&zoom=6
 Caviano;6578;TI;&X=107026&Y=702725&zoom=6
 Cavigliano;6654;TI;&X=115637&Y=698859&zoom=6
 Cazis;7408;GR;&X=176453&Y=752454&zoom=6
-Celerina/Schlarigna;7505;GR;&X=154093&Y=786006&zoom=6
+Celerina-Schlarigna;7505;GR;&X=154093&Y=786006&zoom=6
 Cerentino;6683;TI;&X=128853&Y=685435&zoom=6
 Cerniat FR;1654;FR;&X=164638&Y=578416&zoom=6
 Cerniaz VD;1682;VD;&X=175256&Y=558519&zoom=6
@@ -957,10 +957,10 @@ Dinhard;8474;ZH;&X=268445&Y=699835&zoom=6
 Dino;6967;TI;&X=101385&Y=719365&zoom=6
 Dintikon;5606;AG;&X=245967&Y=659542&zoom=6
 Diolly (Savièse);1965;VS;&X=120738&Y=592683&zoom=6
-Disentis/Mustér;7180;GR;&X=173420&Y=708544&zoom=6
+Disentis-Mustér;7180;GR;&X=173420&Y=708544&zoom=6
 Dittingen;4243;BL;&X=254404&Y=604199&zoom=6
 Dizy;1304;VD;&X=165361&Y=527843&zoom=6
-Domat/Ems;7013;GR;&X=188757&Y=754381&zoom=6
+Domat-Ems;7013;GR;&X=188757&Y=754381&zoom=6
 Dombresson;2056;NE;&X=213641&Y=563690&zoom=6
 Domdidier;1564;FR;&X=190491&Y=567726&zoom=6
 Dommartin;1041;VD;&X=166823&Y=543665&zoom=6
@@ -1169,7 +1169,7 @@ Fehren;4232;SO;&X=249531&Y=610445&zoom=6
 Felben-Wellhausen;8552;TG;&X=270518&Y=713031&zoom=6
 Feldbach;8714;ZH;&X=232814&Y=702238&zoom=6
 Feldbrunnen;4532;SO;&X=230040&Y=608648&zoom=6
-Feldis/Veulden;7404;GR;&X=184316&Y=752226&zoom=6
+Feldis-Veulden;7404;GR;&X=184316&Y=752226&zoom=6
 Felsberg;7012;GR;&X=190261&Y=754970&zoom=6
 Fenalet-sur-Bex;1880;VD;&X=124589&Y=568326&zoom=6
 Fenil-sur-Corsier;1809;VD;&X=148357&Y=556017&zoom=6
@@ -1922,7 +1922,7 @@ Langwies;7057;GR;&X=188119&Y=773790&zoom=6
 Langwiesen;8246;ZH;&X=282202&Y=691949&zoom=6
 Lanna;1983;VS;&X=107695&Y=602799&zoom=6
 Lanterswil;9503;TG;&X=264553&Y=724814&zoom=6
-Lantsch/Lenz;7083;GR;&X=172635&Y=762790&zoom=6
+Lantsch-Lenz;7083;GR;&X=172635&Y=762790&zoom=6
 Lanzenhäusern;3148;BE;&X=187865&Y=593026&zoom=6
 Lanzenneunforn;8506;TG;&X=275703&Y=712481&zoom=6
 Largario;6724;TI;&X=150344&Y=715356&zoom=6
@@ -2010,7 +2010,7 @@ Lenk im Simmental;3775;BE;&X=145014&Y=600174&zoom=6
 Lens;1978;VS;&X=125281&Y=600521&zoom=6
 Lentigny;1745;FR;&X=178859&Y=566731&zoom=6
 Lenzburg;5600;AG;&X=248846&Y=655924&zoom=6
-Lenzerheide/Lai;7078;GR;&X=177700&Y=762069&zoom=6
+Lenzerheide-Lai;7078;GR;&X=177700&Y=762069&zoom=6
 Leontica;6716;TI;&X=146398&Y=713984&zoom=6
 Les Acacias;1227;GE;&X=116622&Y=499221&zoom=6
 Les Agettes;1992;VS;&X=117439&Y=595209&zoom=6
@@ -3366,8 +3366,8 @@ Sihlbrugg Station;8135;ZH;&X=233043&Y=686014&zoom=6
 Sihlwald;8135;ZH;&X=235792&Y=684566&zoom=6
 Silenen;6473;UR;&X=182859&Y=693991&zoom=6
 Sils im Domleschg;7411;GR;&X=174192&Y=754363&zoom=6
-Sils/Segl Baselgia;7515;GR;&X=144954&Y=778012&zoom=6
-Sils/Segl Maria;7514;GR;&X=144703&Y=778900&zoom=6
+Sils-Segl Baselgia;7515;GR;&X=144954&Y=778012&zoom=6
+Sils-Segl Maria;7514;GR;&X=144703&Y=778900&zoom=6
 Silvaplana;7513;GR;&X=148302&Y=780837&zoom=6
 Silvaplana-Surlej;7513;GR;&X=148108&Y=782451&zoom=6
 Simplon Dorf;3907;VS;&X=116109&Y=647363&zoom=6
@@ -3531,7 +3531,7 @@ Strada;7558;GR;&X=194678&Y=828411&zoom=6
 Strengelbach;4802;AG;&X=236814&Y=636430&zoom=6
 Studen BE;2557;BE;&X=218015&Y=589724&zoom=6
 Studen SZ;8845;SZ;&X=214539&Y=705955&zoom=6
-Stugl/Stuls;7482;GR;&X=169097&Y=775606&zoom=6
+Stugl-Stuls;7482;GR;&X=169097&Y=775606&zoom=6
 Stäfa;8712;ZH;&X=232809&Y=697854&zoom=6
 Stüsslingen;4655;SO;&X=249410&Y=640439&zoom=6
 Suberg;3262;BE;&X=212297&Y=592160&zoom=6
@@ -3679,7 +3679,7 @@ Tschingel ob Gunten;3656;BE;&X=174778&Y=620641&zoom=6
 Tschlin;7559;GR;&X=195408&Y=827464&zoom=6
 Tschugg;3233;BE;&X=208483&Y=572436&zoom=6
 Tuggen;8856;SZ;&X=228778&Y=714341&zoom=6
-Tumegl/Tomils;7418;GR;&X=180852&Y=752873&zoom=6
+Tumegl-Tomils;7418;GR;&X=180852&Y=752873&zoom=6
 Turbach;3781;BE;&X=147521&Y=592092&zoom=6
 Turbenthal;8488;ZH;&X=254772&Y=706270&zoom=6
 Turgi;5300;AG;&X=260315&Y=661422&zoom=6
@@ -3793,7 +3793,7 @@ Vaulion;1325;VD;&X=171426&Y=519815&zoom=6
 Vaulruz;1627;FR;&X=163716&Y=565881&zoom=6
 Vaumarcus;2028;NE;&X=192176&Y=547898&zoom=6
 Vaux-sur-Morges;1126;VD;&X=154379&Y=525413&zoom=6
-Vaz/Obervaz;7082;GR;&X=173418&Y=759348&zoom=6
+Vaz-Obervaz;7082;GR;&X=173418&Y=759348&zoom=6
 Vella;7144;GR;&X=175544&Y=732637&zoom=6
 Vellerat;2830;JU;&X=241051&Y=594809&zoom=6
 Veltheim AG;5106;AG;&X=254105&Y=653264&zoom=6
@@ -3946,7 +3946,7 @@ Walliswil b. Niederbipp;3380;BE;&X=231858&Y=619168&zoom=6
 Walliswil b. Wangen;3377;BE;&X=230909&Y=618499&zoom=6
 Walperswil;3272;BE;&X=212037&Y=584156&zoom=6
 Waltalingen;8468;ZH;&X=275447&Y=700337&zoom=6
-Waltensburg/Vuorz;7158;GR;&X=181691&Y=728102&zoom=6
+Waltensburg-Vuorz;7158;GR;&X=181691&Y=728102&zoom=6
 Waltenschwil;5622;AG;&X=242985&Y=664824&zoom=6
 Walterswil BE;4942;BE;&X=218038&Y=625638&zoom=6
 Walterswil SO;5746;SO;&X=241642&Y=639101&zoom=6
