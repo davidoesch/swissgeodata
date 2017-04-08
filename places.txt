@@ -1,0 +1,4169 @@
+Aadorf;8355;TG;&X=261648&Y=710588&zoom=6
+Aarau;5000;AG;&X=249629&Y=645856&zoom=6
+Aarau;5004;AG;&X=250197&Y=646950&zoom=6
+Aarau Rohr;5032;AG;&X=250616&Y=648652&zoom=6
+Aarberg;3270;BE;&X=210292&Y=587587&zoom=6
+Aarburg;4663;AG;&X=241612&Y=635425&zoom=6
+Aarwangen;4912;BE;&X=232268&Y=624590&zoom=6
+Aathal-Seegräben;8607;ZH;&X=244029&Y=700585&zoom=6
+Aawangen;8522;TG;&X=263564&Y=710206&zoom=6
+Abländschen;1657;BE;&X=158428&Y=588821&zoom=6
+Abtwil AG;5646;AG;&X=225299&Y=669471&zoom=6
+Abtwil SG;9030;SG;&X=254523&Y=742026&zoom=6
+Achseten;3725;BE;&X=152870&Y=612260&zoom=6
+Aclens;1123;VD;&X=157797&Y=528792&zoom=6
+Acquarossa;6716;TI;&X=146055&Y=715114&zoom=6
+Adelboden;3715;BE;&X=149073&Y=609227&zoom=6
+Adetswil;8345;ZH;&X=244242&Y=705932&zoom=6
+Adligenswil;6043;LU;&X=213699&Y=670369&zoom=6
+Adlikon b. Andelfingen;8452;ZH;&X=270774&Y=694409&zoom=6
+Adlikon b. Regensdorf;8106;ZH;&X=256008&Y=677295&zoom=6
+Adliswil;8134;ZH;&X=240612&Y=681612&zoom=6
+Aedermannsdorf;4714;SO;&X=239205&Y=612829&zoom=6
+Aefligen;3426;BE;&X=216085&Y=608588&zoom=6
+Aegerten;2558;BE;&X=218917&Y=588846&zoom=6
+Aesch (Neftenbach);8412;ZH;&X=266654&Y=693367&zoom=6
+Aesch BL;4147;BL;&X=258173&Y=611242&zoom=6
+Aesch LU;6287;LU;&X=234064&Y=660592&zoom=6
+Aesch ZH;8904;ZH;&X=243354&Y=675273&zoom=6
+Aeschau;3536;BE;&X=195361&Y=624975&zoom=6
+Aeschi SO;4556;SO;&X=225346&Y=617223&zoom=6
+Aeschi b. Spiez;3703;BE;&X=167663&Y=619578&zoom=6
+Aeschiried;3703;BE;&X=166041&Y=621967&zoom=6
+Aeschlen b. Oberdiessbach;3672;BE;&X=187399&Y=615855&zoom=6
+Aeschlen ob Gunten;3656;BE;&X=174323&Y=619898&zoom=6
+Aetigkofen;4583;SO;&X=219137&Y=602128&zoom=6
+Aetingen;4587;SO;&X=220111&Y=605244&zoom=6
+Aettenschwil;5645;AG;&X=226333&Y=670515&zoom=6
+Aeugst am Albis;8914;ZH;&X=235689&Y=679662&zoom=6
+Aeugstertal;8914;ZH;&X=237410&Y=679815&zoom=6
+Affeltrangen;9556;TG;&X=265443&Y=720155&zoom=6
+Affoltern am Albis;8910;ZH;&X=237301&Y=676400&zoom=6
+Affoltern im Emmental;3416;BE;&X=212876&Y=622327&zoom=6
+Agarn;3951;VS;&X=127062&Y=617909&zoom=6
+Agarone;6597;TI;&X=115328&Y=713420&zoom=6
+Agasul;8308;ZH;&X=253444&Y=698162&zoom=6
+Agiez;1352;VD;&X=174540&Y=528757&zoom=6
+Agno;6982;TI;&X=94792&Y=713362&zoom=6
+Agra;6927;TI;&X=91790&Y=714146&zoom=6
+Agriswil;3216;FR;&X=200376&Y=581620&zoom=6
+Aigle;1860;VD;&X=129651&Y=563720&zoom=6
+Aire-la-Ville;1288;GE;&X=116446&Y=492287&zoom=6
+Airolo;6780;TI;&X=153759&Y=689808&zoom=6
+Alberswil;6248;LU;&X=222223&Y=642365&zoom=6
+Albeuve;1669;FR;&X=151805&Y=570635&zoom=6
+Albinen;3955;VS;&X=132128&Y=614991&zoom=6
+Albligen;3183;BE;&X=188902&Y=590638&zoom=6
+Alchenflüh;3422;BE;&X=214551&Y=610538&zoom=6
+Alchenstorf;3473;BE;&X=219502&Y=615228&zoom=6
+Aldesago;6974;TI;&X=96414&Y=719302&zoom=6
+Algetshausen;9249;SG;&X=256335&Y=725748&zoom=6
+Alikon;5643;AG;&X=228021&Y=670054&zoom=6
+Allaman;1165;VD;&X=147146&Y=519868&zoom=6
+Alle;2942;JU;&X=252986&Y=576618&zoom=6
+Allens;1304;VD;&X=161406&Y=528832&zoom=6
+Allenwinden;6319;ZG;&X=224329&Y=684338&zoom=6
+Allerheiligenberg;4615;SO;&X=244699&Y=628428&zoom=6
+Allmendingen b. Bern;3112;BE;&X=195968&Y=606513&zoom=6
+Allschwil;4123;BL;&X=266660&Y=607303&zoom=6
+Almens;7416;GR;&X=178307&Y=754407&zoom=6
+Alosen;6315;ZG;&X=222007&Y=691060&zoom=6
+Alp Grüm;7710;GR;&X=139232&Y=799569&zoom=6
+Alpnach Dorf;6055;OW;&X=198961&Y=662895&zoom=6
+Alpnachstad;6053;OW;&X=200536&Y=663850&zoom=6
+Alpthal;8849;SZ;&X=214091&Y=697032&zoom=6
+Alt St. Johann;9656;SG;&X=228557&Y=739598&zoom=6
+Altbüron;6147;LU;&X=225535&Y=633639&zoom=6
+Altdorf SH;8243;SH;&X=293327&Y=691425&zoom=6
+Altdorf UR;6460;UR;&X=193201&Y=691110&zoom=6
+Alten;8453;ZH;&X=272782&Y=690908&zoom=6
+Altendorf;8852;SZ;&X=227714&Y=705505&zoom=6
+Altenrhein;9423;SG;&X=262159&Y=759206&zoom=6
+Alterswil FR;1715;FR;&X=182691&Y=586936&zoom=6
+Alterswilen;8573;TG;&X=274813&Y=728826&zoom=6
+Altikon;8479;ZH;&X=270261&Y=701260&zoom=6
+Altishausen;8573;TG;&X=273489&Y=730228&zoom=6
+Altishofen;6246;LU;&X=227980&Y=639531&zoom=6
+Altnau;8595;TG;&X=274624&Y=736770&zoom=6
+Altstätten SG;9450;SG;&X=249594&Y=758789&zoom=6
+Altwis;6286;LU;&X=232265&Y=661269&zoom=6
+Alvaneu Bad;7473;GR;&X=171004&Y=768973&zoom=6
+Alvaneu Dorf;7492;GR;&X=172188&Y=768828&zoom=6
+Alvaschein;7451;GR;&X=171516&Y=761779&zoom=6
+Am Bach (Avers);7447;GR;&X=146738&Y=761889&zoom=6
+Ambrì;6775;TI;&X=151632&Y=696667&zoom=6
+Amden;8873;SG;&X=223608&Y=729399&zoom=6
+Aminona;3963;VS;&X=131248&Y=606703&zoom=6
+Amlikon-Bissegg;8514;TG;&X=269599&Y=721147&zoom=6
+Ammerswil AG;5600;AG;&X=247006&Y=658200&zoom=6
+Ammerzwil BE;3257;BE;&X=213224&Y=592483&zoom=6
+Amriswil;8580;TG;&X=267686&Y=739929&zoom=6
+Amsoldingen;3633;BE;&X=175115&Y=610744&zoom=6
+Amsteg;6474;UR;&X=181109&Y=694091&zoom=6
+Andeer;7440;GR;&X=163083&Y=752165&zoom=6
+Andelfingen;8450;ZH;&X=272314&Y=693252&zoom=6
+Andermatt;6490;UR;&X=165165&Y=688731&zoom=6
+Andhausen;8572;TG;&X=271102&Y=730958&zoom=6
+Andiast;7159;GR;&X=183132&Y=728219&zoom=6
+Andwil SG;9204;SG;&X=255941&Y=738803&zoom=6
+Andwil TG;8586;TG;&X=269787&Y=733512&zoom=6
+Anglikon;5611;AG;&X=246384&Y=662255&zoom=6
+Anières;1247;GE;&X=125705&Y=506292&zoom=6
+Anwil;4469;BL;&X=255650&Y=638149&zoom=6
+Anzonico;6748;TI;&X=143245&Y=709456&zoom=6
+Anzère;1972;VS;&X=127484&Y=596987&zoom=6
+Appenzell;9050;AI;&X=244098&Y=749001&zoom=6
+Appenzell Eggerstanden;9050;AI;&X=244342&Y=753420&zoom=6
+Appenzell Enggenhütten;9050;AI;&X=246471&Y=745330&zoom=6
+Appenzell Meistersrüte;9050;AI;&X=245704&Y=750459&zoom=6
+Appenzell Schlatt;9050;AI;&X=246909&Y=747863&zoom=6
+Appenzell Steinegg;9050;AI;&X=242983&Y=750576&zoom=6
+Apples;1143;VD;&X=156163&Y=522543&zoom=6
+Aproz (Nendaz);1994;VS;&X=117165&Y=590282&zoom=6
+Aquila;6719;TI;&X=157671&Y=716904&zoom=6
+Aquila;6719;TI;&X=164359&Y=715931&zoom=6
+Aquila;6719;TI;&X=151396&Y=715890&zoom=6
+Aran;1091;VD;&X=149893&Y=544091&zoom=6
+Aranno;6994;TI;&X=97278&Y=711089&zoom=6
+Arbaz;1974;VS;&X=124654&Y=595757&zoom=6
+Arbedo;6517;TI;&X=119309&Y=724070&zoom=6
+Arboldswil;4424;BL;&X=251795&Y=621128&zoom=6
+Arbon;9320;TG;&X=264638&Y=750505&zoom=6
+Arcegno;6618;TI;&X=113162&Y=700737&zoom=6
+Arch;3296;BE;&X=223655&Y=599158&zoom=6
+Arconciel;1732;FR;&X=177347&Y=575884&zoom=6
+Ardez;7546;GR;&X=184192&Y=811010&zoom=6
+Ardon;1957;VS;&X=117682&Y=585640&zoom=6
+Areuse;2015;NE;&X=200456&Y=555709&zoom=6
+Arezen;7104;GR;&X=182986&Y=744757&zoom=6
+Argnou (Ayent);1966;VS;&X=123573&Y=597001&zoom=6
+Arisdorf;4422;BL;&X=262706&Y=624930&zoom=6
+Aristau;5628;AG;&X=237748&Y=669772&zoom=6
+Arlesheim;4144;BL;&X=260497&Y=614177&zoom=6
+Arnegg;9212;SG;&X=256493&Y=736983&zoom=6
+Arnex-sur-Nyon;1277;VD;&X=136759&Y=504045&zoom=6
+Arnex-sur-Orbe;1321;VD;&X=171749&Y=529672&zoom=6
+Arni AG;8905;AG;&X=241283&Y=674547&zoom=6
+Arni BE;3508;BE;&X=198361&Y=617473&zoom=6
+Arogno;6822;TI;&X=91085&Y=720016&zoom=6
+Arolla;1986;VS;&X=97033&Y=603453&zoom=6
+Arosa;7050;GR;&X=183390&Y=770549&zoom=6
+Arosio;6939;TI;&X=100656&Y=713151&zoom=6
+Arth;6415;SZ;&X=213077&Y=682383&zoom=6
+Arveyes;1884;VD;&X=126448&Y=571015&zoom=6
+Arvigo;6543;GR;&X=129249&Y=729022&zoom=6
+Arvillard (Salins);1991;VS;&X=117731&Y=592845&zoom=6
+Arzier-Le Muids;1273;VD;&X=146209&Y=505415&zoom=6
+Arzo;6864;TI;&X=81618&Y=716669&zoom=6
+Ascharina;7245;GR;&X=203448&Y=780251&zoom=6
+Ascona;6612;TI;&X=112456&Y=702813&zoom=6
+Asp;5025;AG;&X=254854&Y=646020&zoom=6
+Assens;1042;VD;&X=162693&Y=537491&zoom=6
+Astano;6999;TI;&X=96741&Y=706773&zoom=6
+Asuel;2954;JU;&X=250006&Y=582684&zoom=6
+Athenaz (Avusy);1285;GE;&X=112478&Y=489425&zoom=6
+Attalens;1616;FR;&X=151230&Y=554763&zoom=6
+Attelwil;5056;AG;&X=234768&Y=645869&zoom=6
+Attikon;8544;ZH;&X=265902&Y=702348&zoom=6
+Attinghausen;6468;UR;&X=191109&Y=690376&zoom=6
+Attiswil;4536;BE;&X=233298&Y=613438&zoom=6
+Au SG;9434;SG;&X=255940&Y=765585&zoom=6
+Au TG;8376;TG;&X=250743&Y=714173&zoom=6
+Au ZH;8804;ZH;&X=233719&Y=691434&zoom=6
+Aubonne;1170;VD;&X=150026&Y=519663&zoom=6
+Auboranges;1673;FR;&X=159243&Y=551488&zoom=6
+Auddes-sur-Riddes;1914;VS;&X=111457&Y=584969&zoom=6
+Auenstein;5105;AG;&X=252282&Y=653314&zoom=6
+Augio;6547;GR;&X=136318&Y=729724&zoom=6
+Augst BL;4302;BL;&X=264676&Y=621187&zoom=6
+Aumont;1484;FR;&X=183506&Y=554960&zoom=6
+Auressio;6661;TI;&X=117445&Y=696161&zoom=6
+Aurigeno;6677;TI;&X=120722&Y=698282&zoom=6
+Auslikon;8331;ZH;&X=244751&Y=703390&zoom=6
+Ausserberg;3938;VS;&X=129288&Y=631621&zoom=6
+Ausserbinn;3995;VS;&X=137107&Y=654698&zoom=6
+Ausserferrera;7444;GR;&X=158187&Y=753581&zoom=6
+Auswil;4944;BE;&X=220484&Y=629894&zoom=6
+Autafond;1782;FR;&X=184782&Y=572466&zoom=6
+Autavaux;1475;FR;&X=190606&Y=557214&zoom=6
+Autigny;1742;FR;&X=176230&Y=568048&zoom=6
+Auvernier;2012;NE;&X=203121&Y=557285&zoom=6
+Auw;5644;AG;&X=229414&Y=670406&zoom=6
+Avegno;6670;TI;&X=118055&Y=700892&zoom=6
+Aven;1976;VS;&X=120565&Y=586896&zoom=6
+Avenches;1580;VD;&X=192202&Y=569660&zoom=6
+Avry-devant-Pont;1644;FR;&X=170726&Y=573054&zoom=6
+Avry-sur-Matran;1754;FR;&X=181919&Y=571903&zoom=6
+Avully;1237;GE;&X=114131&Y=488891&zoom=6
+Axalp;3855;BE;&X=174646&Y=645845&zoom=6
+Ayer;3961;VS;&X=114322&Y=612894&zoom=6
+Azmoos;9478;SG;&X=216545&Y=754900&zoom=6
+Aïre;1219;GE;&X=117382&Y=496547&zoom=6
+Baar;6340;ZG;&X=227841&Y=681767&zoom=6
+Baar (Nendaz);1996;VS;&X=117107&Y=591430&zoom=6
+Bachenbülach;8184;ZH;&X=261759&Y=683011&zoom=6
+Bachs;8164;ZH;&X=264369&Y=675418&zoom=6
+Bad Ragaz;7310;SG;&X=207751&Y=757242&zoom=6
+Bad Ragaz;7310;SG;&X=204687&Y=755849&zoom=6
+Bad Zurzach;5330;AG;&X=270505&Y=664447&zoom=6
+Baden;5400;AG;&X=258735&Y=664854&zoom=6
+Baden;5404;AG;&X=256307&Y=663319&zoom=6
+Baldegg;6283;LU;&X=225863&Y=663789&zoom=6
+Baldingen;5333;AG;&X=267708&Y=665984&zoom=6
+Balerna;6828;TI;&X=78530&Y=721717&zoom=6
+Balgach;9436;SG;&X=252989&Y=763594&zoom=6
+Ballaigues;1338;VD;&X=175850&Y=521736&zoom=6
+Ballens;1144;VD;&X=156489&Y=518364&zoom=6
+Ballmoos;3303;BE;&X=209940&Y=602829&zoom=6
+Ballwil;6275;LU;&X=222744&Y=666896&zoom=6
+Balm b. Günsberg;4525;SO;&X=233625&Y=608738&zoom=6
+Balm b. Messen;3254;SO;&X=216906&Y=599695&zoom=6
+Balmberg;4524;SO;&X=235460&Y=608558&zoom=6
+Balsthal;4710;SO;&X=240150&Y=619627&zoom=6
+Balterswil;8362;TG;&X=257248&Y=713210&zoom=6
+Baltschieder;3937;VS;&X=128445&Y=632410&zoom=6
+Baltschieder;3937;VS;&X=136159&Y=634046&zoom=6
+Balzers;9496;LI;&X=214619&Y=756904&zoom=6
+Banco;6981;TI;&X=96412&Y=708574&zoom=6
+Bangerten b. Dieterswil;3256;BE;&X=211745&Y=600685&zoom=6
+Bannwil;4913;BE;&X=231872&Y=622058&zoom=6
+Barbengo;6917;TI;&X=90845&Y=714341&zoom=6
+Barberêche;1783;FR;&X=189542&Y=578850&zoom=6
+Bargen BE;3282;BE;&X=209918&Y=586219&zoom=6
+Bargen SH;8233;SH;&X=294141&Y=687790&zoom=6
+Barmelweid;5017;AG;&X=252474&Y=640091&zoom=6
+Barzheim;8241;SH;&X=290798&Y=696157&zoom=6
+Basadingen;8254;TG;&X=280924&Y=697989&zoom=6
+Basel;4001;BS;&X=267305&Y=611308&zoom=6
+Basel;4051;BS;&X=267063&Y=611145&zoom=6
+Basel;4052;BS;&X=266308&Y=612708&zoom=6
+Basel;4052;BS;&X=263537&Y=611866&zoom=6
+Basel;4053;BS;&X=265301&Y=612226&zoom=6
+Basel;4054;BS;&X=266649&Y=609809&zoom=6
+Basel;4055;BS;&X=268118&Y=609433&zoom=6
+Basel;4056;BS;&X=268771&Y=610146&zoom=6
+Basel;4057;BS;&X=269503&Y=612133&zoom=6
+Basel;4058;BS;&X=267074&Y=611460&zoom=6
+Basel;4059;BS;&X=264552&Y=611656&zoom=6
+Basse-Nendaz;1996;VS;&X=115628&Y=590186&zoom=6
+Bassecourt;2854;JU;&X=242562&Y=585601&zoom=6
+Bassersdorf;8303;ZH;&X=254964&Y=689186&zoom=6
+Bassins;1269;VD;&X=146359&Y=507273&zoom=6
+Bauen;6466;UR;&X=198857&Y=686731&zoom=6
+Baulmes;1446;VD;&X=182609&Y=529729&zoom=6
+Bauma;8494;ZH;&X=247268&Y=708660&zoom=6
+Bavois;1372;VD;&X=170831&Y=533213&zoom=6
+Bazenheid;9602;SG;&X=252492&Y=722767&zoom=6
+Beatenberg;3803;BE;&X=171682&Y=626979&zoom=6
+Beckenried;6375;NW;&X=202071&Y=678395&zoom=6
+Bedano;6930;TI;&X=101090&Y=714558&zoom=6
+Bedigliora;6981;TI;&X=95539&Y=708660&zoom=6
+Bedigliora;6981;TI;&X=97643&Y=707643&zoom=6
+Bedretto;6781;TI;&X=151022&Y=681957&zoom=6
+Beggingen;8228;SH;&X=291358&Y=682089&zoom=6
+Begnins;1268;VD;&X=143964&Y=508775&zoom=6
+Beinwil (Freiamt);5637;AG;&X=231339&Y=668201&zoom=6
+Beinwil SO;4229;SO;&X=245773&Y=611446&zoom=6
+Beinwil am See;5712;AG;&X=235184&Y=658256&zoom=6
+Belalp;3914;VS;&X=135723&Y=641020&zoom=6
+Belfaux;1782;FR;&X=185748&Y=574689&zoom=6
+Bellach;4512;SO;&X=229318&Y=604081&zoom=6
+Bellelay;2713;BE;&X=234820&Y=579542&zoom=6
+Bellerive VD;1585;VD;&X=197141&Y=568366&zoom=6
+Bellevue;1293;GE;&X=123295&Y=500886&zoom=6
+Bellikon;5454;AG;&X=249374&Y=668759&zoom=6
+Bellinzona;6500;TI;&X=117404&Y=722385&zoom=6
+Bellinzona;6503;TI;&X=118671&Y=721042&zoom=6
+Bellmund;2564;BE;&X=217350&Y=585332&zoom=6
+Bellwald;3997;VS;&X=141938&Y=655498&zoom=6
+Belmont-sur-Lausanne;1092;VD;&X=152372&Y=541818&zoom=6
+Belmont-sur-Yverdon;1432;VD;&X=177472&Y=537743&zoom=6
+Belp;3123;BE;&X=193544&Y=605376&zoom=6
+Belpberg;3124;BE;&X=190691&Y=606303&zoom=6
+Belprahon;2744;BE;&X=237274&Y=597523&zoom=6
+Benglen;8121;ZH;&X=246283&Y=690551&zoom=6
+Benken SG;8717;SG;&X=228631&Y=718248&zoom=6
+Benken ZH;8463;ZH;&X=278647&Y=691053&zoom=6
+Bennau;8836;SZ;&X=222763&Y=697933&zoom=6
+Bennwil;4431;BL;&X=250047&Y=625856&zoom=6
+Benzenschwil;5636;AG;&X=233255&Y=670035&zoom=6
+Bercher;1038;VD;&X=171476&Y=544152&zoom=6
+Berg (Dägerlen);8471;ZH;&X=269218&Y=697484&zoom=6
+Berg SG;9305;SG;&X=261396&Y=748395&zoom=6
+Berg TG;8572;TG;&X=273339&Y=732229&zoom=6
+Berg TG;8572;TG;&X=271416&Y=729536&zoom=6
+Berg am Irchel;8415;ZH;&X=269506&Y=687248&zoom=6
+Bergdietikon;8962;AG;&X=249308&Y=671102&zoom=6
+Bergün/Bravuogn;7482;GR;&X=166590&Y=776659&zoom=6
+Berikon;8965;AG;&X=244956&Y=670885&zoom=6
+Beringen;8222;SH;&X=283789&Y=685119&zoom=6
+Berken;3376;BE;&X=230573&Y=620245&zoom=6
+Berlens;1680;FR;&X=171446&Y=562874&zoom=6
+Berlingen;8267;TG;&X=281617&Y=718477&zoom=6
+Bern;3004;BE;&X=203269&Y=601018&zoom=6
+Bern;3005;BE;&X=198700&Y=600860&zoom=6
+Bern;3006;BE;&X=199414&Y=602485&zoom=6
+Bern;3007;BE;&X=198676&Y=599692&zoom=6
+Bern;3008;BE;&X=199335&Y=598117&zoom=6
+Bern;3010;BE;&X=199541&Y=598897&zoom=6
+Bern;3011;BE;&X=199573&Y=600710&zoom=6
+Bern;3011;BE;&X=200272&Y=601773&zoom=6
+Bern;3012;BE;&X=201167&Y=599040&zoom=6
+Bern;3013;BE;&X=200570&Y=600576&zoom=6
+Bern;3014;BE;&X=201236&Y=601505&zoom=6
+Bern;3015;BE;&X=198792&Y=603516&zoom=6
+Bern;3018;BE;&X=198090&Y=596229&zoom=6
+Bern;3019;BE;&X=197769&Y=593094&zoom=6
+Bern;3020;BE;&X=199566&Y=600952&zoom=6
+Bern;3027;BE;&X=200526&Y=596089&zoom=6
+Berneck;9442;SG;&X=254906&Y=763774&zoom=6
+Bernex;1233;GE;&X=114506&Y=494282&zoom=6
+Bernhardzell;9304;SG;&X=259746&Y=743344&zoom=6
+Berolle;1149;VD;&X=156921&Y=515496&zoom=6
+Beromünster;6215;LU;&X=228657&Y=657730&zoom=6
+Berschis;8892;SG;&X=219185&Y=745051&zoom=6
+Bertschikon;8543;ZH;&X=264916&Y=703611&zoom=6
+Bertschikon (Gossau ZH);8614;ZH;&X=241958&Y=699687&zoom=6
+Berzona;6661;TI;&X=117774&Y=694439&zoom=6
+Besazio;6863;TI;&X=81312&Y=717499&zoom=6
+Besenbüren;5627;AG;&X=240787&Y=668595&zoom=6
+Besencens;1609;FR;&X=159719&Y=556396&zoom=6
+Betschwanden;8777;GL;&X=200452&Y=720952&zoom=6
+Betten;3991;VS;&X=136340&Y=648418&zoom=6
+Bettenhausen;3366;BE;&X=224744&Y=621201&zoom=6
+Bettens;1042;VD;&X=164195&Y=534037&zoom=6
+Bettingen;4126;BS;&X=268941&Y=617031&zoom=6
+Bettlach;2544;SO;&X=228050&Y=599324&zoom=6
+Bettmeralp;3992;VS;&X=137820&Y=648176&zoom=6
+Bettwiesen;9553;TG;&X=261927&Y=719792&zoom=6
+Bettwil;5618;AG;&X=238139&Y=662918&zoom=6
+Beurnevésin;2935;JU;&X=260351&Y=577283&zoom=6
+Beuson (Nendaz);1996;VS;&X=114619&Y=591367&zoom=6
+Bevaix;2022;NE;&X=197935&Y=552556&zoom=6
+Bever;7502;GR;&X=158609&Y=787911&zoom=6
+Bever;7502;GR;&X=155596&Y=775742&zoom=6
+Bex;1880;VD;&X=122288&Y=567132&zoom=6
+Biasca;6710;TI;&X=135457&Y=718022&zoom=6
+Biberen;3206;BE;&X=198713&Y=582736&zoom=6
+Biberist;4562;SO;&X=225810&Y=608615&zoom=6
+Bibern SH;8242;SH;&X=292075&Y=692848&zoom=6
+Bibern SO;4578;SO;&X=221909&Y=601131&zoom=6
+Biberstein;5023;AG;&X=251881&Y=648495&zoom=6
+Bichelsee;8363;TG;&X=256639&Y=711813&zoom=6
+Bichwil;9248;SG;&X=253400&Y=728145&zoom=6
+Bidogno;6958;TI;&X=104188&Y=720763&zoom=6
+Biel VS;3989;VS;&X=145371&Y=659745&zoom=6
+Biel-Benken BL;4105;BL;&X=261427&Y=606077&zoom=6
+Biel/Bienne;2502;BE;&X=221241&Y=585367&zoom=6
+Biel/Bienne;2503;BE;&X=220065&Y=585797&zoom=6
+Biel/Bienne;2504;BE;&X=221177&Y=585435&zoom=6
+Biel/Bienne;2505;BE;&X=220325&Y=583260&zoom=6
+Bielersee;9999;BE;&X=215169&Y=580262&zoom=6
+Biembach im Emmental;3419;BE;&X=204695&Y=613504&zoom=6
+Biessenhofen;8580;TG;&X=267792&Y=737133&zoom=6
+Bieudron (Nendaz);1996;VS;&X=115852&Y=587733&zoom=6
+Biezwil;4585;SO;&X=218394&Y=598242&zoom=6
+Bigenthal;3513;BE;&X=201582&Y=614309&zoom=6
+Biglen;3507;BE;&X=197671&Y=614487&zoom=6
+Bignasco;6676;TI;&X=132579&Y=690118&zoom=6
+Bigorio;6954;TI;&X=103344&Y=717392&zoom=6
+Billens;1681;FR;&X=171219&Y=558805&zoom=6
+Bilten;8865;GL;&X=223224&Y=720636&zoom=6
+Binn;3996;VS;&X=135140&Y=657334&zoom=6
+Binningen;4102;BL;&X=265390&Y=610457&zoom=6
+Binz;8122;ZH;&X=245779&Y=689783&zoom=6
+Bioggio;6934;TI;&X=97118&Y=714085&zoom=6
+Biogno-Beride;6981;TI;&X=94944&Y=708721&zoom=6
+Bioley-Magnoux;1407;VD;&X=175334&Y=544441&zoom=6
+Bioley-Orjulaz;1042;VD;&X=163746&Y=535568&zoom=6
+Bionnens;1670;FR;&X=165034&Y=555344&zoom=6
+Birgisch;3903;VS;&X=129836&Y=639979&zoom=6
+Birmensdorf ZH;8903;ZH;&X=245171&Y=676049&zoom=6
+Birmenstorf AG;5413;AG;&X=257102&Y=661080&zoom=6
+Bironico;6804;TI;&X=108194&Y=715839&zoom=6
+Birr;5242;AG;&X=254070&Y=658019&zoom=6
+Birrhard;5244;AG;&X=254109&Y=660556&zoom=6
+Birrwil;5708;AG;&X=237973&Y=657421&zoom=6
+Birsfelden;4127;BL;&X=267209&Y=614070&zoom=6
+Birwinken;8585;TG;&X=271852&Y=732246&zoom=6
+Bischofszell;9220;TG;&X=261918&Y=735652&zoom=6
+Bisisthal;6436;SZ;&X=200146&Y=706036&zoom=6
+Bissone;6816;TI;&X=90063&Y=718484&zoom=6
+Bister;3983;VS;&X=134519&Y=648164&zoom=6
+Bitsch;3982;VS;&X=131875&Y=644045&zoom=6
+Bivio;7457;GR;&X=148752&Y=769986&zoom=6
+Bière;1145;VD;&X=154695&Y=515221&zoom=6
+Blankenburg;3771;BE;&X=154447&Y=595908&zoom=6
+Blatten (Lötschen);3919;VS;&X=141223&Y=629061&zoom=6
+Blatten b. Naters;3914;VS;&X=134507&Y=641766&zoom=6
+Blauen;4223;BL;&X=255519&Y=606440&zoom=6
+Blausee-Mitholz;3717;BE;&X=153096&Y=618165&zoom=6
+Bleienbach;3368;BE;&X=225866&Y=624420&zoom=6
+Bleiken b. Oberdiessbach;3674;BE;&X=185030&Y=615282&zoom=6
+Blessens;1675;FR;&X=162389&Y=554121&zoom=6
+Blignou (Ayent);1966;VS;&X=124444&Y=596803&zoom=6
+Blitzingen;3989;VS;&X=143624&Y=658680&zoom=6
+Blonay;1807;VD;&X=146204&Y=558196&zoom=6
+Blumenstein;3638;BE;&X=176791&Y=606586&zoom=6
+Bodio TI;6743;TI;&X=137476&Y=713333&zoom=6
+Bofflens;1353;VD;&X=172863&Y=528133&zoom=6
+Bogis-Bossey;1279;VD;&X=134400&Y=502067&zoom=6
+Bogno;6951;TI;&X=105617&Y=725667&zoom=6
+Bolken;4556;SO;&X=226730&Y=617254&zoom=6
+Boll;3067;BE;&X=200277&Y=608295&zoom=6
+Bolligen;3065;BE;&X=202664&Y=604386&zoom=6
+Bollingen;8715;SG;&X=231058&Y=710209&zoom=6
+Bollion;1470;FR;&X=185285&Y=553339&zoom=6
+Bollodingen;3366;BE;&X=223947&Y=620243&zoom=6
+Boltigen;3766;BE;&X=164351&Y=596602&zoom=6
+Bombinasco;6981;TI;&X=96794&Y=708026&zoom=6
+Bonaduz;7402;GR;&X=186588&Y=749330&zoom=6
+Bonau;8554;TG;&X=271550&Y=720609&zoom=6
+Boncourt;2926;JU;&X=260718&Y=567945&zoom=6
+Bonfol;2944;JU;&X=258792&Y=578055&zoom=6
+Boningen;4618;SO;&X=239844&Y=631453&zoom=6
+Boniswil;5706;AG;&X=240702&Y=656801&zoom=6
+Bonnefontaine;1724;FR;&X=176634&Y=581936&zoom=6
+Bonstetten;8906;ZH;&X=241277&Y=677685&zoom=6
+Bonvillars;1427;VD;&X=187935&Y=541551&zoom=6
+Boppelsen;8113;ZH;&X=258216&Y=673194&zoom=6
+Borex;1277;VD;&X=137224&Y=503008&zoom=6
+Borgnone;6658;TI;&X=112735&Y=690974&zoom=6
+Borgonovo;7604;GR;&X=135136&Y=766837&zoom=6
+Bosco Luganese;6935;TI;&X=98276&Y=713819&zoom=6
+Bosco/Gurin;6685;TI;&X=130028&Y=681099&zoom=6
+Bossonnens;1615;FR;&X=152448&Y=554837&zoom=6
+Boswil;5623;AG;&X=239579&Y=665807&zoom=6
+Bottens;1041;VD;&X=163555&Y=540323&zoom=6
+Bottenwil;4814;AG;&X=237249&Y=642848&zoom=6
+Botterens;1652;FR;&X=163390&Y=575053&zoom=6
+Bottighofen;8598;TG;&X=278191&Y=733351&zoom=6
+Bottmingen;4103;BL;&X=263900&Y=610229&zoom=6
+Botyre (Ayent);1966;VS;&X=125023&Y=597459&zoom=6
+Boudevilliers;2043;NE;&X=208752&Y=558295&zoom=6
+Boudry;2017;NE;&X=200214&Y=554209&zoom=6
+Bougy-Villars;1172;VD;&X=148090&Y=516713&zoom=6
+Boulens;1063;VD;&X=170326&Y=544944&zoom=6
+Bouloz;1699;FR;&X=162411&Y=557496&zoom=6
+Bourg-St-Pierre;1946;VS;&X=88696&Y=582468&zoom=6
+Bourguillon;1722;FR;&X=183237&Y=580024&zoom=6
+Bournens;1035;VD;&X=161769&Y=532971&zoom=6
+Bourrignon;2803;JU;&X=249471&Y=585714&zoom=6
+Boussens;1034;VD;&X=161745&Y=534427&zoom=6
+Bouveret;1897;VS;&X=137211&Y=554809&zoom=6
+Boveresse;2113;NE;&X=196489&Y=536174&zoom=6
+Bovernier;1932;VS;&X=103222&Y=572829&zoom=6
+Bowil;3533;BE;&X=193481&Y=619777&zoom=6
+Boécourt;2856;JU;&X=244200&Y=583401&zoom=6
+Braggio;6544;GR;&X=129425&Y=729892&zoom=6
+Brail;7527;GR;&X=170530&Y=798815&zoom=6
+Bramboden;6167;LU;&X=203371&Y=641507&zoom=6
+Bramois;1967;VS;&X=120315&Y=597801&zoom=6
+Bratsch;3957;VS;&X=130054&Y=620546&zoom=6
+Braunau;9502;TG;&X=262423&Y=722878&zoom=6
+Braunwald;8784;GL;&X=200023&Y=718733&zoom=6
+Breganzona;6932;TI;&X=96313&Y=715219&zoom=6
+Breil/Brigels;7165;GR;&X=181096&Y=724156&zoom=6
+Breitenbach;4226;SO;&X=250265&Y=608480&zoom=6
+Bremblens;1121;VD;&X=155460&Y=529367&zoom=6
+Bremgarten AG;5620;AG;&X=245310&Y=667872&zoom=6
+Bremgarten b. Bern;3047;BE;&X=203050&Y=599674&zoom=6
+Brenles;1683;VD;&X=169048&Y=555278&zoom=6
+Breno;6937;TI;&X=98965&Y=710847&zoom=6
+Brent;1817;VD;&X=145295&Y=558720&zoom=6
+Brenzikofen;3671;BE;&X=185013&Y=613367&zoom=6
+Bressaucourt;2904;JU;&X=248617&Y=569668&zoom=6
+Bretigny-sur-Morrens;1053;VD;&X=161035&Y=538997&zoom=6
+Bretonnières;1329;VD;&X=173889&Y=526333&zoom=6
+Bretzwil;4207;BL;&X=249877&Y=615868&zoom=6
+Brienz BE;3855;BE;&X=178505&Y=644686&zoom=6
+Brienz/Brinzauls GR;7084;GR;&X=170877&Y=764829&zoom=6
+Brienzersee;9999;BE;&X=175396&Y=640931&zoom=6
+Brienzwiler;3856;BE;&X=177876&Y=650453&zoom=6
+Brig;3900;VS;&X=129606&Y=642972&zoom=6
+Brigerbad;3900;VS;&X=127779&Y=636825&zoom=6
+Brignon (Nendaz);1996;VS;&X=115337&Y=591256&zoom=6
+Brione (Verzasca);6634;TI;&X=128159&Y=704145&zoom=6
+Brione sopra Minusio;6645;TI;&X=115613&Y=706228&zoom=6
+Brislach;4225;BL;&X=251921&Y=607925&zoom=6
+Brissago;6614;TI;&X=108347&Y=698326&zoom=6
+Bristen;6475;UR;&X=180628&Y=695465&zoom=6
+Brittern;4588;SO;&X=218885&Y=604260&zoom=6
+Brittnau;4805;AG;&X=234396&Y=638019&zoom=6
+Broc;1636;FR;&X=161578&Y=574015&zoom=6
+Broglio;6693;TI;&X=136912&Y=694051&zoom=6
+Bronschhofen;9552;SG;&X=259913&Y=719922&zoom=6
+Brontallo;6692;TI;&X=134489&Y=691579&zoom=6
+Brot-Dessous;2149;NE;&X=200746&Y=547372&zoom=6
+Brot-Plamboz;2318;NE;&X=203362&Y=547301&zoom=6
+Bruderholz;4101;BL;&X=264214&Y=610804&zoom=6
+Brugg AG;5200;AG;&X=259654&Y=657899&zoom=6
+Brunegg;5505;AG;&X=252561&Y=658644&zoom=6
+Brunnadern;9125;SG;&X=243887&Y=727842&zoom=6
+Brunnen;6440;SZ;&X=206131&Y=688501&zoom=6
+Brunnenthal;3307;SO;&X=214990&Y=602367&zoom=6
+Brusino Arsizio;6827;TI;&X=87343&Y=716420&zoom=6
+Brusio;7743;GR;&X=126556&Y=807045&zoom=6
+Bruson;1934;VS;&X=101548&Y=582711&zoom=6
+Bruzella;6837;TI;&X=82468&Y=724170&zoom=6
+Brè sopra Lugano;6979;TI;&X=96907&Y=720803&zoom=6
+Brügg BE;2555;BE;&X=219185&Y=587820&zoom=6
+Brügglen;4582;SO;&X=221420&Y=604317&zoom=6
+Brülisau;9058;AI;&X=240461&Y=752597&zoom=6
+Brünig;3860;BE;&X=178726&Y=653445&zoom=6
+Brünisried;1719;FR;&X=178872&Y=587876&zoom=6
+Brüttelen;3237;BE;&X=207961&Y=577860&zoom=6
+Brütten;8311;ZH;&X=258492&Y=693310&zoom=6
+Brüttisellen;8306;ZH;&X=253042&Y=690316&zoom=6
+Bubendorf;4416;BL;&X=255050&Y=623013&zoom=6
+Bubikon;8608;ZH;&X=236514&Y=704084&zoom=6
+Buch SH;8263;SH;&X=286031&Y=700877&zoom=6
+Buch am Irchel;8414;ZH;&X=267316&Y=689313&zoom=6
+Buch b. Frauenfeld;8524;TG;&X=272909&Y=705458&zoom=6
+Buch b. Kümmertshausen;8586;TG;&X=270477&Y=735163&zoom=6
+Buch b. Märwil;9562;TG;&X=266472&Y=721905&zoom=6
+Buchackern;8586;TG;&X=266820&Y=735369&zoom=6
+Buchberg;8454;SH;&X=269725&Y=684588&zoom=6
+Buchen BE;3623;BE;&X=181295&Y=620661&zoom=6
+Buchen im Prättigau;7223;GR;&X=201256&Y=773892&zoom=6
+Buchillon;1164;VD;&X=147045&Y=521859&zoom=6
+Buchrain;6033;LU;&X=216372&Y=668888&zoom=6
+Buchs AG;5033;AG;&X=248841&Y=648680&zoom=6
+Buchs LU;6211;LU;&X=227946&Y=645348&zoom=6
+Buchs SG;9470;SG;&X=225779&Y=753853&zoom=6
+Buchs ZH;8107;ZH;&X=256636&Y=674953&zoom=6
+Buckten;4446;BL;&X=251244&Y=630689&zoom=6
+Buhwil;9215;TG;&X=265384&Y=730225&zoom=6
+Buix;2925;JU;&X=258819&Y=569079&zoom=6
+Bulle;1630;FR;&X=163295&Y=570880&zoom=6
+Bullet;1453;VD;&X=186973&Y=532570&zoom=6
+Buochs;6374;NW;&X=202838&Y=674295&zoom=6
+Buonas;6343;ZG;&X=221458&Y=677094&zoom=6
+Bure;2915;JU;&X=254537&Y=567367&zoom=6
+Burg AG;5736;AG;&X=231704&Y=655987&zoom=6
+Burg im Leimental;4117;BL;&X=256143&Y=600065&zoom=6
+Burgdorf;3400;BE;&X=211895&Y=614744&zoom=6
+Burgistein;3664;BE;&X=182792&Y=605080&zoom=6
+Burglauenen;3816;BE;&X=165329&Y=641305&zoom=6
+Burgäschi;4556;SO;&X=224624&Y=617501&zoom=6
+Bursinel;1195;VD;&X=143632&Y=512817&zoom=6
+Bursins;1183;VD;&X=145288&Y=511740&zoom=6
+Burtigny;1268;VD;&X=146636&Y=509410&zoom=6
+Buseno;6542;GR;&X=125961&Y=728626&zoom=6
+Bussigny;1030;VD;&X=156150&Y=531933&zoom=6
+Bussigny-sur-Oron;1608;VD;&X=157762&Y=555862&zoom=6
+Bussnang;9565;TG;&X=268660&Y=723699&zoom=6
+Busswil BE;3292;BE;&X=216628&Y=591179&zoom=6
+Busswil TG;8371;TG;&X=256739&Y=718979&zoom=6
+Busswil b. Melchnau;4917;BE;&X=226199&Y=629509&zoom=6
+Bussy FR;1541;FR;&X=187228&Y=558090&zoom=6
+Bussy-Chardonney;1136;VD;&X=153580&Y=523585&zoom=6
+Bussy-sur-Moudon;1514;VD;&X=170806&Y=551996&zoom=6
+Buttes;2115;NE;&X=193541&Y=532434&zoom=6
+Buttikon SZ;8863;SZ;&X=225694&Y=714662&zoom=6
+Buttisholz;6018;LU;&X=218371&Y=649259&zoom=6
+Buttwil;5632;AG;&X=235661&Y=665689&zoom=6
+Buus;4463;BL;&X=261664&Y=632399&zoom=6
+Bäch SZ;8806;SZ;&X=228916&Y=698042&zoom=6
+Bächli (Hemberg);9633;SG;&X=240818&Y=732918&zoom=6
+Bänk (Dägerlen);8471;ZH;&X=267305&Y=698031&zoom=6
+Bärau;3552;BE;&X=198056&Y=628360&zoom=6
+Bäretswil;8344;ZH;&X=243931&Y=707099&zoom=6
+Bäriswil BE;3323;BE;&X=207387&Y=607230&zoom=6
+Bärschwil;4252;SO;&X=247611&Y=602753&zoom=6
+Bätterkinden;3315;BE;&X=220117&Y=607090&zoom=6
+Bätterkinden;3315;BE;&X=221205&Y=607408&zoom=6
+Bättwil;4112;SO;&X=260131&Y=605376&zoom=6
+Bévilard;2735;BE;&X=231647&Y=588575&zoom=6
+Bôle;2014;NE;&X=201852&Y=554449&zoom=6
+Böbikon;5334;AG;&X=267491&Y=667509&zoom=6
+Böckten;4461;BL;&X=257254&Y=629707&zoom=6
+Bönigen b. Interlaken;3806;BE;&X=170416&Y=635333&zoom=6
+Bösingen;3178;FR;&X=193698&Y=583977&zoom=6
+Böttstein;5315;AG;&X=267430&Y=658732&zoom=6
+Bözberg;5225;AG;&X=260769&Y=653712&zoom=6
+Bözen;5076;AG;&X=260738&Y=648941&zoom=6
+Büchslen;3215;FR;&X=199457&Y=580435&zoom=6
+Büetigen;3263;BE;&X=217290&Y=592604&zoom=6
+Bühl b. Aarberg;3274;BE;&X=213215&Y=585410&zoom=6
+Bühler;9055;AR;&X=249095&Y=749662&zoom=6
+Bülach;8180;ZH;&X=263741&Y=683736&zoom=6
+Bünzen;5624;AG;&X=240227&Y=667146&zoom=6
+Bürchen;3935;VS;&X=125535&Y=628847&zoom=6
+Büren NW;6382;NW;&X=199161&Y=673377&zoom=6
+Büren SO;4413;SO;&X=255162&Y=617495&zoom=6
+Büren an der Aare;3294;BE;&X=220671&Y=594892&zoom=6
+Büren zum Hof;3313;BE;&X=216089&Y=605702&zoom=6
+Bürgenstock;6363;NW;&X=205437&Y=671548&zoom=6
+Bürglen OW;6078;OW;&X=184779&Y=655417&zoom=6
+Bürglen TG;8575;TG;&X=268340&Y=729361&zoom=6
+Bürglen UR;6463;UR;&X=192080&Y=693765&zoom=6
+Büriswilen;9442;AI;&X=256044&Y=763470&zoom=6
+Büron;6233;LU;&X=229517&Y=649414&zoom=6
+Büsserach;4227;SO;&X=248791&Y=608165&zoom=6
+Bütschwil;9606;SG;&X=246627&Y=723123&zoom=6
+Büttenhardt;8236;SH;&X=290200&Y=691054&zoom=6
+Büttikon AG;5619;AG;&X=242298&Y=662802&zoom=6
+Bützberg;4922;BE;&X=229571&Y=623171&zoom=6
+Cabbio;6838;TI;&X=84204&Y=724809&zoom=6
+Cademario;6936;TI;&X=97839&Y=712571&zoom=6
+Cadempino;6814;TI;&X=99280&Y=715774&zoom=6
+Cadenazzo;6593;TI;&X=111976&Y=716529&zoom=6
+Cadro;6965;TI;&X=100427&Y=720072&zoom=6
+Cagiallo;6955;TI;&X=106100&Y=720414&zoom=6
+Cagiallo;6955;TI;&X=102827&Y=718797&zoom=6
+Cagiallo;6955;TI;&X=109135&Y=721725&zoom=6
+Calfreisen;7027;GR;&X=190182&Y=764375&zoom=6
+Calonico;6746;TI;&X=145340&Y=707754&zoom=6
+Calpiogna;6760;TI;&X=149317&Y=704940&zoom=6
+Cama;6557;GR;&X=126000&Y=733701&zoom=6
+Camedo;6659;TI;&X=112257&Y=690374&zoom=6
+Camignolo;6803;TI;&X=107151&Y=716182&zoom=6
+Camischolas;7187;GR;&X=170980&Y=701178&zoom=6
+Camorino;6528;TI;&X=113771&Y=720686&zoom=6
+Campascio;7748;GR;&X=125092&Y=807519&zoom=6
+Campello;6760;TI;&X=149331&Y=705956&zoom=6
+Camperio;6718;TI;&X=153638&Y=712642&zoom=6
+Campo (Blenio);6720;TI;&X=157143&Y=714862&zoom=6
+Campo (Vallemaggia);6684;TI;&X=126950&Y=681519&zoom=6
+Campocologno;7744;GR;&X=123800&Y=808494&zoom=6
+Campora;6875;TI;&X=81493&Y=723145&zoom=6
+Campsut-Cröt;7446;GR;&X=149887&Y=756778&zoom=6
+Camuns;7113;GR;&X=173994&Y=734489&zoom=6
+Caneggio;6837;TI;&X=81366&Y=723707&zoom=6
+Canobbio;6952;TI;&X=99453&Y=718388&zoom=6
+Capolago;6825;TI;&X=84799&Y=719667&zoom=6
+Capolago;6825;TI;&X=87500&Y=722548&zoom=6
+Carabbia;6913;TI;&X=92326&Y=716074&zoom=6
+Carabietta;6919;TI;&X=91746&Y=713390&zoom=6
+Carena;6584;TI;&X=114341&Y=727183&zoom=6
+Carona;6914;TI;&X=90258&Y=715866&zoom=6
+Carouge GE;1227;GE;&X=115667&Y=499699&zoom=6
+Carrera;7122;GR;&X=183677&Y=741835&zoom=6
+Carrouge VD;1084;VD;&X=161718&Y=549173&zoom=6
+Cartigny;1236;GE;&X=114589&Y=490229&zoom=6
+Carì;6760;TI;&X=150142&Y=706161&zoom=6
+Casaccia;7602;GR;&X=139896&Y=771278&zoom=6
+Casima;6875;TI;&X=83375&Y=724079&zoom=6
+Caslano;6987;TI;&X=91883&Y=711687&zoom=6
+Cassina d'Agno;6990;TI;&X=94374&Y=712577&zoom=6
+Castagnola;6976;TI;&X=95532&Y=719278&zoom=6
+Castaneda;6540;GR;&X=124124&Y=730946&zoom=6
+Castasegna;7608;GR;&X=133676&Y=760119&zoom=6
+Castel San Pietro;6874;TI;&X=79896&Y=722033&zoom=6
+Castelrotto;6980;TI;&X=94448&Y=708321&zoom=6
+Castiel;7027;GR;&X=189700&Y=765232&zoom=6
+Castione;6532;TI;&X=120688&Y=723987&zoom=6
+Castrisch;7126;GR;&X=182219&Y=736912&zoom=6
+Castro;6723;TI;&X=147734&Y=714270&zoom=6
+Cauco;6546;GR;&X=132924&Y=729266&zoom=6
+Caux;1824;VD;&X=142497&Y=561566&zoom=6
+Cavagnago;6749;TI;&X=141259&Y=710916&zoom=6
+Cavardiras;7182;GR;&X=174141&Y=710566&zoom=6
+Cavergno;6690;TI;&X=133257&Y=689956&zoom=6
+Caviano;6578;TI;&X=107026&Y=702725&zoom=6
+Cavigliano;6654;TI;&X=115637&Y=698859&zoom=6
+Cazis;7408;GR;&X=176453&Y=752454&zoom=6
+Celerina/Schlarigna;7505;GR;&X=154093&Y=786006&zoom=6
+Cerentino;6683;TI;&X=128853&Y=685435&zoom=6
+Cerniat FR;1654;FR;&X=164638&Y=578416&zoom=6
+Cerniaz VD;1682;VD;&X=175256&Y=558519&zoom=6
+Cernier;2053;NE;&X=212409&Y=559428&zoom=6
+Certara;6959;TI;&X=104931&Y=725371&zoom=6
+Cevio;6675;TI;&X=130115&Y=689586&zoom=6
+Chabrey;1589;VD;&X=197427&Y=565179&zoom=6
+Chailly-Montreux;1816;VD;&X=144934&Y=558001&zoom=6
+Chalais;3966;VS;&X=123758&Y=605088&zoom=6
+Cham;6330;ZG;&X=226483&Y=676802&zoom=6
+Chamblon;1436;VD;&X=181157&Y=536456&zoom=6
+Chambrelien;2019;NE;&X=202543&Y=552603&zoom=6
+Chamby;1832;VD;&X=144844&Y=559623&zoom=6
+Chambésy;1292;GE;&X=121985&Y=499821&zoom=6
+Chamoille (Sembrancher);1933;VS;&X=101089&Y=577860&zoom=6
+Chamoson;1955;VS;&X=116835&Y=583647&zoom=6
+Champ-du-Moulin;2149;NE;&X=201194&Y=549460&zoom=6
+Champagne;1424;VD;&X=186891&Y=540453&zoom=6
+Champex-Lac;1938;VS;&X=97287&Y=575260&zoom=6
+Champfèr;7512;GR;&X=150009&Y=782269&zoom=6
+Champlan (Grimisuat);1971;VS;&X=121617&Y=594871&zoom=6
+Champoussin;1873;VS;&X=117702&Y=555665&zoom=6
+Champoz;2735;BE;&X=233887&Y=589152&zoom=6
+Champsec;1947;VS;&X=100527&Y=584817&zoom=6
+Champtauroz;1537;VD;&X=178987&Y=550278&zoom=6
+Champvent;1443;VD;&X=181731&Y=534064&zoom=6
+Champzabé;3976;VS;&X=125278&Y=604578&zoom=6
+Champéry;1874;VS;&X=114250&Y=556109&zoom=6
+Chancy;1284;GE;&X=111974&Y=486640&zoom=6
+Chandolin;3961;VS;&X=122500&Y=612078&zoom=6
+Chandolin (Savièse);1965;VS;&X=121928&Y=590762&zoom=6
+Chandon;1773;FR;&X=187620&Y=570211&zoom=6
+Chandonne (Liddes);1945;VS;&X=94884&Y=579943&zoom=6
+Chanéaz;1409;VD;&X=175620&Y=546807&zoom=6
+Chapelle (Broye);1534;FR;&X=180045&Y=555159&zoom=6
+Chapelle (Glâne);1608;FR;&X=159796&Y=553683&zoom=6
+Chapelle-sur-Moudon;1063;VD;&X=168984&Y=546144&zoom=6
+Chardonne;1803;VD;&X=147463&Y=553027&zoom=6
+Charmey (Gruyère);1637;FR;&X=163130&Y=578871&zoom=6
+Charmoille;2947;JU;&X=252385&Y=582573&zoom=6
+Charrat;1906;VS;&X=108046&Y=576127&zoom=6
+Chaumont;2067;NE;&X=208708&Y=563350&zoom=6
+Chavannes-de-Bogis;1279;VD;&X=133354&Y=501745&zoom=6
+Chavannes-des-Bois;1290;VD;&X=130234&Y=499495&zoom=6
+Chavannes-le-Chêne;1464;VD;&X=180845&Y=549479&zoom=6
+Chavannes-le-Veyron;1148;VD;&X=162105&Y=524360&zoom=6
+Chavannes-les-Forts;1676;FR;&X=166867&Y=558591&zoom=6
+Chavannes-près-Renens;1022;VD;&X=154203&Y=533851&zoom=6
+Chavannes-sous-Orsonnens;1694;FR;&X=175282&Y=565858&zoom=6
+Chavannes-sur-Moudon;1512;VD;&X=167514&Y=551757&zoom=6
+Chavornay;1373;VD;&X=172615&Y=533609&zoom=6
+Cheiry;1529;FR;&X=177750&Y=553767&zoom=6
+Chemin;1927;VS;&X=104304&Y=573594&zoom=6
+Chenaux;1091;VD;&X=149519&Y=545502&zoom=6
+Chermignon;3971;VS;&X=126230&Y=602556&zoom=6
+Chermignon-d'en-Bas;3971;VS;&X=125546&Y=603380&zoom=6
+Chernex;1822;VD;&X=143607&Y=559654&zoom=6
+Chesalles-sur-Moudon;1683;VD;&X=169507&Y=553654&zoom=6
+Chesalles-sur-Oron;1608;VD;&X=158545&Y=555152&zoom=6
+Cheseaux-Noréaz;1400;VD;&X=181607&Y=541829&zoom=6
+Cheseaux-sur-Lausanne;1033;VD;&X=159629&Y=536110&zoom=6
+Chesières;1885;VD;&X=127837&Y=569557&zoom=6
+Chessel;1846;VD;&X=133279&Y=558095&zoom=6
+Chevenez;2906;JU;&X=249085&Y=566980&zoom=6
+Chevilly;1316;VD;&X=166130&Y=526373&zoom=6
+Chevroux;1545;VD;&X=193076&Y=559500&zoom=6
+Chexbres;1071;VD;&X=148096&Y=549233&zoom=6
+Cheyres;1468;FR;&X=184995&Y=550278&zoom=6
+Chez Petit (Liddes);1945;VS;&X=92914&Y=579741&zoom=6
+Chez-le-Bart;2025;NE;&X=194665&Y=550259&zoom=6
+Chiasso;6830;TI;&X=76987&Y=723409&zoom=6
+Chiggiogna;6764;TI;&X=144673&Y=707096&zoom=6
+Chiggiogna;6764;TI;&X=147187&Y=706279&zoom=6
+Chigny;1134;VD;&X=152540&Y=526212&zoom=6
+Chippis;3965;VS;&X=125466&Y=607831&zoom=6
+Chironico;6747;TI;&X=142273&Y=708016&zoom=6
+Choulex;1244;GE;&X=120355&Y=506493&zoom=6
+Choëx;1871;VS;&X=121462&Y=563160&zoom=6
+Chur;7000;GR;&X=190691&Y=759706&zoom=6
+Churwalden;7075;GR;&X=182988&Y=760298&zoom=6
+Châbles FR;1474;FR;&X=186310&Y=551991&zoom=6
+Château-d'Oex;1660;VD;&X=146872&Y=576252&zoom=6
+Châtel-St-Denis;1618;FR;&X=153197&Y=558756&zoom=6
+Châtel-sur-Montsalvens;1653;FR;&X=162531&Y=576083&zoom=6
+Châtelaine;1219;GE;&X=118715&Y=497509&zoom=6
+Châtelat;2715;BE;&X=235713&Y=581521&zoom=6
+Châtillens;1610;VD;&X=157588&Y=552336&zoom=6
+Châtillon FR;1473;FR;&X=187064&Y=553389&zoom=6
+Châtillon JU;2843;JU;&X=241729&Y=592910&zoom=6
+Châtonnaye;1553;FR;&X=178224&Y=561769&zoom=6
+Chénens;1744;FR;&X=176591&Y=566665&zoom=6
+Chéserex;1275;VD;&X=139602&Y=502827&zoom=6
+Chésopelloz;1720;FR;&X=184060&Y=572490&zoom=6
+Chézard-St-Martin;2054;NE;&X=212953&Y=561605&zoom=6
+Chêne-Bougeries;1224;GE;&X=117024&Y=503509&zoom=6
+Chêne-Bougeries;1224;GE;&X=118165&Y=504909&zoom=6
+Chêne-Bourg;1225;GE;&X=116573&Y=503757&zoom=6
+Chêne-Pâquier;1464;VD;&X=180236&Y=548838&zoom=6
+Cimadera;6959;TI;&X=104161&Y=724372&zoom=6
+Cimalmotto;6684;TI;&X=126314&Y=680954&zoom=6
+Cimo;6992;TI;&X=95547&Y=712419&zoom=6
+Cinuos-chel;7526;GR;&X=168926&Y=797654&zoom=6
+Clarens;1815;VD;&X=143556&Y=558030&zoom=6
+Clarmont;1127;VD;&X=155586&Y=524197&zoom=6
+Claro;6702;TI;&X=124024&Y=722138&zoom=6
+Clavaleyres;1595;BE;&X=194320&Y=573530&zoom=6
+Clugin;7442;GR;&X=164709&Y=752163&zoom=6
+Clèbes (Nendaz);1993;VS;&X=114919&Y=592018&zoom=6
+Coeuve;2932;JU;&X=256028&Y=574178&zoom=6
+Coffrane;2207;NE;&X=206738&Y=556198&zoom=6
+Coglio;6678;TI;&X=124943&Y=696015&zoom=6
+Coinsins;1267;VD;&X=142068&Y=507813&zoom=6
+Cointrin;1216;GE;&X=120066&Y=497499&zoom=6
+Coldrerio;6877;TI;&X=79171&Y=720184&zoom=6
+Colla;6951;TI;&X=105886&Y=724918&zoom=6
+Collex;1239;GE;&X=125219&Y=498413&zoom=6
+Collombey;1868;VS;&X=124182&Y=562048&zoom=6
+Collonge-Bellerive;1245;GE;&X=123222&Y=504798&zoom=6
+Collonges;1903;VS;&X=113431&Y=568744&zoom=6
+Cologny;1223;GE;&X=119091&Y=502971&zoom=6
+Colombier NE;2013;NE;&X=201858&Y=556118&zoom=6
+Colombier VD;1114;VD;&X=156596&Y=526146&zoom=6
+Comano;6949;TI;&X=99905&Y=717558&zoom=6
+Combremont-le-Grand;1535;VD;&X=179160&Y=552604&zoom=6
+Combremont-le-Petit;1536;VD;&X=177778&Y=551903&zoom=6
+Commugny;1291;VD;&X=130642&Y=503094&zoom=6
+Comologno;6663;TI;&X=117527&Y=687809&zoom=6
+Conches;1231;GE;&X=115554&Y=502559&zoom=6
+Concise;1426;VD;&X=189004&Y=545205&zoom=6
+Condémines (Nendaz);1996;VS;&X=113797&Y=585847&zoom=6
+Confignon;1232;GE;&X=114516&Y=495427&zoom=6
+Constantine;1587;VD;&X=196501&Y=567510&zoom=6
+Conters im Prättigau;7241;GR;&X=197224&Y=779561&zoom=6
+Conthey;1964;VS;&X=119554&Y=589680&zoom=6
+Contone;6594;TI;&X=111962&Y=714899&zoom=6
+Contra;6646;TI;&X=116177&Y=708152&zoom=6
+Coppet;1296;VD;&X=130149&Y=504064&zoom=6
+Corban;2826;JU;&X=244139&Y=602978&zoom=6
+Corbeyrier;1856;VD;&X=133318&Y=563346&zoom=6
+Corbières;1647;FR;&X=167849&Y=574167&zoom=6
+Corcelles BE;2747;BE;&X=237119&Y=601652&zoom=6
+Corcelles NE;2035;NE;&X=203991&Y=557264&zoom=6
+Corcelles-le-Jorat;1082;VD;&X=161929&Y=546592&zoom=6
+Corcelles-près-Concise;1426;VD;&X=188701&Y=544235&zoom=6
+Corcelles-près-Payerne;1562;VD;&X=186833&Y=563575&zoom=6
+Corcelles-sur-Chavornay;1374;VD;&X=172848&Y=535869&zoom=6
+Cordast;1792;FR;&X=191226&Y=578238&zoom=6
+Corgémont;2606;BE;&X=227076&Y=577433&zoom=6
+Corin-de-la-Crête;3960;VS;&X=125903&Y=604947&zoom=6
+Corippo;6631;TI;&X=121448&Y=708166&zoom=6
+Corjolens;1754;FR;&X=181683&Y=569983&zoom=6
+Cormagens;1782;FR;&X=187074&Y=576842&zoom=6
+Corminboeuf;1720;FR;&X=184181&Y=574330&zoom=6
+Cormondrèche;2036;NE;&X=203439&Y=556717&zoom=6
+Cormoret;2612;BE;&X=224731&Y=570847&zoom=6
+Cormérod;1721;FR;&X=190558&Y=573307&zoom=6
+Cornaux NE;2087;NE;&X=209741&Y=568258&zoom=6
+Cornol;2952;JU;&X=250601&Y=579258&zoom=6
+Corpataux-Magnedens;1727;FR;&X=177060&Y=573961&zoom=6
+Correvon;1410;VD;&X=174094&Y=546371&zoom=6
+Corseaux;1802;VD;&X=146956&Y=553470&zoom=6
+Corserey;1747;FR;&X=180360&Y=565957&zoom=6
+Corsier GE;1246;GE;&X=124175&Y=506523&zoom=6
+Corsier-sur-Vevey;1804;VD;&X=146716&Y=554151&zoom=6
+Cortaillod;2016;NE;&X=199264&Y=554904&zoom=6
+Corteglia;6873;TI;&X=80068&Y=720778&zoom=6
+Corticiasca;6958;TI;&X=104341&Y=721833&zoom=6
+Corticiasca;6958;TI;&X=105172&Y=722032&zoom=6
+Cortébert;2607;BE;&X=226791&Y=574842&zoom=6
+Corzoneso;6722;TI;&X=144957&Y=714917&zoom=6
+Cossonay-Ville;1304;VD;&X=162973&Y=528822&zoom=6
+Cottens FR;1741;FR;&X=177796&Y=569006&zoom=6
+Cottens VD;1116;VD;&X=158398&Y=524553&zoom=6
+Cotterd;1585;VD;&X=196806&Y=568553&zoom=6
+Courcelon;2823;JU;&X=245677&Y=596831&zoom=6
+Courchapoix;2825;JU;&X=244054&Y=600967&zoom=6
+Courchavon;2922;JU;&X=254530&Y=571056&zoom=6
+Courfaivre;2853;JU;&X=242423&Y=587730&zoom=6
+Courgenay;2950;JU;&X=250299&Y=576418&zoom=6
+Courgevaux;1796;FR;&X=195188&Y=575117&zoom=6
+Courlevon;1795;FR;&X=193396&Y=575036&zoom=6
+Cournillens;1721;FR;&X=189636&Y=574315&zoom=6
+Courrendlin;2830;JU;&X=243057&Y=595514&zoom=6
+Courroux;2822;JU;&X=246036&Y=595224&zoom=6
+Court;2738;BE;&X=232121&Y=591942&zoom=6
+Courtaman;1791;FR;&X=191122&Y=576500&zoom=6
+Courtedoux;2905;JU;&X=250952&Y=570105&zoom=6
+Courtelary;2608;BE;&X=225537&Y=571999&zoom=6
+Courtemautruy;2950;JU;&X=249479&Y=577358&zoom=6
+Courtemaîche;2923;JU;&X=256509&Y=570363&zoom=6
+Courtepin;1784;FR;&X=190333&Y=576168&zoom=6
+Courtion;1721;FR;&X=189696&Y=571838&zoom=6
+Courtételle;2852;JU;&X=242933&Y=591288&zoom=6
+Cousset;1774;FR;&X=186283&Y=564342&zoom=6
+Cousset;1774;FR;&X=185421&Y=564662&zoom=6
+Couvet;2108;NE;&X=197417&Y=538608&zoom=6
+Cozzo;6951;TI;&X=106373&Y=725534&zoom=6
+Crana;6611;TI;&X=117579&Y=690529&zoom=6
+Crans-Montana;3963;VS;&X=129037&Y=603316&zoom=6
+Crans-près-Céligny;1299;VD;&X=134581&Y=505157&zoom=6
+Crassier;1263;VD;&X=136676&Y=501913&zoom=6
+Cremin;1526;VD;&X=174945&Y=554427&zoom=6
+Cresciano;6705;TI;&X=126689&Y=720682&zoom=6
+Cressier FR;1785;FR;&X=194162&Y=577261&zoom=6
+Cressier NE;2088;NE;&X=211185&Y=569383&zoom=6
+Cresta (Avers);7447;GR;&X=148978&Y=759371&zoom=6
+Cries (Vollèges);1941;VS;&X=104464&Y=579768&zoom=6
+Crissier;1023;VD;&X=156460&Y=534061&zoom=6
+Cronay;1406;VD;&X=178708&Y=543292&zoom=6
+Croy;1322;VD;&X=171908&Y=526426&zoom=6
+Crusch;7554;GR;&X=189609&Y=822906&zoom=6
+Crémines;2746;BE;&X=237199&Y=600235&zoom=6
+Crésuz;1653;FR;&X=163074&Y=577197&zoom=6
+Crête-à-l'Oeil (Les Agettes);1992;VS;&X=117839&Y=594816&zoom=6
+Cuarnens;1148;VD;&X=164270&Y=523393&zoom=6
+Cuarny;1404;VD;&X=180152&Y=542728&zoom=6
+Cudrefin;1588;VD;&X=200552&Y=568106&zoom=6
+Cugnasco;6516;TI;&X=114712&Y=714201&zoom=6
+Cugy FR;1482;FR;&X=185003&Y=558365&zoom=6
+Cugy VD;1053;VD;&X=159530&Y=538878&zoom=6
+Cully;1096;VD;&X=148848&Y=545545&zoom=6
+Cumbel;7142;GR;&X=176479&Y=734020&zoom=6
+Cumpadials;7176;GR;&X=175590&Y=713264&zoom=6
+Cunter;7452;GR;&X=164244&Y=765235&zoom=6
+Curaglia;7184;GR;&X=170133&Y=708657&zoom=6
+Cureggia;6963;TI;&X=97761&Y=719713&zoom=6
+Cureglia;6944;TI;&X=99387&Y=716512&zoom=6
+Curio;6986;TI;&X=95464&Y=710339&zoom=6
+Curtilles;1521;VD;&X=172556&Y=554799&zoom=6
+Curtina;6959;TI;&X=104598&Y=722606&zoom=6
+Céligny;1298;GE;&X=133966&Y=504279&zoom=6
+Céligny;1298;GE;&X=133711&Y=502588&zoom=6
+Dachsen;8447;ZH;&X=280012&Y=688664&zoom=6
+Dagmersellen;6252;LU;&X=229396&Y=641792&zoom=6
+Daillens;1306;VD;&X=163637&Y=531843&zoom=6
+Daillon;1976;VS;&X=122894&Y=589474&zoom=6
+Daiwil;6126;LU;&X=216246&Y=643664&zoom=6
+Dalin;7424;GR;&X=177852&Y=750364&zoom=6
+Dallenwil;6383;NW;&X=197717&Y=672130&zoom=6
+Dalpe;6774;TI;&X=147729&Y=702639&zoom=6
+Damphreux;2933;JU;&X=258508&Y=574655&zoom=6
+Damvant;2914;JU;&X=247002&Y=559098&zoom=6
+Dangio;6717;TI;&X=150363&Y=716277&zoom=6
+Danis;7163;GR;&X=179560&Y=723455&zoom=6
+Dardagny;1283;GE;&X=116954&Y=488585&zoom=6
+Dardin;7164;GR;&X=179770&Y=722740&zoom=6
+Davesco-Soragno;6964;TI;&X=99363&Y=719362&zoom=6
+Davos Clavadel;7272;GR;&X=182320&Y=781759&zoom=6
+Davos Dorf;7260;GR;&X=187017&Y=783247&zoom=6
+Davos Frauenkirch;7276;GR;&X=182162&Y=780094&zoom=6
+Davos Glaris;7277;GR;&X=179721&Y=778688&zoom=6
+Davos Monstein;7278;GR;&X=176028&Y=778548&zoom=6
+Davos Platz;7270;GR;&X=185283&Y=781230&zoom=6
+Davos Wiesen;7494;GR;&X=175253&Y=773957&zoom=6
+Davos Wolfgang;7265;GR;&X=189601&Y=784295&zoom=6
+Degen;7145;GR;&X=174200&Y=732239&zoom=6
+Degersheim;9113;SG;&X=247999&Y=732932&zoom=6
+Deisswil b. Münchenbuchsee;3053;BE;&X=209589&Y=601141&zoom=6
+Deitingen;4543;SO;&X=229510&Y=614235&zoom=6
+Delley;1567;FR;&X=195890&Y=564116&zoom=6
+Delémont;2800;JU;&X=245909&Y=591968&zoom=6
+Denens;1135;VD;&X=152439&Y=524658&zoom=6
+Denezy;1410;VD;&X=174492&Y=550007&zoom=6
+Denges;1026;VD;&X=152849&Y=530968&zoom=6
+Densbüren;5026;AG;&X=255968&Y=646472&zoom=6
+Derendingen;4552;SO;&X=227347&Y=611586&zoom=6
+Detligen;3036;BE;&X=205645&Y=587387&zoom=6
+Dettighofen;8505;TG;&X=275088&Y=713870&zoom=6
+Dettighofen (Lengwil);8574;TG;&X=275882&Y=732722&zoom=6
+Develier;2802;JU;&X=245219&Y=589405&zoom=6
+Dicken;9115;SG;&X=244337&Y=732461&zoom=6
+Diegten;4457;BL;&X=251594&Y=628243&zoom=6
+Dielsdorf;8157;ZH;&X=258874&Y=676073&zoom=6
+Diemerswil;3053;BE;&X=207560&Y=599186&zoom=6
+Diemtigen;3754;BE;&X=166447&Y=609411&zoom=6
+Diepflingen;4442;BL;&X=254925&Y=630003&zoom=6
+Diepoldsau;9444;SG;&X=250655&Y=767535&zoom=6
+Dierikon;6036;LU;&X=216682&Y=670848&zoom=6
+Diesbach GL;8777;GL;&X=201331&Y=721544&zoom=6
+Diessbach b. Büren;3264;BE;&X=217327&Y=594450&zoom=6
+Diesse;2517;BE;&X=217968&Y=575621&zoom=6
+Diessenhofen;8253;TG;&X=282195&Y=698662&zoom=6
+Dieterswil;3256;BE;&X=211576&Y=598966&zoom=6
+Dietfurt;9615;SG;&X=244087&Y=723260&zoom=6
+Dietikon;8953;ZH;&X=250205&Y=672866&zoom=6
+Dietlikon;8305;ZH;&X=253498&Y=688671&zoom=6
+Dietschwil;9533;SG;&X=253567&Y=719282&zoom=6
+Dietwil;6042;AG;&X=222376&Y=672566&zoom=6
+Dinhard;8474;ZH;&X=268445&Y=699835&zoom=6
+Dino;6967;TI;&X=101385&Y=719365&zoom=6
+Dintikon;5606;AG;&X=245967&Y=659542&zoom=6
+Diolly (Savièse);1965;VS;&X=120738&Y=592683&zoom=6
+Disentis/Mustér;7180;GR;&X=173420&Y=708544&zoom=6
+Dittingen;4243;BL;&X=254404&Y=604199&zoom=6
+Dizy;1304;VD;&X=165361&Y=527843&zoom=6
+Domat/Ems;7013;GR;&X=188757&Y=754381&zoom=6
+Dombresson;2056;NE;&X=213641&Y=563690&zoom=6
+Domdidier;1564;FR;&X=190491&Y=567726&zoom=6
+Dommartin;1041;VD;&X=166823&Y=543665&zoom=6
+Dompierre FR;1563;FR;&X=189200&Y=565676&zoom=6
+Dompierre VD;1682;VD;&X=173174&Y=557476&zoom=6
+Donat;7433;GR;&X=166078&Y=752584&zoom=6
+Donatyre;1580;VD;&X=191796&Y=570983&zoom=6
+Dongio;6715;TI;&X=144255&Y=716479&zoom=6
+Donneloye;1407;VD;&X=177352&Y=544790&zoom=6
+Donzhausen;8583;TG;&X=268625&Y=732465&zoom=6
+Doppleschwand;6112;LU;&X=207726&Y=646895&zoom=6
+Dorf;8458;ZH;&X=269775&Y=690640&zoom=6
+Dornach;4143;SO;&X=258391&Y=613940&zoom=6
+Dorénaz;1905;VS;&X=110905&Y=569344&zoom=6
+Dotnacht;8566;TG;&X=273313&Y=728082&zoom=6
+Dottikon;5605;AG;&X=248402&Y=660588&zoom=6
+Dotzigen;3293;BE;&X=218969&Y=592939&zoom=6
+Dozwil;8582;TG;&X=271253&Y=741792&zoom=6
+Dranse (Liddes);1945;VS;&X=93166&Y=579997&zoom=6
+Dreien;9612;SG;&X=248234&Y=719105&zoom=6
+Drône (Savièse);1965;VS;&X=123171&Y=594470&zoom=6
+Duggingen;4202;BL;&X=255898&Y=613156&zoom=6
+Dugny (Leytron);1912;VS;&X=115350&Y=580258&zoom=6
+Duillier;1266;VD;&X=140448&Y=507300&zoom=6
+Dulliken;4657;SO;&X=244237&Y=638357&zoom=6
+Dully;1195;VD;&X=142644&Y=512080&zoom=6
+Dussnang;8374;TG;&X=254558&Y=714702&zoom=6
+Duvin;7112;GR;&X=175307&Y=735524&zoom=6
+Dägerlen;8471;ZH;&X=268591&Y=696324&zoom=6
+Dällikon;8108;ZH;&X=255223&Y=675125&zoom=6
+Däniken SO;4658;SO;&X=244711&Y=640608&zoom=6
+Dänikon ZH;8114;ZH;&X=255686&Y=673316&zoom=6
+Därligen;3707;BE;&X=167624&Y=628138&zoom=6
+Därstetten;3763;BE;&X=167508&Y=604369&zoom=6
+Dättlikon;8421;ZH;&X=264846&Y=689062&zoom=6
+Dättwil AG;5405;AG;&X=255848&Y=664050&zoom=6
+Démoret;1415;VD;&X=177588&Y=547866&zoom=6
+Dörflingen;8239;SH;&X=284739&Y=696383&zoom=6
+Döttingen;5312;AG;&X=268475&Y=661882&zoom=6
+Dübendorf;8600;ZH;&X=249679&Y=688488&zoom=6
+Düdingen;3186;FR;&X=188352&Y=581086&zoom=6
+Dürnten;8635;ZH;&X=237390&Y=705924&zoom=6
+Dürrenroth;3465;BE;&X=215375&Y=627144&zoom=6
+Dürrenäsch;5724;AG;&X=241104&Y=654116&zoom=6
+Ebersecken;6245;LU;&X=225681&Y=637490&zoom=6
+Ebersol;9122;SG;&X=245641&Y=729430&zoom=6
+Ebertswil;8925;ZH;&X=231177&Y=684168&zoom=6
+Ebikon;6030;LU;&X=214924&Y=668465&zoom=6
+Ebmatingen;8123;ZH;&X=245401&Y=690930&zoom=6
+Ebnat-Kappel;9642;SG;&X=235797&Y=727187&zoom=6
+Ebnet;6163;LU;&X=208057&Y=648543&zoom=6
+Echallens;1040;VD;&X=165819&Y=538399&zoom=6
+Echandens;1026;VD;&X=153896&Y=531244&zoom=6
+Echarlens;1646;FR;&X=166357&Y=572208&zoom=6
+Echichens;1112;VD;&X=153179&Y=527877&zoom=6
+Eclagnens;1376;VD;&X=167045&Y=535146&zoom=6
+Eclépens;1312;VD;&X=167211&Y=530117&zoom=6
+Ecoteaux;1612;VD;&X=155101&Y=555796&zoom=6
+Ecublens FR;1673;FR;&X=162120&Y=551723&zoom=6
+Ecublens VD;1024;VD;&X=153135&Y=532740&zoom=6
+Ecuvillens;1730;FR;&X=178605&Y=573125&zoom=6
+Ederswiler;2813;JU;&X=252882&Y=592224&zoom=6
+Edlibach;6313;ZG;&X=226041&Y=685869&zoom=6
+Effingen;5078;AG;&X=260017&Y=649950&zoom=6
+Effretikon;8307;ZH;&X=252944&Y=694825&zoom=6
+Egerkingen;4622;SO;&X=241764&Y=627037&zoom=6
+Egg (Flawil);9231;SG;&X=250543&Y=734778&zoom=6
+Egg SZ;8847;SZ;&X=224241&Y=701756&zoom=6
+Egg b. Zürich;8132;ZH;&X=239620&Y=694746&zoom=6
+Eggenwil;5445;AG;&X=246648&Y=668020&zoom=6
+Eggerberg;3939;VS;&X=128625&Y=633998&zoom=6
+Eggersriet;9034;SG;&X=256788&Y=752886&zoom=6
+Eggiwil;3537;BE;&X=191639&Y=627500&zoom=6
+Eglisau;8193;ZH;&X=269953&Y=681815&zoom=6
+Egliswil;5704;AG;&X=244589&Y=656443&zoom=6
+Egnach;9322;TG;&X=268188&Y=746368&zoom=6
+Egolzwil;6243;LU;&X=226091&Y=642748&zoom=6
+Ehrendingen;5420;AG;&X=261088&Y=668481&zoom=6
+Ehrikon;8489;ZH;&X=252918&Y=703408&zoom=6
+Eich;6205;LU;&X=222745&Y=655528&zoom=6
+Eichberg;9453;SG;&X=245902&Y=757986&zoom=6
+Eigenthal;6013;LU;&X=206640&Y=659014&zoom=6
+Eigergletscher;3823;BE;&X=158324&Y=641027&zoom=6
+Eiken;5074;AG;&X=265211&Y=641383&zoom=6
+Einigen;3646;BE;&X=173157&Y=615858&zoom=6
+Einsiedeln;8840;SZ;&X=220540&Y=699480&zoom=6
+Eischoll;3943;VS;&X=127115&Y=626408&zoom=6
+Eison (St-Martin);1969;VS;&X=111115&Y=602478&zoom=6
+Eisten;3922;VS;&X=116515&Y=635101&zoom=6
+Elfingen;5077;AG;&X=262091&Y=650047&zoom=6
+Elgg;8353;ZH;&X=261453&Y=707335&zoom=6
+Ellighausen;8566;TG;&X=274970&Y=727867&zoom=6
+Ellikon am Rhein;8464;ZH;&X=273342&Y=687230&zoom=6
+Ellikon an der Thur;8548;ZH;&X=268845&Y=704363&zoom=6
+Elm;8767;GL;&X=197844&Y=732251&zoom=6
+Elsau;8352;ZH;&X=262351&Y=702955&zoom=6
+Embd;3926;VS;&X=118392&Y=630146&zoom=6
+Embrach;8424;ZH;&X=261806&Y=687140&zoom=6
+Emdthal;3711;BE;&X=167040&Y=618857&zoom=6
+Emmen;6032;LU;&X=214583&Y=665603&zoom=6
+Emmenbrücke;6020;LU;&X=214369&Y=663418&zoom=6
+Emmenmatt;3543;BE;&X=199707&Y=623523&zoom=6
+Emmetten;6376;NW;&X=201070&Y=682548&zoom=6
+Endingen;5304;AG;&X=265491&Y=664704&zoom=6
+Engelberg;6390;OW;&X=185459&Y=673650&zoom=6
+Engelburg;9032;SG;&X=256611&Y=743727&zoom=6
+Enges;2073;NE;&X=211803&Y=567610&zoom=6
+Enggistein;3077;BE;&X=197975&Y=612255&zoom=6
+Engi;8765;GL;&X=204712&Y=730296&zoom=6
+Engishofen;8586;TG;&X=268876&Y=736288&zoom=6
+Englisberg;3086;BE;&X=194088&Y=602268&zoom=6
+Engollon;2063;NE;&X=209794&Y=560686&zoom=6
+Engwang;8556;TG;&X=273444&Y=721462&zoom=6
+Engwilen;8564;TG;&X=275214&Y=724701&zoom=6
+Ennenda;8755;GL;&X=210877&Y=724815&zoom=6
+Ennetaach;8586;TG;&X=268256&Y=733680&zoom=6
+Ennetbaden;5408;AG;&X=259241&Y=666733&zoom=6
+Ennetbühl;9651;SG;&X=233908&Y=734350&zoom=6
+Ennetbürgen;6373;NW;&X=204562&Y=673968&zoom=6
+Ennetmoos;6372;NW;&X=201097&Y=667989&zoom=6
+Enney;1667;FR;&X=157283&Y=572778&zoom=6
+Entlebuch;6162;LU;&X=204763&Y=647625&zoom=6
+Epagny;1663;FR;&X=159711&Y=572935&zoom=6
+Epalinges;1066;VD;&X=155249&Y=541327&zoom=6
+Epautheyres;1417;VD;&X=176788&Y=539209&zoom=6
+Epauvillers;2885;JU;&X=242753&Y=575584&zoom=6
+Ependes FR;1731;FR;&X=178189&Y=577664&zoom=6
+Ependes VD;1434;VD;&X=177435&Y=536563&zoom=6
+Epesses;1098;VD;&X=149101&Y=546990&zoom=6
+Epiquerez;2886;JU;&X=242047&Y=571221&zoom=6
+Eppenberg;5012;SO;&X=247510&Y=644180&zoom=6
+Epsach;3272;BE;&X=213295&Y=583525&zoom=6
+Eptingen;4458;BL;&X=248435&Y=629079&zoom=6
+Erde;1976;VS;&X=120923&Y=588580&zoom=6
+Ergisch;3947;VS;&X=126655&Y=621148&zoom=6
+Eriswil;4952;BE;&X=214204&Y=631296&zoom=6
+Eriz;3619;BE;&X=181992&Y=625560&zoom=6
+Erlach;3235;BE;&X=210163&Y=573914&zoom=6
+Erlen;8586;TG;&X=268168&Y=735129&zoom=6
+Erlenbach ZH;8703;ZH;&X=239505&Y=687340&zoom=6
+Erlenbach im Simmental;3762;BE;&X=167755&Y=608683&zoom=6
+Erlinsbach;5018;AG;&X=250540&Y=643616&zoom=6
+Erlinsbach SO;5015;SO;&X=250137&Y=642418&zoom=6
+Ermatingen;8272;TG;&X=281205&Y=723302&zoom=6
+Ermensee;6294;LU;&X=231086&Y=660898&zoom=6
+Ermenswil;8734;SG;&X=233721&Y=709820&zoom=6
+Ernen;3995;VS;&X=138817&Y=654698&zoom=6
+Ernetschwil;8725;SG;&X=233118&Y=718383&zoom=6
+Erschmatt;3957;VS;&X=130241&Y=619506&zoom=6
+Erschwil;4228;SO;&X=246914&Y=607444&zoom=6
+Ersigen;3423;BE;&X=216074&Y=611694&zoom=6
+Erstfeld;6472;UR;&X=186159&Y=692778&zoom=6
+Eschen;9492;LI;&X=230755&Y=757709&zoom=6
+Eschenbach LU;6274;LU;&X=220575&Y=666888&zoom=6
+Eschenbach SG;8733;SG;&X=233595&Y=712339&zoom=6
+Eschenz;8264;TG;&X=278310&Y=707923&zoom=6
+Eschert;2743;BE;&X=236078&Y=596990&zoom=6
+Eschikofen;8553;TG;&X=271075&Y=717821&zoom=6
+Eschlikon TG;8360;TG;&X=258317&Y=714778&zoom=6
+Escholzmatt;6182;LU;&X=195923&Y=638262&zoom=6
+Esmonts;1670;FR;&X=165819&Y=554489&zoom=6
+Essert FR;1724;FR;&X=176353&Y=579048&zoom=6
+Essert-Pittet;1435;VD;&X=175533&Y=534660&zoom=6
+Essert-sous-Champvent;1443;VD;&X=182802&Y=534798&zoom=6
+Essertes;1078;VD;&X=157002&Y=550199&zoom=6
+Essertines-sur-Rolle;1186;VD;&X=149708&Y=513958&zoom=6
+Essertines-sur-Yverdon;1417;VD;&X=174441&Y=538786&zoom=6
+Esslingen;8133;ZH;&X=238274&Y=696145&zoom=6
+Estavannens;1665;FR;&X=157223&Y=574167&zoom=6
+Estavayer-le-Gibloux;1695;FR;&X=174614&Y=568390&zoom=6
+Estavayer-le-Lac;1470;FR;&X=188932&Y=554893&zoom=6
+Estévenens;1687;FR;&X=168556&Y=563104&zoom=6
+Etagnières;1037;VD;&X=161316&Y=536657&zoom=6
+Etoy;1163;VD;&X=148820&Y=521830&zoom=6
+Ettenhausen TG;8356;TG;&X=259411&Y=710129&zoom=6
+Ettingen;4107;BL;&X=258580&Y=608490&zoom=6
+Ettiswil;6218;LU;&X=222111&Y=643676&zoom=6
+Etzelkofen;3306;BE;&X=214830&Y=603190&zoom=6
+Etzgen;5275;AG;&X=269400&Y=650176&zoom=6
+Etziken;4554;SO;&X=226513&Y=615817&zoom=6
+Etzwilen;8259;TG;&X=279619&Y=703887&zoom=6
+Euseigne;1982;VS;&X=113221&Y=598583&zoom=6
+Euthal;8844;SZ;&X=217000&Y=704596&zoom=6
+Evilard;2533;BE;&X=222112&Y=584907&zoom=6
+Evionnaz;1902;VS;&X=114196&Y=567949&zoom=6
+Evolène;1983;VS;&X=106609&Y=604304&zoom=6
+Eyholz;3930;VS;&X=127074&Y=636405&zoom=6
+Eysins;1262;VD;&X=137185&Y=505069&zoom=6
+Fahrni b. Thun;3617;BE;&X=183012&Y=616773&zoom=6
+Fahrwangen;5615;AG;&X=238529&Y=660785&zoom=6
+Fahrweid;8951;ZH;&X=251369&Y=673988&zoom=6
+Fahy;2916;JU;&X=252013&Y=563066&zoom=6
+Faido;6760;TI;&X=148402&Y=704376&zoom=6
+Fajauna;7226;GR;&X=204669&Y=772220&zoom=6
+Falera;7153;GR;&X=185209&Y=736631&zoom=6
+Fanas;7215;GR;&X=206116&Y=769480&zoom=6
+Fankhaus (Trub);3557;BE;&X=202085&Y=635774&zoom=6
+Faoug;1595;VD;&X=195358&Y=572479&zoom=6
+Farden;7433;GR;&X=166609&Y=752054&zoom=6
+Farnern;4539;BE;&X=235129&Y=613558&zoom=6
+Farvagny;1726;FR;&X=174590&Y=571524&zoom=6
+Farvagny-le-Petit;1726;FR;&X=175319&Y=572027&zoom=6
+Faulensee;3705;BE;&X=169455&Y=619838&zoom=6
+Fehraltorf;8320;ZH;&X=249837&Y=699033&zoom=6
+Fehren;4232;SO;&X=249531&Y=610445&zoom=6
+Felben-Wellhausen;8552;TG;&X=270518&Y=713031&zoom=6
+Feldbach;8714;ZH;&X=232814&Y=702238&zoom=6
+Feldbrunnen;4532;SO;&X=230040&Y=608648&zoom=6
+Feldis/Veulden;7404;GR;&X=184316&Y=752226&zoom=6
+Felsberg;7012;GR;&X=190261&Y=754970&zoom=6
+Fenalet-sur-Bex;1880;VD;&X=124589&Y=568326&zoom=6
+Fenil-sur-Corsier;1809;VD;&X=148357&Y=556017&zoom=6
+Fenin;2063;NE;&X=208243&Y=560793&zoom=6
+Fenkrieden;5645;AG;&X=223400&Y=670682&zoom=6
+Ferden;3916;VS;&X=138245&Y=624404&zoom=6
+Ferenbalm;3206;BE;&X=199720&Y=582704&zoom=6
+Ferlens VD;1076;VD;&X=159953&Y=549959&zoom=6
+Ferpicloz;1724;FR;&X=177449&Y=579056&zoom=6
+Ferreyres;1313;VD;&X=167904&Y=527046&zoom=6
+Fescoggia;6938;TI;&X=99794&Y=711353&zoom=6
+Feuerthalen;8245;ZH;&X=282950&Y=690270&zoom=6
+Feusisberg;8835;SZ;&X=227135&Y=699214&zoom=6
+Feutersoey;3784;BE;&X=140741&Y=587096&zoom=6
+Fex;7514;GR;&X=143212&Y=778704&zoom=6
+Fey;1044;VD;&X=169709&Y=542049&zoom=6
+Fey (Nendaz);1996;VS;&X=115251&Y=587131&zoom=6
+Fiaugères;1609;FR;&X=159586&Y=558045&zoom=6
+Fiaugères;1609;FR;&X=160426&Y=557277&zoom=6
+Fidaz;7019;GR;&X=189395&Y=742901&zoom=6
+Fideris;7235;GR;&X=198449&Y=775315&zoom=6
+Fiesch;3984;VS;&X=141119&Y=655624&zoom=6
+Fiesch;3984;VS;&X=139464&Y=653259&zoom=6
+Fieschertal;3984;VS;&X=141538&Y=654331&zoom=6
+Fiez;1420;VD;&X=186454&Y=537813&zoom=6
+Figino;6918;TI;&X=89948&Y=714110&zoom=6
+Filet;3983;VS;&X=134557&Y=647295&zoom=6
+Filisur;7477;GR;&X=171700&Y=772145&zoom=6
+Filzbach;8757;GL;&X=220479&Y=728447&zoom=6
+Finhaut;1925;VS;&X=103540&Y=564067&zoom=6
+Finsterhennen;2577;BE;&X=208363&Y=580215&zoom=6
+Finstersee;6313;ZG;&X=224643&Y=690621&zoom=6
+Finsterwald b. Entlebuch;6162;LU;&X=202703&Y=650507&zoom=6
+Fionnay;1948;VS;&X=97828&Y=590135&zoom=6
+Fischbach LU;6145;LU;&X=222898&Y=635583&zoom=6
+Fischbach-Göslikon;5525;AG;&X=246842&Y=665899&zoom=6
+Fischenthal;8497;ZH;&X=243346&Y=711913&zoom=6
+Fischingen;8376;TG;&X=252788&Y=715730&zoom=6
+Fisibach;5467;AG;&X=268456&Y=672825&zoom=6
+Fislisbach;5442;AG;&X=254603&Y=664740&zoom=6
+Flaach;8416;ZH;&X=269831&Y=687597&zoom=6
+Flamatt;3175;FR;&X=193169&Y=590096&zoom=6
+Flanthey;3978;VS;&X=124269&Y=601179&zoom=6
+Flawil;9230;SG;&X=252600&Y=732090&zoom=6
+Flendruz;1659;VD;&X=148050&Y=580330&zoom=6
+Flerden;7426;GR;&X=171017&Y=749768&zoom=6
+Flerden;7426;GR;&X=174336&Y=750429&zoom=6
+Fleurier;2114;NE;&X=194827&Y=534717&zoom=6
+Flims Dorf;7017;GR;&X=189316&Y=740902&zoom=6
+Flims Waldhaus;7018;GR;&X=187902&Y=740896&zoom=6
+Flond;7137;GR;&X=181045&Y=731555&zoom=6
+Flumenthal;4534;SO;&X=231633&Y=612335&zoom=6
+Flums;8890;SG;&X=217521&Y=744869&zoom=6
+Flums Hochwiese;8893;SG;&X=216566&Y=746932&zoom=6
+Flumserberg Bergheim;8896;SG;&X=217935&Y=742106&zoom=6
+Flumserberg Portels;8895;SG;&X=216143&Y=744026&zoom=6
+Flumserberg Saxli;8894;SG;&X=215548&Y=745427&zoom=6
+Flumserberg Tannenbodenalp;8898;SG;&X=217356&Y=740074&zoom=6
+Flumserberg Tannenheim;8897;SG;&X=216778&Y=741749&zoom=6
+Flurlingen;8247;ZH;&X=282182&Y=689292&zoom=6
+Fläsch;7306;GR;&X=210632&Y=757349&zoom=6
+Flüelen;6454;UR;&X=195606&Y=690664&zoom=6
+Flüeli-Ranft;6073;OW;&X=191534&Y=662910&zoom=6
+Flüh;4112;SO;&X=259196&Y=604522&zoom=6
+Flühli LU;6173;LU;&X=192281&Y=644292&zoom=6
+Font;1473;FR;&X=187224&Y=552256&zoom=6
+Fontaine Dessous (Liddes);1945;VS;&X=95416&Y=579036&zoom=6
+Fontaine Dessus (Liddes);1945;VS;&X=94943&Y=579502&zoom=6
+Fontainemelon;2052;NE;&X=211782&Y=558117&zoom=6
+Fontaines NE;2046;NE;&X=210437&Y=559141&zoom=6
+Fontaines-sur-Grandson;1421;VD;&X=187459&Y=537496&zoom=6
+Fontanezier;1423;VD;&X=189491&Y=540114&zoom=6
+Fontannen b. Wolhusen;6110;LU;&X=209594&Y=645673&zoom=6
+Fontenais;2902;JU;&X=250302&Y=573011&zoom=6
+Fontnas;9476;SG;&X=217547&Y=755633&zoom=6
+Forch;8127;ZH;&X=241959&Y=691516&zoom=6
+Forel (Lavaux);1072;VD;&X=154649&Y=548699&zoom=6
+Forel FR;1475;FR;&X=191751&Y=558032&zoom=6
+Forel-sur-Lucens;1526;VD;&X=175491&Y=552940&zoom=6
+Formangueires;1782;FR;&X=186305&Y=575481&zoom=6
+Fornet-Dessous;2717;BE;&X=236631&Y=579911&zoom=6
+Fornet-Dessus;2718;JU;&X=236505&Y=578842&zoom=6
+Fornex (Liddes);1945;VS;&X=95299&Y=578656&zoom=6
+Forst b. Längenbühl;3636;BE;&X=179138&Y=606397&zoom=6
+Fortunau (Ayent);1966;VS;&X=126163&Y=598201&zoom=6
+Founex;1297;VD;&X=132044&Y=504066&zoom=6
+Frasco;6636;TI;&X=133005&Y=704970&zoom=6
+Frasnacht;9320;TG;&X=265923&Y=748130&zoom=6
+Frasses;1483;FR;&X=186340&Y=556121&zoom=6
+Fraubrunnen;3312;BE;&X=214791&Y=605943&zoom=6
+Frauenfeld;8500;TG;&X=269392&Y=708891&zoom=6
+Frauenkappelen;3202;BE;&X=200513&Y=592313&zoom=6
+Fregiécourt;2953;JU;&X=251434&Y=581565&zoom=6
+Freidorf TG;9306;TG;&X=261360&Y=747323&zoom=6
+Freienbach;8807;SZ;&X=229109&Y=700149&zoom=6
+Freienstein;8427;ZH;&X=265290&Y=686760&zoom=6
+Freienwil;5423;AG;&X=261598&Y=666512&zoom=6
+Freimettigen;3510;BE;&X=190775&Y=614391&zoom=6
+Frenières-sur-Bex;1880;VD;&X=123408&Y=571687&zoom=6
+Frenkendorf;4402;BL;&X=261267&Y=620201&zoom=6
+Fresens;2027;NE;&X=193291&Y=547206&zoom=6
+Fretereules;2149;NE;&X=201436&Y=548809&zoom=6
+Freudwil;8615;ZH;&X=248043&Y=697647&zoom=6
+Fribourg;1700;FR;&X=183929&Y=578945&zoom=6
+Frick;5070;AG;&X=261615&Y=644284&zoom=6
+Frieswil;3035;BE;&X=204886&Y=588350&zoom=6
+Friltschen;9504;TG;&X=266607&Y=724085&zoom=6
+Frinvillier;2535;BE;&X=224301&Y=586261&zoom=6
+Froideville;1055;VD;&X=161449&Y=541930&zoom=6
+Fruthwilen;8269;TG;&X=280021&Y=722156&zoom=6
+Frutigen;3714;BE;&X=159598&Y=615416&zoom=6
+Fräschels;3284;FR;&X=204952&Y=582695&zoom=6
+Frümsen;9467;SG;&X=234501&Y=753955&zoom=6
+Ftan;7551;GR;&X=186606&Y=814294&zoom=6
+Fuldera;7533;GR;&X=166130&Y=824630&zoom=6
+Fulenbach;4629;SO;&X=236337&Y=629714&zoom=6
+Full-Reuenthal;5324;AG;&X=273399&Y=657457&zoom=6
+Fully;1926;VS;&X=109689&Y=574890&zoom=6
+Furna;7232;GR;&X=200860&Y=770295&zoom=6
+Fusio;6696;TI;&X=144490&Y=693855&zoom=6
+Fällanden;8117;ZH;&X=247562&Y=691163&zoom=6
+Féchy;1173;VD;&X=148321&Y=517932&zoom=6
+Fétigny;1532;FR;&X=183015&Y=560060&zoom=6
+Füllinsdorf;4414;BL;&X=262334&Y=621836&zoom=6
+Fürigen;6363;NW;&X=203829&Y=669478&zoom=6
+Fürstenau;7414;GR;&X=176461&Y=753651&zoom=6
+Fürstenaubruck;7413;GR;&X=175666&Y=753832&zoom=6
+Gabi (Simplon);3907;VS;&X=114894&Y=648985&zoom=6
+Gachnang;8547;TG;&X=266341&Y=706904&zoom=6
+Gadenstätt;7244;GR;&X=201953&Y=779228&zoom=6
+Gadmen;3863;BE;&X=176756&Y=669573&zoom=6
+Gais;9056;AR;&X=247672&Y=752308&zoom=6
+Galgenen;8854;SZ;&X=226690&Y=708524&zoom=6
+Galmiz;3285;FR;&X=199914&Y=578625&zoom=6
+Gals;3238;BE;&X=208608&Y=570430&zoom=6
+Gammen;3206;BE;&X=196616&Y=583984&zoom=6
+Gampel;3945;VS;&X=129148&Y=623055&zoom=6
+Gampelen;3236;BE;&X=207130&Y=571152&zoom=6
+Gamprin-Bendern;9487;LI;&X=231613&Y=756574&zoom=6
+Gams;9473;SG;&X=230025&Y=751650&zoom=6
+Gamsen;3900;VS;&X=128188&Y=639762&zoom=6
+Gandria;6978;TI;&X=96146&Y=721093&zoom=6
+Gansingen;5272;AG;&X=266032&Y=652804&zoom=6
+Ganterschwil;9608;SG;&X=248813&Y=724693&zoom=6
+Gasel;3144;BE;&X=194419&Y=597112&zoom=6
+Gattikon;8136;ZH;&X=237677&Y=684119&zoom=6
+Gebenstorf;5412;AG;&X=258814&Y=660631&zoom=6
+Gebertingen;8725;SG;&X=234910&Y=718389&zoom=6
+Geiss;6123;LU;&X=215653&Y=646876&zoom=6
+Gelfingen;6284;LU;&X=229632&Y=663093&zoom=6
+Gelterfingen;3126;BE;&X=188153&Y=605874&zoom=6
+Gelterkinden;4460;BL;&X=256561&Y=631479&zoom=6
+Geltwil;5637;AG;&X=233501&Y=667174&zoom=6
+Gempen;4145;SO;&X=258368&Y=616360&zoom=6
+Gempenach;3215;FR;&X=198878&Y=581646&zoom=6
+Genestrerio;6852;TI;&X=79202&Y=718387&zoom=6
+Genolier;1272;VD;&X=143321&Y=506182&zoom=6
+Genthod;1294;GE;&X=124513&Y=501235&zoom=6
+Gentilino;6925;TI;&X=94424&Y=715622&zoom=6
+Genève;1201;GE;&X=118469&Y=500292&zoom=6
+Genève;1202;GE;&X=117437&Y=500431&zoom=6
+Genève;1203;GE;&X=118311&Y=498513&zoom=6
+Genève;1204;GE;&X=117599&Y=500150&zoom=6
+Genève;1205;GE;&X=116802&Y=500032&zoom=6
+Genève;1206;GE;&X=115885&Y=501190&zoom=6
+Genève;1207;GE;&X=118130&Y=501526&zoom=6
+Genève;1208;GE;&X=117236&Y=501758&zoom=6
+Genève;1209;GE;&X=119784&Y=498596&zoom=6
+Genève;1215;GE;&X=121290&Y=497270&zoom=6
+Gerlafingen;4563;SO;&X=224403&Y=610086&zoom=6
+Gerlikon;8500;TG;&X=266066&Y=708588&zoom=6
+Geroldswil;8954;ZH;&X=252912&Y=673527&zoom=6
+Gerolfingen;2575;BE;&X=213804&Y=581972&zoom=6
+Gerra (Gambarogno);6576;TI;&X=108687&Y=704215&zoom=6
+Gerra (Verzasca);6635;TI;&X=130631&Y=704728&zoom=6
+Gersau;6442;SZ;&X=205403&Y=683048&zoom=6
+Gerzensee;3115;BE;&X=187468&Y=608298&zoom=6
+Geschinen;3985;VS;&X=149723&Y=664807&zoom=6
+Gettnau;6142;LU;&X=221379&Y=640307&zoom=6
+Geuensee;6232;LU;&X=227932&Y=651099&zoom=6
+Ghirone;6720;TI;&X=157718&Y=715480&zoom=6
+Gibswil;8498;ZH;&X=241392&Y=711645&zoom=6
+Giebenach;4304;BL;&X=263627&Y=622676&zoom=6
+Giez;1429;VD;&X=184598&Y=537244&zoom=6
+Giffers;1735;FR;&X=179054&Y=582709&zoom=6
+Gillarens;1673;FR;&X=159763&Y=553114&zoom=6
+Gilly;1182;VD;&X=145957&Y=512550&zoom=6
+Gimel;1188;VD;&X=151383&Y=513357&zoom=6
+Gimmelwald;3826;BE;&X=155191&Y=634872&zoom=6
+Gingins;1276;VD;&X=140570&Y=503200&zoom=6
+Giornico;6745;TI;&X=140013&Y=710548&zoom=6
+Gipf-Oberfrick;5073;AG;&X=260828&Y=641760&zoom=6
+Gisikon;6038;LU;&X=220008&Y=673214&zoom=6
+Giswil;6074;OW;&X=187570&Y=656655&zoom=6
+Giubiasco;6512;TI;&X=114912&Y=721124&zoom=6
+Giumaglio;6678;TI;&X=125513&Y=695863&zoom=6
+Givisiez;1762;FR;&X=184609&Y=576184&zoom=6
+Givrins;1271;VD;&X=142741&Y=504958&zoom=6
+Gland;1196;VD;&X=142047&Y=509798&zoom=6
+Glarus;8750;GL;&X=211329&Y=723088&zoom=6
+Glashütten;4856;AG;&X=234274&Y=630795&zoom=6
+Glaspass;7428;GR;&X=171308&Y=746036&zoom=6
+Glattbrugg;8152;ZH;&X=254144&Y=684671&zoom=6
+Glattfelden;8192;ZH;&X=267826&Y=679713&zoom=6
+Glattpark (Opfikon);8152;ZH;&X=253155&Y=684834&zoom=6
+Gletterens;1544;FR;&X=193913&Y=561786&zoom=6
+Glion;1823;VD;&X=142240&Y=560648&zoom=6
+Glis;3902;VS;&X=128815&Y=641724&zoom=6
+Glovelier;2855;JU;&X=242333&Y=581948&zoom=6
+Gluringen;3998;VS;&X=146402&Y=660878&zoom=6
+Gnosca;6525;TI;&X=121504&Y=722017&zoom=6
+Gockhausen;8044;ZH;&X=248708&Y=687882&zoom=6
+Gohl;3553;BE;&X=200609&Y=628141&zoom=6
+Golaten;3207;BE;&X=203810&Y=585247&zoom=6
+Goldach;9403;SG;&X=260038&Y=752726&zoom=6
+Goldau;6410;SZ;&X=211670&Y=684894&zoom=6
+Goldingen;8638;SG;&X=235944&Y=715379&zoom=6
+Goldiwil (Thun);3624;BE;&X=178982&Y=617309&zoom=6
+Goldswil b. Interlaken;3805;BE;&X=171803&Y=633779&zoom=6
+Golino;6656;TI;&X=114992&Y=698487&zoom=6
+Gollion;1124;VD;&X=159753&Y=528704&zoom=6
+Gommiswald;8737;SG;&X=234132&Y=722602&zoom=6
+Gommiswald;8737;SG;&X=232401&Y=719695&zoom=6
+Gondiswil;4955;BE;&X=221786&Y=632865&zoom=6
+Gondo;3907;VS;&X=116380&Y=654056&zoom=6
+Gonten;9108;AI;&X=243688&Y=744214&zoom=6
+Gontenbad;9108;AI;&X=244106&Y=746155&zoom=6
+Gontenschwil;5728;AG;&X=236096&Y=653822&zoom=6
+Goppenstein;3917;VS;&X=135197&Y=624418&zoom=6
+Goppisberg;3983;VS;&X=135737&Y=646969&zoom=6
+Gordevio;6672;TI;&X=120171&Y=700261&zoom=6
+Gordola;6596;TI;&X=115976&Y=709751&zoom=6
+Gorduno;6518;TI;&X=119727&Y=722942&zoom=6
+Gorgier;2023;NE;&X=194884&Y=549857&zoom=6
+Gossau SG;9200;SG;&X=253153&Y=737327&zoom=6
+Gossau ZH;8625;ZH;&X=239752&Y=700134&zoom=6
+Gossens;1407;VD;&X=176723&Y=543569&zoom=6
+Gossliwil;4579;SO;&X=220622&Y=599460&zoom=6
+Gottlieben;8274;TG;&X=280616&Y=727308&zoom=6
+Goumoens-la-Ville;1376;VD;&X=167771&Y=536047&zoom=6
+Goumoens-le-Jux;1376;VD;&X=168655&Y=534862&zoom=6
+Goumois;2354;JU;&X=234612&Y=563212&zoom=6
+Graben;3376;BE;&X=229408&Y=621147&zoom=6
+Grabs;9472;SG;&X=227524&Y=752223&zoom=6
+Grabserberg;9472;SG;&X=227720&Y=749623&zoom=6
+Grafenort;6388;OW;&X=191236&Y=671303&zoom=6
+Grafenried;3308;BE;&X=213950&Y=605778&zoom=6
+Grafstal;8310;ZH;&X=255549&Y=695003&zoom=6
+Graltshausen;8572;TG;&X=273277&Y=731220&zoom=6
+Grancia;6916;TI;&X=91699&Y=715517&zoom=6
+Grancy;1117;VD;&X=160515&Y=525323&zoom=6
+Grand-Lancy;1212;GE;&X=115400&Y=498259&zoom=6
+Grandcour;1543;VD;&X=191324&Y=561260&zoom=6
+Grandevent;1421;VD;&X=187817&Y=536511&zoom=6
+Grandfontaine;2908;JU;&X=249110&Y=562333&zoom=6
+Grandsivaz;1775;FR;&X=181681&Y=565040&zoom=6
+Grandson;1422;VD;&X=184438&Y=539317&zoom=6
+Grandval;2745;BE;&X=236628&Y=598893&zoom=6
+Grandvaux;1091;VD;&X=149410&Y=544540&zoom=6
+Grandvillard;1666;FR;&X=154228&Y=572924&zoom=6
+Granges (Veveyse);1614;FR;&X=152777&Y=553395&zoom=6
+Granges VS;3977;VS;&X=123114&Y=601999&zoom=6
+Granges-Paccot;1763;FR;&X=186036&Y=577328&zoom=6
+Granges-de-Vesin;1484;FR;&X=184743&Y=554514&zoom=6
+Granges-près-Marnand;1523;VD;&X=178899&Y=558058&zoom=6
+Grangettes-près-Romont;1686;FR;&X=169577&Y=563737&zoom=6
+Granois (Savièse);1965;VS;&X=122009&Y=592078&zoom=6
+Grasswil;3365;BE;&X=221482&Y=617559&zoom=6
+Grattavache;1624;FR;&X=160574&Y=559801&zoom=6
+Gravesano;6929;TI;&X=100089&Y=714418&zoom=6
+Greich;3983;VS;&X=135141&Y=646319&zoom=6
+Greifensee;8606;ZH;&X=247104&Y=693377&zoom=6
+Grellingen;4203;BL;&X=254293&Y=611178&zoom=6
+Grenchen;2540;SO;&X=226448&Y=597620&zoom=6
+Greng;3280;FR;&X=195909&Y=573543&zoom=6
+Grengiols;3993;VS;&X=135811&Y=650388&zoom=6
+Grenilles;1726;FR;&X=175217&Y=570132&zoom=6
+Grens;1274;VD;&X=138939&Y=504126&zoom=6
+Greppen;6404;LU;&X=212085&Y=675324&zoom=6
+Gresso;6611;TI;&X=119959&Y=690838&zoom=6
+Gressy;1432;VD;&X=177737&Y=538631&zoom=6
+Gretschins;9479;SG;&X=218350&Y=755538&zoom=6
+Gretzenbach;5014;SO;&X=245417&Y=642594&zoom=6
+Grimentz;3961;VS;&X=114441&Y=610094&zoom=6
+Grimisuat;1971;VS;&X=123029&Y=595740&zoom=6
+Grindel;4247;SO;&X=247764&Y=605081&zoom=6
+Grindelwald;3818;BE;&X=163903&Y=646504&zoom=6
+Grolley;1772;FR;&X=187014&Y=571964&zoom=6
+Grono;6537;GR;&X=122970&Y=731862&zoom=6
+Gross;8841;SZ;&X=219185&Y=701525&zoom=6
+Grossaffoltern;3257;BE;&X=212806&Y=594457&zoom=6
+Grossdietwil;6146;LU;&X=224606&Y=634112&zoom=6
+Grosshöchstetten;3506;BE;&X=195128&Y=615468&zoom=6
+Grosswangen;6022;LU;&X=220437&Y=646386&zoom=6
+Grub AR;9035;AR;&X=257002&Y=756302&zoom=6
+Grub SG;9036;SG;&X=258065&Y=756388&zoom=6
+Gruben;3946;VS;&X=117734&Y=620627&zoom=6
+Grugnay (Chamoson);1955;VS;&X=117399&Y=582644&zoom=6
+Grund b. Gstaad;3783;BE;&X=143403&Y=587324&zoom=6
+Gruyères;1663;FR;&X=159202&Y=572769&zoom=6
+Gryon;1882;VD;&X=124744&Y=571030&zoom=6
+Grächen;3925;VS;&X=115888&Y=631302&zoom=6
+Gränichen;5722;AG;&X=245386&Y=649534&zoom=6
+Gräslikon;8415;ZH;&X=267897&Y=687777&zoom=6
+Grône;3979;VS;&X=122251&Y=601210&zoom=6
+Grünen;3455;BE;&X=208254&Y=622995&zoom=6
+Grünenmatt;3452;BE;&X=206585&Y=621846&zoom=6
+Grüningen;8627;ZH;&X=238052&Y=700151&zoom=6
+Grüsch;7214;GR;&X=205851&Y=767996&zoom=6
+Grüt (Gossau ZH);8624;ZH;&X=240888&Y=701575&zoom=6
+Gstaad;3780;BE;&X=147082&Y=588299&zoom=6
+Gsteig b. Gstaad;3785;BE;&X=137046&Y=586812&zoom=6
+Gsteigwiler;3814;BE;&X=167132&Y=633694&zoom=6
+Guarda;7545;GR;&X=184271&Y=807194&zoom=6
+Gudo;6515;TI;&X=114890&Y=716790&zoom=6
+Guggisberg;3158;BE;&X=179499&Y=591643&zoom=6
+Gumefens;1643;FR;&X=169594&Y=572317&zoom=6
+Gundetswil;8543;ZH;&X=266376&Y=704175&zoom=6
+Guntalingen;8468;ZH;&X=276795&Y=699721&zoom=6
+Gunten;3654;BE;&X=173727&Y=620135&zoom=6
+Guntershausen b. Aadorf;8357;TG;&X=258934&Y=711741&zoom=6
+Guntershausen b. Berg;8572;TG;&X=270502&Y=731444&zoom=6
+Gunterswilen;8564;TG;&X=277321&Y=723104&zoom=6
+Guntmadingen;8223;SH;&X=282309&Y=683987&zoom=6
+Gunzgen;4617;SO;&X=240612&Y=629835&zoom=6
+Gunzwil;6222;LU;&X=229329&Y=655797&zoom=6
+Gurbrü;3208;BE;&X=201471&Y=583212&zoom=6
+Gurmels;3212;FR;&X=193548&Y=579673&zoom=6
+Gurtnellen;6482;UR;&X=177256&Y=691021&zoom=6
+Gurzelen;3663;BE;&X=180954&Y=607230&zoom=6
+Guschelmuth;1792;FR;&X=192208&Y=576890&zoom=6
+Gutenburg;4932;BE;&X=225745&Y=627348&zoom=6
+Gutenswil;8605;ZH;&X=248877&Y=696177&zoom=6
+Guttannen;3864;BE;&X=167471&Y=664762&zoom=6
+Guttet-Feschel;3956;VS;&X=130639&Y=618021&zoom=6
+Gwatt (Thun);3645;BE;&X=174152&Y=614408&zoom=6
+Gy;1251;GE;&X=123025&Y=508926&zoom=6
+Gysenstein;3503;BE;&X=193174&Y=611900&zoom=6
+Gächlingen;8214;SH;&X=284053&Y=679658&zoom=6
+Gächliwil;4584;SO;&X=219809&Y=600645&zoom=6
+Gähwil;9534;SG;&X=250740&Y=717677&zoom=6
+Gänsbrunnen;4716;SO;&X=234361&Y=602065&zoom=6
+Göschenen;6487;UR;&X=169348&Y=687638&zoom=6
+Götighofen;8583;TG;&X=266314&Y=733675&zoom=6
+Gümligen;3073;BE;&X=198220&Y=605379&zoom=6
+Gümmenen;3205;BE;&X=199217&Y=585590&zoom=6
+Gündisau;8322;ZH;&X=250552&Y=703555&zoom=6
+Gündlischwand;3815;BE;&X=164888&Y=636231&zoom=6
+Günsberg;4524;SO;&X=234335&Y=610393&zoom=6
+Güttingen;8594;TG;&X=274075&Y=738940&zoom=6
+Haag (Rheintal);9469;SG;&X=231061&Y=755541&zoom=6
+Habkern;3804;BE;&X=174968&Y=632423&zoom=6
+Habsburg;5245;AG;&X=257006&Y=656351&zoom=6
+Hagenbuch ZH;8523;ZH;&X=264544&Y=708927&zoom=6
+Hagendorn;6332;ZG;&X=228183&Y=675401&zoom=6
+Hagenwil b. Amriswil;8580;TG;&X=265975&Y=740701&zoom=6
+Hagneck;2575;BE;&X=211931&Y=580956&zoom=6
+Halden;9223;TG;&X=263032&Y=733213&zoom=6
+Haldenstein;7023;GR;&X=194117&Y=758787&zoom=6
+Haldi b. Schattdorf;6469;UR;&X=190821&Y=694274&zoom=6
+Hallau;8215;SH;&X=283590&Y=676831&zoom=6
+Hallwil;5705;AG;&X=242260&Y=655976&zoom=6
+Halten;4566;SO;&X=224332&Y=612863&zoom=6
+Happerswil;8585;TG;&X=271356&Y=734550&zoom=6
+Harenwilen;8553;TG;&X=270021&Y=717514&zoom=6
+Hasle LU;6166;LU;&X=203074&Y=646653&zoom=6
+Hasle b. Burgdorf;3415;BE;&X=207286&Y=615806&zoom=6
+Haslen AI;9054;AI;&X=248313&Y=745873&zoom=6
+Haslen GL;8773;GL;&X=204566&Y=723355&zoom=6
+Hasliberg Goldern;6085;BE;&X=176621&Y=657956&zoom=6
+Hasliberg Hohfluh;6083;BE;&X=178086&Y=656184&zoom=6
+Hasliberg Reuti;6086;BE;&X=175962&Y=659414&zoom=6
+Hasliberg Wasserwendi;6084;BE;&X=177630&Y=658188&zoom=6
+Hattenhausen;8564;TG;&X=276258&Y=722542&zoom=6
+Hauenstein;4633;SO;&X=247274&Y=632523&zoom=6
+Hauptikon;8926;ZH;&X=231828&Y=679934&zoom=6
+Hauptwil;9213;TG;&X=260455&Y=736755&zoom=6
+Hausen AG;5212;AG;&X=257100&Y=658278&zoom=6
+Hausen am Albis;8915;ZH;&X=233279&Y=682334&zoom=6
+Haute-Nendaz;1997;VS;&X=114526&Y=588724&zoom=6
+Hauterive NE;2068;NE;&X=207055&Y=564495&zoom=6
+Hauteville;1648;FR;&X=168913&Y=574338&zoom=6
+Hedingen;8908;ZH;&X=239366&Y=675715&zoom=6
+Heerbrugg;9435;SG;&X=253642&Y=765129&zoom=6
+Hefenhausen;8564;TG;&X=275261&Y=722546&zoom=6
+Hefenhofen;8580;TG;&X=269893&Y=740441&zoom=6
+Heiden;9410;AR;&X=256693&Y=757523&zoom=6
+Heiligenschwendi;3625;BE;&X=177826&Y=618387&zoom=6
+Heiligkreuz (Mels);8888;SG;&X=214035&Y=749891&zoom=6
+Heimberg;3627;BE;&X=182502&Y=612294&zoom=6
+Heimenhausen;3373;BE;&X=229217&Y=619643&zoom=6
+Heimenschwand;3615;BE;&X=186243&Y=619596&zoom=6
+Heimisbach;3453;BE;&X=206805&Y=625101&zoom=6
+Heimiswil;3412;BE;&X=212426&Y=616785&zoom=6
+Heinrichswil;4558;SO;&X=222938&Y=614560&zoom=6
+Heitenried;1714;FR;&X=186539&Y=589321&zoom=6
+Heldswil;9216;TG;&X=265893&Y=734218&zoom=6
+Helgisried-Rohrbach;3155;BE;&X=184532&Y=598861&zoom=6
+Hellbühl;6016;LU;&X=213514&Y=657591&zoom=6
+Hellikon;4316;AG;&X=262128&Y=636019&zoom=6
+Hellsau;3429;BE;&X=221672&Y=616165&zoom=6
+Hemberg;9633;SG;&X=240157&Y=731296&zoom=6
+Hemishofen;8261;SH;&X=281623&Y=704637&zoom=6
+Hemmental;8231;SH;&X=287815&Y=685549&zoom=6
+Hemmiken;4465;BL;&X=259977&Y=633876&zoom=6
+Henau;9247;SG;&X=257297&Y=726784&zoom=6
+Hendschiken;5604;AG;&X=248635&Y=658772&zoom=6
+Henggart;8444;ZH;&X=268507&Y=693965&zoom=6
+Hennens;1681;FR;&X=170364&Y=557611&zoom=6
+Henniez;1525;VD;&X=176839&Y=557618&zoom=6
+Herbetswil;4715;SO;&X=238135&Y=611319&zoom=6
+Herbligen;3671;BE;&X=186254&Y=612937&zoom=6
+Herbriggen;3927;VS;&X=109446&Y=627605&zoom=6
+Herdern;8535;TG;&X=273561&Y=710861&zoom=6
+Hergiswil NW;6052;NW;&X=204372&Y=665843&zoom=6
+Hergiswil b. Willisau;6133;LU;&X=215118&Y=639527&zoom=6
+Herisau;9100;AR;&X=250102&Y=738299&zoom=6
+Herlisberg;6028;LU;&X=227617&Y=660019&zoom=6
+Hermance;1248;GE;&X=128477&Y=507995&zoom=6
+Hermenches;1513;VD;&X=165854&Y=548057&zoom=6
+Hermetschwil-Staffeln;5626;AG;&X=242552&Y=668247&zoom=6
+Hermiswil;3475;BE;&X=222806&Y=619864&zoom=6
+Hermrigen;3274;BE;&X=214511&Y=585217&zoom=6
+Herrenhof;8585;TG;&X=273471&Y=735727&zoom=6
+Herrenschwanden;3037;BE;&X=202831&Y=598362&zoom=6
+Herrliberg;8704;ZH;&X=238712&Y=689399&zoom=6
+Hersberg;4423;BL;&X=260127&Y=625875&zoom=6
+Hersiwil;4558;SO;&X=223884&Y=614871&zoom=6
+Hertenstein AG;5415;AG;&X=260004&Y=665875&zoom=6
+Herznach;5027;AG;&X=258034&Y=645902&zoom=6
+Herzogenbuchsee;3360;BE;&X=227102&Y=620895&zoom=6
+Hessigkofen;4577;SO;&X=220801&Y=601606&zoom=6
+Hettenschwil;5317;AG;&X=269725&Y=657024&zoom=6
+Hettiswil b. Hindelbank;3325;BE;&X=208669&Y=608783&zoom=6
+Hettlingen;8442;ZH;&X=266677&Y=695610&zoom=6
+Hildisrieden;6024;LU;&X=222430&Y=660275&zoom=6
+Hilfikon;5613;AG;&X=242803&Y=661393&zoom=6
+Hilterfingen;3652;BE;&X=176634&Y=617093&zoom=6
+Himmelried;4204;SO;&X=252548&Y=611450&zoom=6
+Hindelbank;3324;BE;&X=210086&Y=607706&zoom=6
+Hinteregg;8132;ZH;&X=240199&Y=694192&zoom=6
+Hinterforst;9452;SG;&X=247622&Y=758354&zoom=6
+Hinterfultigen;3089;BE;&X=187553&Y=597141&zoom=6
+Hinterkappelen;3032;BE;&X=201870&Y=595344&zoom=6
+Hintermoos;6260;LU;&X=235620&Y=642363&zoom=6
+Hinterrhein;7438;GR;&X=154929&Y=734893&zoom=6
+Hinwil;8340;ZH;&X=239878&Y=706524&zoom=6
+Hirschthal;5042;AG;&X=241054&Y=646705&zoom=6
+Hirzel;8816;ZH;&X=230224&Y=688474&zoom=6
+Hittnau;8335;ZH;&X=246488&Y=704659&zoom=6
+Hitzkirch;6285;LU;&X=230806&Y=662538&zoom=6
+Hochdorf;6280;LU;&X=224344&Y=664779&zoom=6
+Hochfelden;8182;ZH;&X=263973&Y=680815&zoom=6
+Hochwald;4146;SO;&X=256404&Y=615694&zoom=6
+Hofen SH;8242;SH;&X=293198&Y=692798&zoom=6
+Hoffeld;9114;SG;&X=247150&Y=731038&zoom=6
+Hofstatt;6154;LU;&X=214969&Y=636178&zoom=6
+Hofstetten SO;4114;SO;&X=258279&Y=605055&zoom=6
+Hofstetten ZH;8354;ZH;&X=258959&Y=706473&zoom=6
+Hofstetten b. Brienz;3858;BE;&X=178283&Y=648343&zoom=6
+Hohenrain;6276;LU;&X=225766&Y=666683&zoom=6
+Hohentannen;9216;TG;&X=263659&Y=734461&zoom=6
+Hohtenn;3949;VS;&X=129910&Y=624640&zoom=6
+Holderbank AG;5113;AG;&X=253606&Y=655228&zoom=6
+Holderbank SO;4718;SO;&X=242382&Y=623983&zoom=6
+Holzhäusern ZG;6343;ZG;&X=223042&Y=675997&zoom=6
+Holziken;5043;AG;&X=241131&Y=645035&zoom=6
+Homberg b. Thun;3622;BE;&X=180665&Y=618725&zoom=6
+Hombrechtikon;8634;ZH;&X=234659&Y=700150&zoom=6
+Homburg;8508;TG;&X=277234&Y=717972&zoom=6
+Honau;6038;LU;&X=220627&Y=673551&zoom=6
+Hondrich;3702;BE;&X=169045&Y=618501&zoom=6
+Horboden;3755;BE;&X=164357&Y=609615&zoom=6
+Horgen;8810;ZH;&X=234107&Y=688291&zoom=6
+Horgenberg;8815;ZH;&X=233627&Y=686699&zoom=6
+Horn;9326;TG;&X=262203&Y=752268&zoom=6
+Hornussen;5075;AG;&X=261383&Y=647146&zoom=6
+Horrenbach;3623;BE;&X=180793&Y=623966&zoom=6
+Horriwil;4557;SO;&X=225514&Y=613965&zoom=6
+Horw;6048;LU;&X=207307&Y=666488&zoom=6
+Hosenruck;9515;TG;&X=261324&Y=727186&zoom=6
+Hospental;6493;UR;&X=163726&Y=686865&zoom=6
+Hottwil;5277;AG;&X=266597&Y=654397&zoom=6
+Hubersdorf;4535;SO;&X=232662&Y=611368&zoom=6
+Hugelshofen;8565;TG;&X=273221&Y=726135&zoom=6
+Humlikon;8457;ZH;&X=270044&Y=692859&zoom=6
+Hundwil;9064;AR;&X=247611&Y=742089&zoom=6
+Hunzenschwil;5502;AG;&X=248230&Y=651996&zoom=6
+Hurden;8640;SZ;&X=230163&Y=703565&zoom=6
+Huttwil;4950;BE;&X=218162&Y=631217&zoom=6
+Huémoz;1884;VD;&X=126742&Y=568284&zoom=6
+Häfelfingen;4445;BL;&X=251749&Y=631940&zoom=6
+Hägendorf;4614;SO;&X=243082&Y=630085&zoom=6
+Häggenschwil;9312;SG;&X=262176&Y=743275&zoom=6
+Hägglingen;5607;AG;&X=248934&Y=661904&zoom=6
+Hämikon;6289;LU;&X=232832&Y=665213&zoom=6
+Hämikon;6289;LU;&X=232158&Y=663092&zoom=6
+Härkingen;4624;SO;&X=239578&Y=629130&zoom=6
+Hätzingen;8775;GL;&X=202400&Y=721908&zoom=6
+Häusernmoos im Emmental;3463;BE;&X=214247&Y=623421&zoom=6
+Häuslenen;8522;TG;&X=265267&Y=710210&zoom=6
+Häutligen;3510;BE;&X=189621&Y=612817&zoom=6
+Hérémence;1987;VS;&X=114345&Y=597173&zoom=6
+Höchstetten;3429;BE;&X=221582&Y=614617&zoom=6
+Höfen b. Thun;3631;BE;&X=174673&Y=609564&zoom=6
+Hölstein;4434;BL;&X=252973&Y=625426&zoom=6
+Hörhausen;8507;TG;&X=276843&Y=715081&zoom=6
+Höri;8181;ZH;&X=262463&Y=680022&zoom=6
+Hünenberg;6331;ZG;&X=225037&Y=675248&zoom=6
+Hünenberg See;6333;ZG;&X=224749&Y=676700&zoom=6
+Hünibach;3626;BE;&X=177139&Y=616248&zoom=6
+Hüniken;4554;SO;&X=225809&Y=614943&zoom=6
+Hünikon (Neftenbach);8412;ZH;&X=267389&Y=692340&zoom=6
+Hüntwangen;8194;ZH;&X=272173&Y=679292&zoom=6
+Hüswil;6152;LU;&X=219915&Y=635389&zoom=6
+Hütten;8825;ZH;&X=225536&Y=693135&zoom=6
+Hüttikon;8115;ZH;&X=255465&Y=671540&zoom=6
+Hüttlingen;8553;TG;&X=271064&Y=716142&zoom=6
+Hüttwilen;8536;TG;&X=274072&Y=708065&zoom=6
+Ibach;6438;SZ;&X=207395&Y=691844&zoom=6
+Ichertswil;4571;SO;&X=223301&Y=604336&zoom=6
+Icogne;1977;VS;&X=126590&Y=599993&zoom=6
+Iffwil;3305;BE;&X=212555&Y=603008&zoom=6
+Igis;7206;GR;&X=201542&Y=762894&zoom=6
+Ilanz;7130;GR;&X=181744&Y=734759&zoom=6
+Illgau;6434;SZ;&X=204861&Y=697727&zoom=6
+Illhart;8556;TG;&X=275364&Y=720106&zoom=6
+Illighausen;8574;TG;&X=273994&Y=733186&zoom=6
+Illnau;8308;ZH;&X=251804&Y=696603&zoom=6
+Im Fang;1656;FR;&X=160777&Y=584494&zoom=6
+Immensee;6405;SZ;&X=216583&Y=677651&zoom=6
+Indemini;6571;TI;&X=105782&Y=707583&zoom=6
+Inden;3953;VS;&X=132511&Y=613856&zoom=6
+Inkwil;3375;BE;&X=227856&Y=617809&zoom=6
+Innerberg;3044;BE;&X=204926&Y=590178&zoom=6
+Innereriz;3619;BE;&X=181758&Y=629404&zoom=6
+Innerferrera;7445;GR;&X=154276&Y=753305&zoom=6
+Innerferrera;7445;GR;&X=149889&Y=754860&zoom=6
+Innerthal;8858;SZ;&X=218306&Y=712379&zoom=6
+Innertkirchen;3862;BE;&X=172471&Y=660382&zoom=6
+Ins;3232;BE;&X=206504&Y=574395&zoom=6
+Insone;6951;TI;&X=105087&Y=723060&zoom=6
+Interlaken;3800;BE;&X=166898&Y=636099&zoom=6
+Interlaken;3800;BE;&X=170718&Y=632454&zoom=6
+Intragna;6655;TI;&X=114771&Y=697410&zoom=6
+Intschi;6476;UR;&X=179650&Y=692497&zoom=6
+Inwil;6034;LU;&X=219424&Y=669177&zoom=6
+Ipsach;2563;BE;&X=218389&Y=584123&zoom=6
+Iragna;6707;TI;&X=132095&Y=717678&zoom=6
+Iseltwald;3807;BE;&X=173226&Y=640237&zoom=6
+Isenfluh;3822;BE;&X=163324&Y=635003&zoom=6
+Isenthal;6461;UR;&X=196246&Y=685500&zoom=6
+Iseo;6993;TI;&X=95815&Y=711750&zoom=6
+Islikon;8546;TG;&X=267340&Y=705754&zoom=6
+Islisberg;8905;AG;&X=241724&Y=675809&zoom=6
+Isole di Brissago;6614;TI;&X=109803&Y=700202&zoom=6
+Isone;6810;TI;&X=109808&Y=719582&zoom=6
+Istighofen;8575;TG;&X=267154&Y=728528&zoom=6
+Isérables;1914;VS;&X=112368&Y=585323&zoom=6
+Itingen;4452;BL;&X=257257&Y=625918&zoom=6
+Ittenthal;5083;AG;&X=263163&Y=646685&zoom=6
+Ittigen;3063;BE;&X=203222&Y=603124&zoom=6
+Jaberg;3629;BE;&X=185336&Y=609796&zoom=6
+Jakobsbad;9108;AI;&X=242747&Y=742846&zoom=6
+Jaun;1656;FR;&X=162250&Y=587433&zoom=6
+Jegenstorf;3303;BE;&X=211024&Y=605195&zoom=6
+Jenaz;7233;GR;&X=199875&Y=773261&zoom=6
+Jenins;7307;GR;&X=207730&Y=761018&zoom=6
+Jens;2565;BE;&X=216161&Y=586710&zoom=6
+Jeuss;1793;FR;&X=194727&Y=579080&zoom=6
+Jona;8645;SG;&X=231731&Y=706460&zoom=6
+Jonen;8916;AG;&X=239057&Y=671851&zoom=6
+Jongny;1805;VD;&X=147573&Y=554191&zoom=6
+Jonschwil;9243;SG;&X=253685&Y=724696&zoom=6
+Jouxtens-Mézery;1008;VD;&X=156071&Y=535509&zoom=6
+Juf;7448;GR;&X=146020&Y=764517&zoom=6
+Jungfraujoch;3801;VS;&X=155271&Y=641778&zoom=6
+Juriens;1326;VD;&X=171598&Y=524295&zoom=6
+Jussy;1254;GE;&X=121116&Y=509547&zoom=6
+Kaiseraugst;4303;AG;&X=265470&Y=621556&zoom=6
+Kaiserstuhl AG;5466;AG;&X=268968&Y=673861&zoom=6
+Kaisten;5082;AG;&X=265665&Y=645721&zoom=6
+Kallern;5625;AG;&X=241183&Y=664608&zoom=6
+Kallnach;3283;BE;&X=207439&Y=584136&zoom=6
+Kalpetran;3922;VS;&X=118226&Y=630868&zoom=6
+Kaltacker;3413;BE;&X=214000&Y=617997&zoom=6
+Kaltbach;6212;LU;&X=226056&Y=647007&zoom=6
+Kaltbrunn;8722;SG;&X=230496&Y=719687&zoom=6
+Kaltenbach;8259;TG;&X=278996&Y=705488&zoom=6
+Kammersrohr;4535;SO;&X=233572&Y=611701&zoom=6
+Kandergrund;3716;BE;&X=154952&Y=617208&zoom=6
+Kandersteg;3718;BE;&X=149705&Y=617663&zoom=6
+Kappel SO;4616;SO;&X=241376&Y=631437&zoom=6
+Kappel am Albis;8926;ZH;&X=231285&Y=682261&zoom=6
+Kappelen;3273;BE;&X=212144&Y=587005&zoom=6
+Kastanienbaum;6047;LU;&X=207320&Y=668065&zoom=6
+Kaufdorf;3126;BE;&X=187434&Y=604581&zoom=6
+Kefikon TG;8546;TG;&X=267446&Y=705213&zoom=6
+Kefikon ZH;8543;ZH;&X=267393&Y=704811&zoom=6
+Kehrsatz;3122;BE;&X=195726&Y=602660&zoom=6
+Kehrsiten;6365;NW;&X=205976&Y=670823&zoom=6
+Kemptthal;8310;ZH;&X=257825&Y=696209&zoom=6
+Kernenried;3309;BE;&X=213204&Y=608449&zoom=6
+Kerns;6064;OW;&X=194883&Y=664125&zoom=6
+Kerzers;3210;FR;&X=202815&Y=581567&zoom=6
+Kesswil;8593;TG;&X=273103&Y=741255&zoom=6
+Kestenholz;4703;SO;&X=236192&Y=623869&zoom=6
+Kienberg;4468;SO;&X=254302&Y=639617&zoom=6
+Kiental;3723;BE;&X=159833&Y=621899&zoom=6
+Kiesen;3629;BE;&X=185112&Y=610831&zoom=6
+Kilchberg BL;4496;BL;&X=252772&Y=634357&zoom=6
+Kilchberg ZH;8802;ZH;&X=242018&Y=683813&zoom=6
+Killwangen;8956;AG;&X=253943&Y=668658&zoom=6
+Kippel;3917;VS;&X=138497&Y=625528&zoom=6
+Kirchberg BE;3422;BE;&X=214671&Y=611759&zoom=6
+Kirchberg SG;9533;SG;&X=252183&Y=720471&zoom=6
+Kirchdorf AG;5416;AG;&X=261016&Y=662953&zoom=6
+Kirchdorf BE;3116;BE;&X=185488&Y=608544&zoom=6
+Kirchenthurnen;3128;BE;&X=185986&Y=605164&zoom=6
+Kirchleerau;5054;AG;&X=236357&Y=647639&zoom=6
+Kirchlindach;3038;BE;&X=205400&Y=598149&zoom=6
+Klarsreuti;8585;TG;&X=272291&Y=733470&zoom=6
+Kleinandelfingen;8451;ZH;&X=273090&Y=693476&zoom=6
+Kleinbösingen;3213;FR;&X=193708&Y=582206&zoom=6
+Kleindietwil;4936;BE;&X=221756&Y=626735&zoom=6
+Kleindöttingen;5314;AG;&X=269157&Y=660161&zoom=6
+Kleine Scheidegg;3823;BE;&X=159447&Y=639999&zoom=6
+Kleingurmels;3212;FR;&X=192717&Y=580754&zoom=6
+Kleinlützel;4245;SO;&X=252606&Y=598441&zoom=6
+Kleinwangen;6277;LU;&X=227765&Y=665251&zoom=6
+Klingnau;5313;AG;&X=270927&Y=661076&zoom=6
+Kloster Fahr;8109;AG;&X=251310&Y=675508&zoom=6
+Klosters;7250;GR;&X=193927&Y=786260&zoom=6
+Klosters Dorf;7252;GR;&X=195383&Y=785684&zoom=6
+Kloten;8302;ZH;&X=256440&Y=687424&zoom=6
+Klöntal;8750;GL;&X=209375&Y=714304&zoom=6
+Knoblisbühl;8881;SG;&X=222694&Y=740041&zoom=6
+Knonau;8934;ZH;&X=230768&Y=677117&zoom=6
+Knutwil;6213;LU;&X=228046&Y=648050&zoom=6
+Koblenz;5322;AG;&X=273116&Y=660077&zoom=6
+Kollbrunn;8483;ZH;&X=257139&Y=700891&zoom=6
+Konolfingen;3510;BE;&X=192153&Y=613359&zoom=6
+Koppigen;3425;BE;&X=220260&Y=611904&zoom=6
+Kottwil;6217;LU;&X=223711&Y=645985&zoom=6
+Kradolf;9214;TG;&X=265401&Y=732306&zoom=6
+Krattigen;3704;BE;&X=167496&Y=621593&zoom=6
+Krauchthal;3326;BE;&X=206445&Y=609877&zoom=6
+Kreuzlingen;8280;TG;&X=278555&Y=730329&zoom=6
+Kriechenwil;3179;BE;&X=195541&Y=583861&zoom=6
+Kriegstetten;4566;SO;&X=224828&Y=611825&zoom=6
+Kriens;6010;OW;&X=203455&Y=662090&zoom=6
+Kriens;6010;LU;&X=209449&Y=663882&zoom=6
+Kriessern;9451;SG;&X=248329&Y=763763&zoom=6
+Krinau;9622;SG;&X=241792&Y=721802&zoom=6
+Krummenau;9643;SG;&X=234540&Y=731289&zoom=6
+Kräiligen;3315;BE;&X=221924&Y=607352&zoom=6
+Kulmerau;6234;LU;&X=233817&Y=649269&zoom=6
+Kyburg;8314;ZH;&X=256889&Y=698558&zoom=6
+Kyburg-Buchegg;4586;SO;&X=221157&Y=605632&zoom=6
+Kägiswil;6056;OW;&X=196816&Y=662454&zoom=6
+Känerkinden;4447;BL;&X=251619&Y=629818&zoom=6
+Kölliken;5742;AG;&X=243184&Y=644647&zoom=6
+Köniz;3098;BE;&X=196668&Y=598080&zoom=6
+Küblis;7240;GR;&X=198794&Y=778317&zoom=6
+Kümmertshausen;8586;TG;&X=269857&Y=735884&zoom=6
+Künten;5444;AG;&X=248833&Y=667586&zoom=6
+Küsnacht ZH;8700;ZH;&X=241605&Y=687035&zoom=6
+Küssnacht am Rigi;6403;SZ;&X=214861&Y=676050&zoom=6
+Küttigen;5024;AG;&X=251550&Y=645608&zoom=6
+Küttigkofen;4581;SO;&X=222277&Y=605669&zoom=6
+L'Abbaye;1344;VD;&X=167152&Y=514338&zoom=6
+L'Abergement;1355;VD;&X=178573&Y=527477&zoom=6
+L'Auberson;1454;VD;&X=185671&Y=525548&zoom=6
+L'Etivaz;1660;VD;&X=141512&Y=577646&zoom=6
+L'Isle;1148;VD;&X=163474&Y=521455&zoom=6
+La Brévine;2406;NE;&X=203531&Y=536772&zoom=6
+La Chaux (Cossonay);1308;VD;&X=163428&Y=526028&zoom=6
+La Chaux-de-Fonds;2300;NE;&X=217192&Y=554035&zoom=6
+La Chaux-des-Breuleux;2345;JU;&X=230278&Y=568858&zoom=6
+La Chaux-du-Milieu;2405;NE;&X=207209&Y=543987&zoom=6
+La Châtagne;2406;NE;&X=204332&Y=539383&zoom=6
+La Cibourg;2300;NE;&X=219169&Y=557904&zoom=6
+La Cibourg;2333;BE;&X=219507&Y=558366&zoom=6
+La Cibourg;2616;BE;&X=218732&Y=558613&zoom=6
+La Comballaz;1862;VD;&X=136265&Y=572201&zoom=6
+La Conversion;1093;VD;&X=151790&Y=542257&zoom=6
+La Corbaz;1782;FR;&X=187618&Y=575311&zoom=6
+La Coudre;1148;VD;&X=165837&Y=520692&zoom=6
+La Croix (Lutry);1090;VD;&X=151972&Y=543524&zoom=6
+La Croix-de-Rozon;1257;GE;&X=111637&Y=498485&zoom=6
+La Cure;1265;VD;&X=146728&Y=495290&zoom=6
+La Côte-aux-Fées;2117;NE;&X=191088&Y=527639&zoom=6
+La Ferrière;2333;BE;&X=221261&Y=558712&zoom=6
+La Forclaz VD;1866;VD;&X=133418&Y=571492&zoom=6
+La Forclaz VS;1985;VS;&X=103851&Y=606440&zoom=6
+La Fouly VS;1944;VS;&X=86769&Y=573534&zoom=6
+La Garde (Sembrancher);1933;VS;&X=101557&Y=577392&zoom=6
+La Heutte;2604;BE;&X=226548&Y=583786&zoom=6
+La Joux FR;1697;FR;&X=164331&Y=561743&zoom=6
+La Lécherette;1660;VD;&X=141160&Y=574449&zoom=6
+La Magne;1687;FR;&X=165031&Y=561163&zoom=6
+La Muraz (Savièse);1965;VS;&X=120599&Y=592161&zoom=6
+La Neirigue;1686;FR;&X=170559&Y=563021&zoom=6
+La Neuveville;2520;BE;&X=212660&Y=574052&zoom=6
+La Place (Ayent);1966;VS;&X=124703&Y=597899&zoom=6
+La Plaine;1283;GE;&X=115031&Y=489135&zoom=6
+La Praz;1148;VD;&X=168999&Y=522591&zoom=6
+La Punt-Chamues-ch;7522;GR;&X=161503&Y=790843&zoom=6
+La Rippe;1278;VD;&X=137773&Y=500905&zoom=6
+La Roche FR;1634;FR;&X=171727&Y=577002&zoom=6
+La Russille;1356;VD;&X=176542&Y=526622&zoom=6
+La Rösa;7742;GR;&X=142272&Y=802236&zoom=6
+La Sage;1985;VS;&X=105368&Y=606143&zoom=6
+La Sagne (Ste-Croix);1450;VD;&X=185288&Y=528174&zoom=6
+La Sagne NE;2314;NE;&X=209834&Y=551650&zoom=6
+La Sarraz;1315;VD;&X=168007&Y=529267&zoom=6
+La Tanne;2720;BE;&X=230168&Y=578389&zoom=6
+La Tine;1658;VD;&X=146465&Y=570111&zoom=6
+La Tour VS;1984;VS;&X=105162&Y=605187&zoom=6
+La Tour-de-Peilz;1814;VD;&X=144863&Y=555314&zoom=6
+La Tour-de-Trême;1635;FR;&X=162048&Y=571470&zoom=6
+La Tzoumaz;1918;VS;&X=110397&Y=584130&zoom=6
+La Vernaz (Les Agettes);1992;VS;&X=117643&Y=594966&zoom=6
+La Verrerie;1624;FR;&X=159600&Y=560502&zoom=6
+La Vraconnaz;1454;VD;&X=188287&Y=527075&zoom=6
+La Vue-des-Alpes;2052;NE;&X=213778&Y=556909&zoom=6
+Laax GR;7031;GR;&X=185264&Y=738529&zoom=6
+Laax GR 2;7032;GR;&X=189769&Y=736905&zoom=6
+Lachen SZ;8853;SZ;&X=228362&Y=707535&zoom=6
+Laconnex;1287;GE;&X=112446&Y=491542&zoom=6
+Ladir;7155;GR;&X=183564&Y=734828&zoom=6
+Ladir;7155;GR;&X=189010&Y=732439&zoom=6
+Lajoux JU;2718;JU;&X=236523&Y=577358&zoom=6
+Lalden;3931;VS;&X=127571&Y=635492&zoom=6
+Lamboing;2516;BE;&X=218529&Y=577060&zoom=6
+Lamone;6814;TI;&X=100331&Y=715584&zoom=6
+Lampenberg;4432;BL;&X=252861&Y=623808&zoom=6
+Lamperswil TG;8556;TG;&X=274549&Y=720230&zoom=6
+Landiswil;3434;BE;&X=200839&Y=618373&zoom=6
+Landquart;7302;GR;&X=203567&Y=761328&zoom=6
+Landschlacht;8597;TG;&X=276556&Y=735743&zoom=6
+Langenbruck;4438;BL;&X=244278&Y=624849&zoom=6
+Langendorf;4513;SO;&X=230093&Y=605750&zoom=6
+Langenthal;4900;BE;&X=229022&Y=626807&zoom=6
+Langnau am Albis;8135;ZH;&X=238069&Y=682524&zoom=6
+Langnau b. Reiden;6262;LU;&X=231264&Y=639725&zoom=6
+Langnau im Emmental;3550;BE;&X=199033&Y=626380&zoom=6
+Langrickenbach;8585;TG;&X=271855&Y=736056&zoom=6
+Langwies;7057;GR;&X=188119&Y=773790&zoom=6
+Langwiesen;8246;ZH;&X=282202&Y=691949&zoom=6
+Lanna;1983;VS;&X=107695&Y=602799&zoom=6
+Lanterswil;9503;TG;&X=264553&Y=724814&zoom=6
+Lantsch/Lenz;7083;GR;&X=172635&Y=762790&zoom=6
+Lanzenhäusern;3148;BE;&X=187865&Y=593026&zoom=6
+Lanzenneunforn;8506;TG;&X=275703&Y=712481&zoom=6
+Largario;6724;TI;&X=150344&Y=715356&zoom=6
+Latsch;7484;GR;&X=167499&Y=777224&zoom=6
+Latterbach;3758;BE;&X=168104&Y=610671&zoom=6
+Lauenen b. Gstaad;3782;BE;&X=141499&Y=590962&zoom=6
+Lauerz;6424;SZ;&X=209637&Y=686764&zoom=6
+Laufen;4242;BL;&X=252258&Y=604512&zoom=6
+Laufenburg;5080;AG;&X=267648&Y=647104&zoom=6
+Laupen BE;3177;BE;&X=194667&Y=584926&zoom=6
+Laupen ZH;8637;ZH;&X=236166&Y=713019&zoom=6
+Laupersdorf;4712;SO;&X=240505&Y=615789&zoom=6
+Lauperswil;3438;BE;&X=201761&Y=622775&zoom=6
+Laura;6549;GR;&X=119355&Y=728600&zoom=6
+Lausanne;1006;VD;&X=148574&Y=538483&zoom=6
+Lausanne;1015;VD;&X=152132&Y=534336&zoom=6
+Lausanne;1003;VD;&X=152398&Y=537951&zoom=6
+Lausanne;1004;VD;&X=153350&Y=537090&zoom=6
+Lausanne;1005;VD;&X=152372&Y=538909&zoom=6
+Lausanne;1007;VD;&X=152681&Y=538390&zoom=6
+Lausanne;1010;VD;&X=154172&Y=540186&zoom=6
+Lausanne;1011;VD;&X=153014&Y=538943&zoom=6
+Lausanne;1012;VD;&X=153082&Y=540024&zoom=6
+Lausanne;1018;VD;&X=154484&Y=537866&zoom=6
+Lausanne 25;1000;VD;&X=157052&Y=542095&zoom=6
+Lausanne 26;1000;VD;&X=156403&Y=543068&zoom=6
+Lausanne 27;1000;VD;&X=154775&Y=541921&zoom=6
+Lausen;4415;BL;&X=257567&Y=624437&zoom=6
+Lauterbrunnen;3822;BE;&X=160273&Y=636016&zoom=6
+Lauwil;4426;BL;&X=248572&Y=617878&zoom=6
+Lavertezzo;6633;TI;&X=123824&Y=707743&zoom=6
+Lavey-Village;1892;VD;&X=118753&Y=567637&zoom=6
+Lavey-les-Bains;1892;VD;&X=116940&Y=567605&zoom=6
+Lavigny;1175;VD;&X=150437&Y=520629&zoom=6
+Lavin;7543;GR;&X=183368&Y=804252&zoom=6
+Lavorgo;6746;TI;&X=144341&Y=707754&zoom=6
+Lax;3994;VS;&X=137805&Y=652210&zoom=6
+Le Brassus;1348;VD;&X=159695&Y=505842&zoom=6
+Le Brouillet;2406;NE;&X=200745&Y=530735&zoom=6
+Le Bry;1645;FR;&X=172191&Y=572965&zoom=6
+Le Bémont JU;2360;JU;&X=234864&Y=567848&zoom=6
+Le Cerneux-Péquignot;2414;NE;&X=207612&Y=541180&zoom=6
+Le Cerneux-Veusil;2345;BE;&X=225552&Y=563947&zoom=6
+Le Châble VS;1934;VS;&X=103272&Y=582547&zoom=6
+Le Château-de-Ste-Croix;1450;VD;&X=185630&Y=530973&zoom=6
+Le Châtelard VS;1925;VS;&X=100833&Y=562706&zoom=6
+Le Châtelard-près-Romont;1689;FR;&X=169694&Y=564777&zoom=6
+Le Crêt-du-Locle;2322;NE;&X=214095&Y=550481&zoom=6
+Le Crêt-près-Semsales;1611;FR;&X=162101&Y=559508&zoom=6
+Le Fuet;2712;BE;&X=232621&Y=580764&zoom=6
+Le Grand-Saconnex;1218;GE;&X=120962&Y=498587&zoom=6
+Le Landeron;2525;NE;&X=211470&Y=571612&zoom=6
+Le Lieu;1345;VD;&X=166899&Y=511462&zoom=6
+Le Lignon;1219;GE;&X=117865&Y=496335&zoom=6
+Le Locle;2400;;&X=211563&Y=544673&zoom=6
+Le Locle;2400;NE;&X=212133&Y=547645&zoom=6
+Le Mont-Pèlerin;1801;VD;&X=147989&Y=553277&zoom=6
+Le Mont-sur-Lausanne;1052;VD;&X=156484&Y=538460&zoom=6
+Le Mouret;1724;FR;&X=177799&Y=580068&zoom=6
+Le Noirmont;2340;JU;&X=230727&Y=563563&zoom=6
+Le Pont;1342;VD;&X=168750&Y=515274&zoom=6
+Le Prese;7746;GR;&X=130289&Y=803540&zoom=6
+Le Prédame;2714;JU;&X=234119&Y=574901&zoom=6
+Le Prévoux;2400;NE;&X=209915&Y=544018&zoom=6
+Le Pâquier NE;2058;NE;&X=216471&Y=565699&zoom=6
+Le Pâquier-Montbarry;1661;FR;&X=160423&Y=570590&zoom=6
+Le Sentier;1347;VD;&X=162607&Y=507560&zoom=6
+Le Solliat;1347;VD;&X=163876&Y=507772&zoom=6
+Le Séchey;1345;VD;&X=168289&Y=512853&zoom=6
+Le Sépey;1863;VD;&X=134561&Y=570221&zoom=6
+Le Trétien;1923;VS;&X=105595&Y=565960&zoom=6
+Le Vaud;1261;VD;&X=148041&Y=507536&zoom=6
+Leggia;6556;GR;&X=124744&Y=733057&zoom=6
+Leibstadt;5325;AG;&X=271486&Y=655784&zoom=6
+Leimbach AG;5733;AG;&X=236254&Y=655344&zoom=6
+Leimbach TG;8584;TG;&X=269439&Y=731802&zoom=6
+Leimiswil;4935;BE;&X=222044&Y=624455&zoom=6
+Leissigen;3706;BE;&X=167137&Y=625583&zoom=6
+Lenggenwil;9525;SG;&X=259669&Y=728704&zoom=6
+Lengnau AG;5426;AG;&X=263881&Y=666541&zoom=6
+Lengnau BE;2543;BE;&X=225716&Y=594735&zoom=6
+Lengwil;8574;TG;&X=276491&Y=731763&zoom=6
+Lengwil;8574;TG;&X=275498&Y=733159&zoom=6
+Lenk im Simmental;3775;BE;&X=145014&Y=600174&zoom=6
+Lens;1978;VS;&X=125281&Y=600521&zoom=6
+Lentigny;1745;FR;&X=178859&Y=566731&zoom=6
+Lenzburg;5600;AG;&X=248846&Y=655924&zoom=6
+Lenzerheide/Lai;7078;GR;&X=177700&Y=762069&zoom=6
+Leontica;6716;TI;&X=146398&Y=713984&zoom=6
+Les Acacias;1227;GE;&X=116622&Y=499221&zoom=6
+Les Agettes;1992;VS;&X=117439&Y=595209&zoom=6
+Les Avanchets;1220;GE;&X=119692&Y=497404&zoom=6
+Les Avants;1833;VD;&X=144762&Y=561906&zoom=6
+Les Bayards;2127;NE;&X=196603&Y=530036&zoom=6
+Les Bioux;1346;VD;&X=164099&Y=510824&zoom=6
+Les Bois;2336;JU;&X=225209&Y=559558&zoom=6
+Les Brenets;2416;NE;&X=213213&Y=544312&zoom=6
+Les Breuleux;2345;JU;&X=229169&Y=567040&zoom=6
+Les Charbonnières;1343;VD;&X=169010&Y=513895&zoom=6
+Les Clées;1356;VD;&X=176058&Y=525409&zoom=6
+Les Collons;1988;VS;&X=114854&Y=595950&zoom=6
+Les Crosets;1873;VS;&X=115074&Y=553726&zoom=6
+Les Cullayes;1080;VD;&X=158225&Y=547320&zoom=6
+Les Diablerets;1865;VD;&X=133191&Y=578332&zoom=6
+Les Ecasseys;1697;FR;&X=163586&Y=559457&zoom=6
+Les Ecorcheresses;2748;BE;&X=236223&Y=587970&zoom=6
+Les Emibois;2338;JU;&X=231353&Y=565718&zoom=6
+Les Enfers;2363;JU;&X=237533&Y=570166&zoom=6
+Les Evouettes;1897;VS;&X=134722&Y=556776&zoom=6
+Les Friques;1566;FR;&X=194790&Y=565667&zoom=6
+Les Geneveys-sur-Coffrane;2206;NE;&X=207028&Y=554984&zoom=6
+Les Genevez JU;2714;JU;&X=234338&Y=576668&zoom=6
+Les Giettes;1871;VS;&X=119509&Y=562580&zoom=6
+Les Granges (Salvan);1922;VS;&X=108587&Y=567788&zoom=6
+Les Haudères;1984;VS;&X=103289&Y=605238&zoom=6
+Les Hauts-Geneveys;2208;NE;&X=210971&Y=557067&zoom=6
+Les Marécottes;1923;VS;&X=106871&Y=566789&zoom=6
+Les Mayens-de-Sion;1992;VS;&X=116630&Y=594941&zoom=6
+Les Monts-de-Corsier;1808;VD;&X=149952&Y=556868&zoom=6
+Les Monts-de-Pully;1068;VD;&X=153932&Y=542059&zoom=6
+Les Mosses;1862;VD;&X=138578&Y=574098&zoom=6
+Les Moulins;1660;VD;&X=145482&Y=574497&zoom=6
+Les Moulins VS (Liddes);1945;VS;&X=94790&Y=579040&zoom=6
+Les Paccots;1619;FR;&X=152499&Y=562053&zoom=6
+Les Planchettes;2325;NE;&X=217465&Y=549319&zoom=6
+Les Plans-sur-Bex;1880;VD;&X=122883&Y=573369&zoom=6
+Les Pommerats;2353;JU;&X=235732&Y=565819&zoom=6
+Les Pontins;2610;BE;&X=220155&Y=566472&zoom=6
+Les Ponts-de-Martel;2316;NE;&X=205653&Y=546226&zoom=6
+Les Posses-sur-Bex;1880;VD;&X=124427&Y=569887&zoom=6
+Les Prés-d'Orvin;2534;BE;&X=222709&Y=580336&zoom=6
+Les Rasses;1452;VD;&X=186847&Y=531450&zoom=6
+Les Reussilles;2722;BE;&X=230436&Y=573029&zoom=6
+Les Sagnettes;2124;NE;&X=199014&Y=536045&zoom=6
+Les Sciernes-d'Albeuve;1669;FR;&X=149588&Y=569020&zoom=6
+Les Taillères;2406;NE;&X=202537&Y=534368&zoom=6
+Les Tavernes;1607;VD;&X=156143&Y=551839&zoom=6
+Les Thioleyres;1607;VD;&X=154458&Y=551928&zoom=6
+Les Valettes (Bovernier);1932;VS;&X=102747&Y=571834&zoom=6
+Les Verrières;2126;NE;&X=195333&Y=526886&zoom=6
+Les Vieux-Prés;2054;NE;&X=214633&Y=561865&zoom=6
+Les Vérines (Chamoson);1955;VS;&X=117694&Y=581922&zoom=6
+Lessoc;1669;FR;&X=150554&Y=571128&zoom=6
+Leuggelbach;8774;GL;&X=204096&Y=721918&zoom=6
+Leuggern;5316;AG;&X=270214&Y=658547&zoom=6
+Leuk Stadt;3953;VS;&X=129656&Y=615508&zoom=6
+Leukerbad;3954;VS;&X=136464&Y=614666&zoom=6
+Leutwil;5725;AG;&X=240174&Y=655748&zoom=6
+Leuzigen;3297;BE;&X=224687&Y=601193&zoom=6
+Levron;1942;VS;&X=105201&Y=578609&zoom=6
+Leysin;1854;VD;&X=132339&Y=567194&zoom=6
+Leytron;1912;VS;&X=115180&Y=582707&zoom=6
+Li Curt;7745;GR;&X=132191&Y=802100&zoom=6
+Libingen;9614;SG;&X=243128&Y=719792&zoom=6
+Lichtensteig;9620;SG;&X=242950&Y=724828&zoom=6
+Liddes;1945;VS;&X=93310&Y=580326&zoom=6
+Liebefeld;3097;BE;&X=197626&Y=598260&zoom=6
+Liebistorf;3213;FR;&X=195212&Y=581449&zoom=6
+Liedertswil;4436;BL;&X=248892&Y=621294&zoom=6
+Lieffrens;1688;FR;&X=165194&Y=558930&zoom=6
+Lieli LU;6277;LU;&X=229110&Y=665162&zoom=6
+Lienz;9464;SG;&X=238477&Y=757169&zoom=6
+Liesberg;4253;BL;&X=249415&Y=599630&zoom=6
+Liesberg Dorf;4254;BL;&X=250503&Y=599093&zoom=6
+Liestal;4410;BL;&X=259441&Y=621286&zoom=6
+Liez (St-Martin);1969;VS;&X=112223&Y=600951&zoom=6
+Ligerz;2514;BE;&X=215027&Y=576974&zoom=6
+Lignerolle;1357;VD;&X=177016&Y=524934&zoom=6
+Lignières;2523;NE;&X=214486&Y=571656&zoom=6
+Ligornetto;6853;TI;&X=80153&Y=717639&zoom=6
+Limpach;3317;BE;&X=217411&Y=604496&zoom=6
+Lindau;8315;ZH;&X=255327&Y=693408&zoom=6
+Linden;3673;BE;&X=188741&Y=618277&zoom=6
+Linescio;6682;TI;&X=129172&Y=688163&zoom=6
+Linthal;8783;GL;&X=197390&Y=718633&zoom=6
+Lipperswil;8564;TG;&X=275332&Y=721464&zoom=6
+Lippoldswilen;8566;TG;&X=274583&Y=725862&zoom=6
+Littenheid;9573;TG;&X=255400&Y=718251&zoom=6
+Litzirüti;7058;GR;&X=185658&Y=772711&zoom=6
+Lobsigen;3268;BE;&X=208428&Y=588974&zoom=6
+Loc;3960;VS;&X=126899&Y=605587&zoom=6
+Locarno;6600;TI;&X=115757&Y=702472&zoom=6
+Locarno;6600;TI;&X=113898&Y=704611&zoom=6
+Locarno;6605;TI;&X=115230&Y=703829&zoom=6
+Loco;6661;TI;&X=117526&Y=695183&zoom=6
+Lodano;6678;TI;&X=123686&Y=695893&zoom=6
+Lodrino;6527;TI;&X=128977&Y=718663&zoom=6
+Lohn GR;7433;GR;&X=168786&Y=752293&zoom=6
+Lohn SH;8235;SH;&X=290263&Y=692421&zoom=6
+Lohn-Ammannsegg;4573;SO;&X=224704&Y=606730&zoom=6
+Lohnstorf;3127;BE;&X=183959&Y=605510&zoom=6
+Lommis;9506;TG;&X=264069&Y=717606&zoom=6
+Lommiswil;4514;SO;&X=230168&Y=601894&zoom=6
+Lonay;1027;VD;&X=153210&Y=529584&zoom=6
+Longirod;1261;VD;&X=149959&Y=509396&zoom=6
+Lopagno;6956;TI;&X=103139&Y=719070&zoom=6
+Lopagno;6956;TI;&X=108636&Y=720144&zoom=6
+Lopagno;6956;TI;&X=104477&Y=719960&zoom=6
+Losone;6616;TI;&X=113856&Y=701951&zoom=6
+Lossy;1782;FR;&X=186936&Y=575014&zoom=6
+Lostallo;6558;GR;&X=130665&Y=734942&zoom=6
+Lostorf;4654;SO;&X=248153&Y=638744&zoom=6
+Lottigna;6716;TI;&X=147591&Y=715560&zoom=6
+Lotzwil;4932;BE;&X=227122&Y=627120&zoom=6
+Lourtier;1948;VS;&X=99785&Y=586774&zoom=6
+Lovatens;1682;VD;&X=171511&Y=556130&zoom=6
+Lovens;1756;FR;&X=180274&Y=568032&zoom=6
+Loveresse;2732;BE;&X=232570&Y=584872&zoom=6
+Luc (Ayent);1966;VS;&X=125649&Y=598536&zoom=6
+Lucelle;2807;JU;&X=251898&Y=585187&zoom=6
+Lucens;1522;VD;&X=173411&Y=554071&zoom=6
+Luchsingen;8775;GL;&X=202971&Y=721537&zoom=6
+Ludiano;6721;TI;&X=142108&Y=717668&zoom=6
+Lufingen;8426;ZH;&X=260600&Y=687041&zoom=6
+Lugaggia;6953;TI;&X=107539&Y=721661&zoom=6
+Lugaggia;6953;TI;&X=102091&Y=718453&zoom=6
+Lugano;6900;TI;&X=96204&Y=717259&zoom=6
+Lugnez;2933;JU;&X=259225&Y=574295&zoom=6
+Lugnorre;1789;FR;&X=199982&Y=571954&zoom=6
+Luins;1184;VD;&X=144566&Y=510414&zoom=6
+Lully FR;1470;FR;&X=187263&Y=554945&zoom=6
+Lully VD;1132;VD;&X=150974&Y=525288&zoom=6
+Lumbrein;7148;GR;&X=171656&Y=729843&zoom=6
+Lumino;6533;TI;&X=121175&Y=725548&zoom=6
+Lunden;7222;GR;&X=202397&Y=773103&zoom=6
+Lungern;6078;OW;&X=181669&Y=655563&zoom=6
+Lupfig;5242;AG;&X=255006&Y=657596&zoom=6
+Lupsingen;4419;BL;&X=254869&Y=619393&zoom=6
+Lurtigen;3215;FR;&X=197576&Y=579673&zoom=6
+Lussery-Villars;1307;VD;&X=165035&Y=530115&zoom=6
+Lussy FR;1690;FR;&X=173879&Y=562192&zoom=6
+Lussy-sur-Morges;1167;VD;&X=150741&Y=524163&zoom=6
+Lustdorf;8512;TG;&X=267862&Y=716783&zoom=6
+Lustmühle;9062;AR;&X=251607&Y=744845&zoom=6
+Luterbach;4542;SO;&X=229235&Y=611534&zoom=6
+Luthern;6156;LU;&X=212185&Y=636409&zoom=6
+Luthern Bad;6156;LU;&X=208683&Y=637134&zoom=6
+Lutry;1095;VD;&X=150429&Y=542257&zoom=6
+Lutzenberg;9426;AR;&X=258626&Y=761226&zoom=6
+Luven;7141;GR;&X=180532&Y=734458&zoom=6
+Luzein;7242;GR;&X=199168&Y=777009&zoom=6
+Luzern;6003;LU;&X=211360&Y=665223&zoom=6
+Luzern;6004;LU;&X=212502&Y=665286&zoom=6
+Luzern;6005;LU;&X=210189&Y=666619&zoom=6
+Luzern;6006;LU;&X=211639&Y=668000&zoom=6
+Luzern;6014;LU;&X=211864&Y=666143&zoom=6
+Luzern;6015;LU;&X=212884&Y=663688&zoom=6
+Lyss;3250;BE;&X=213293&Y=590040&zoom=6
+Lyssach;3421;BE;&X=212706&Y=610451&zoom=6
+Lyssach;3421;BE;&X=210858&Y=611752&zoom=6
+Längenbühl;3636;BE;&X=178430&Y=607607&zoom=6
+Lätti;3053;BE;&X=209827&Y=599362&zoom=6
+Läufelfingen;4448;BL;&X=249537&Y=631047&zoom=6
+Léchelles;1773;FR;&X=186519&Y=567751&zoom=6
+Löhningen;8224;SH;&X=283762&Y=683652&zoom=6
+Lömmenschwil;9308;SG;&X=262586&Y=744612&zoom=6
+Lü;7534;GR;&X=167657&Y=824402&zoom=6
+Lüchingen;9450;SG;&X=250663&Y=759557&zoom=6
+Lüen;7027;GR;&X=189189&Y=765957&zoom=6
+Lüscherz;2576;BE;&X=210664&Y=578185&zoom=6
+Lüsslingen;4574;SO;&X=226512&Y=605206&zoom=6
+Lüterkofen;4571;SO;&X=223817&Y=605381&zoom=6
+Lüterswil;4584;SO;&X=218743&Y=599854&zoom=6
+Lütisburg;9604;SG;&X=250748&Y=724336&zoom=6
+Lütisburg Station;9601;SG;&X=249507&Y=723100&zoom=6
+Lütschental;3816;BE;&X=165221&Y=639063&zoom=6
+Lützelflüh-Goldbach;3432;BE;&X=205626&Y=618694&zoom=6
+Macolin;2532;BE;&X=221255&Y=583166&zoom=6
+Madetswil;8322;ZH;&X=251919&Y=702459&zoom=6
+Madiswil;4934;BE;&X=224108&Y=627353&zoom=6
+Madonna del Piano;6995;TI;&X=94035&Y=708057&zoom=6
+Madrano;6780;TI;&X=153565&Y=691375&zoom=6
+Madulain;7523;GR;&X=162406&Y=791445&zoom=6
+Madulain;7523;GR;&X=152753&Y=796467&zoom=6
+Magadino;6573;TI;&X=111674&Y=709611&zoom=6
+Magden;4312;AG;&X=263965&Y=628831&zoom=6
+Maggia;6673;TI;&X=122497&Y=697918&zoom=6
+Magliaso;6983;TI;&X=93337&Y=712179&zoom=6
+Maglio di Colla;6959;TI;&X=105403&Y=724529&zoom=6
+Magnedens;1727;FR;&X=176827&Y=572690&zoom=6
+Maienfeld;7304;GR;&X=208449&Y=759132&zoom=6
+Mairengo;6763;TI;&X=149366&Y=703585&zoom=6
+Maisprach;4464;BL;&X=263825&Y=631097&zoom=6
+Maladers;7026;GR;&X=189581&Y=761862&zoom=6
+Malans GR;7208;GR;&X=205629&Y=762468&zoom=6
+Malans SG;9479;SG;&X=217503&Y=754647&zoom=6
+Malix;7074;GR;&X=186873&Y=759671&zoom=6
+Malleray;2735;BE;&X=231793&Y=586777&zoom=6
+Maloja;7516;GR;&X=141704&Y=773642&zoom=6
+Malters;6102;LU;&X=209876&Y=657025&zoom=6
+Malvaglia;6713;TI;&X=141440&Y=718838&zoom=6
+Mamishaus;3152;BE;&X=184292&Y=595418&zoom=6
+Mammern;8265;TG;&X=278288&Y=711074&zoom=6
+Mandach;5318;AG;&X=266498&Y=656273&zoom=6
+Mannenbach-Salenstein;8268;TG;&X=281583&Y=721219&zoom=6
+Mannens;1775;FR;&X=182485&Y=564231&zoom=6
+Manno;6928;TI;&X=99210&Y=714562&zoom=6
+Maracon;1613;VD;&X=155534&Y=556467&zoom=6
+Marbach LU;6196;LU;&X=189190&Y=635241&zoom=6
+Marbach SG;9437;SG;&X=251170&Y=760715&zoom=6
+Marchissy;1261;VD;&X=149129&Y=508530&zoom=6
+Mariastein;4115;SO;&X=258393&Y=604014&zoom=6
+Marin-Epagnier;2074;NE;&X=206561&Y=566734&zoom=6
+Marly;1723;FR;&X=180453&Y=578637&zoom=6
+Marmorera;7456;GR;&X=151956&Y=769384&zoom=6
+Marnand;1524;VD;&X=178466&Y=558933&zoom=6
+Maroggia;6817;TI;&X=88458&Y=718958&zoom=6
+Marolta;6723;TI;&X=148794&Y=710590&zoom=6
+Marolta;6723;TI;&X=149518&Y=713519&zoom=6
+Marolta;6723;TI;&X=148588&Y=713818&zoom=6
+Marsens;1633;FR;&X=167221&Y=571385&zoom=6
+Marthalen;8460;ZH;&X=276046&Y=690797&zoom=6
+Martherenges;1063;VD;&X=167992&Y=547542&zoom=6
+Martigny;1920;VS;&X=105523&Y=571784&zoom=6
+Martigny-Croix;1921;VS;&X=103967&Y=570245&zoom=6
+Martina;7560;GR;&X=197021&Y=830306&zoom=6
+Martisberg;3994;VS;&X=137512&Y=650762&zoom=6
+Maschwanden;8933;ZH;&X=231696&Y=674926&zoom=6
+Mase;1968;VS;&X=115973&Y=599835&zoom=6
+Masein;7425;GR;&X=174120&Y=752034&zoom=6
+Maseltrangen;8723;SG;&X=228018&Y=722071&zoom=6
+Massagno;6900;TI;&X=96803&Y=716528&zoom=6
+Massongex;1869;VS;&X=121344&Y=565365&zoom=6
+Massonnens;1692;FR;&X=172265&Y=564420&zoom=6
+Mastrils;7303;GR;&X=204024&Y=760201&zoom=6
+Mathod;1438;VD;&X=179882&Y=533443&zoom=6
+Mathon;7433;GR;&X=166901&Y=751076&zoom=6
+Matran;1753;FR;&X=181754&Y=573860&zoom=6
+Matt;8766;GL;&X=202452&Y=731632&zoom=6
+Matten (St. Stephan);3773;BE;&X=149160&Y=598690&zoom=6
+Matten b. Interlaken;3800;BE;&X=169888&Y=633255&zoom=6
+Mattstetten;3322;BE;&X=208769&Y=605711&zoom=6
+Mattwil;8585;TG;&X=271403&Y=733261&zoom=6
+Matzendorf;4713;SO;&X=239363&Y=614153&zoom=6
+Matzingen;9548;TG;&X=264440&Y=712172&zoom=6
+Mauborget;1453;VD;&X=189732&Y=537328&zoom=6
+Mauensee;6216;LU;&X=224277&Y=647644&zoom=6
+Maules;1625;FR;&X=165368&Y=565749&zoom=6
+Maur;8124;ZH;&X=243507&Y=693135&zoom=6
+Mauraz;1148;VD;&X=162059&Y=522151&zoom=6
+Mauren FL;9493;LI;&X=231915&Y=759540&zoom=6
+Mauren TG;8576;TG;&X=269833&Y=728909&zoom=6
+Mayens-de-Chamoson;1911;VS;&X=117193&Y=580160&zoom=6
+Mayens-de-la-Zour (Savièse);1965;VS;&X=124272&Y=593699&zoom=6
+Medeglia;6809;TI;&X=111203&Y=725167&zoom=6
+Medeglia;6809;TI;&X=108267&Y=718335&zoom=6
+Medels im Rheinwald;7436;GR;&X=156684&Y=742268&zoom=6
+Meggen;6045;LU;&X=211028&Y=670930&zoom=6
+Mehlsecken;6260;LU;&X=232748&Y=639264&zoom=6
+Meien;6485;UR;&X=175546&Y=684911&zoom=6
+Meienberg;5643;AG;&X=227854&Y=671046&zoom=6
+Meienried;3294;BE;&X=220860&Y=592622&zoom=6
+Meierskappel;6344;LU;&X=219854&Y=676184&zoom=6
+Meikirch;3045;BE;&X=206480&Y=594222&zoom=6
+Meilen;8706;ZH;&X=236709&Y=691414&zoom=6
+Meinier;1252;GE;&X=122395&Y=507114&zoom=6
+Meinisberg;2554;BE;&X=223423&Y=593203&zoom=6
+Meiringen;3860;BE;&X=175635&Y=657371&zoom=6
+Meisterschwanden;5616;AG;&X=238555&Y=660193&zoom=6
+Melano;6818;TI;&X=86878&Y=720174&zoom=6
+Melchnau;4917;BE;&X=225894&Y=631702&zoom=6
+Melchsee-Frutt;6068;OW;&X=180672&Y=663061&zoom=6
+Melchtal;6067;OW;&X=187326&Y=665161&zoom=6
+Melide;6815;TI;&X=90189&Y=716679&zoom=6
+Mellikon;5465;AG;&X=268883&Y=668401&zoom=6
+Mellingen;5507;AG;&X=252273&Y=663597&zoom=6
+Mels;8887;SG;&X=212702&Y=750264&zoom=6
+Meltingen;4233;SO;&X=248061&Y=611242&zoom=6
+Mendrisio;6850;TI;&X=80995&Y=719989&zoom=6
+Menzberg;6125;LU;&X=210169&Y=642532&zoom=6
+Menzengrüt;8546;ZH;&X=267465&Y=704119&zoom=6
+Menziken;5737;AG;&X=232353&Y=657120&zoom=6
+Menzingen;6313;ZG;&X=226009&Y=687795&zoom=6
+Menznau;6122;LU;&X=214954&Y=645614&zoom=6
+Menzonio;6692;TI;&X=135133&Y=692527&zoom=6
+Merenschwand;5634;AG;&X=234476&Y=671297&zoom=6
+Mergoscia;6647;TI;&X=118667&Y=708780&zoom=6
+Meride;6866;TI;&X=83216&Y=717523&zoom=6
+Merishausen;8232;SH;&X=290599&Y=687604&zoom=6
+Merligen;3658;BE;&X=172012&Y=622866&zoom=6
+Merlischachen;6402;SZ;&X=213272&Y=673637&zoom=6
+Mervelier;2827;JU;&X=243712&Y=604919&zoom=6
+Merzligen;3274;BE;&X=215198&Y=586007&zoom=6
+Mesocco;6563;GR;&X=139229&Y=738360&zoom=6
+Messen;3254;SO;&X=215706&Y=600950&zoom=6
+Mettau;5274;AG;&X=268405&Y=651743&zoom=6
+Mettembert;2806;JU;&X=249547&Y=591080&zoom=6
+Mettendorf TG;8553;TG;&X=270867&Y=714805&zoom=6
+Mettlen;9517;TG;&X=265918&Y=726529&zoom=6
+Mettmenstetten;8932;ZH;&X=233033&Y=677977&zoom=6
+Metzerlen;4116;SO;&X=257213&Y=602058&zoom=6
+Mex VD;1031;VD;&X=158854&Y=532058&zoom=6
+Mex VS;1890;VS;&X=114930&Y=566098&zoom=6
+Meyriez;3280;FR;&X=197149&Y=574901&zoom=6
+Meyrin;1217;GE;&X=120569&Y=494465&zoom=6
+Mezzovico;6805;TI;&X=104881&Y=710961&zoom=6
+Mezzovico;6805;TI;&X=105325&Y=714182&zoom=6
+Middes;1749;FR;&X=179772&Y=562626&zoom=6
+Mies;1295;VD;&X=129012&Y=502338&zoom=6
+Miex;1896;VS;&X=132059&Y=555730&zoom=6
+Miglieglia;6986;TI;&X=98090&Y=709852&zoom=6
+Milken;3157;BE;&X=182382&Y=593897&zoom=6
+Minusio;6648;TI;&X=114847&Y=706130&zoom=6
+Miralago;7743;GR;&X=128109&Y=805170&zoom=6
+Mirchel;3532;BE;&X=193855&Y=615895&zoom=6
+Misery;1721;FR;&X=188980&Y=571822&zoom=6
+Mission;3961;VS;&X=115688&Y=612045&zoom=6
+Missy;1565;VD;&X=192247&Y=564309&zoom=6
+Misériez (Salins);1991;VS;&X=117339&Y=592794&zoom=6
+Mitlödi;8756;GL;&X=208126&Y=724560&zoom=6
+Mittelhäusern;3147;BE;&X=191708&Y=594616&zoom=6
+Miège;3972;VS;&X=128976&Y=608364&zoom=6
+Miécourt;2946;JU;&X=252840&Y=580216&zoom=6
+Mogelsberg;9122;SG;&X=247022&Y=728392&zoom=6
+Moghegno;6677;TI;&X=121749&Y=697712&zoom=6
+Moiry VD;1148;VD;&X=166840&Y=524596&zoom=6
+Molare;6760;TI;&X=149261&Y=706856&zoom=6
+Moleno;6524;TI;&X=125318&Y=719858&zoom=6
+Molinazzo di Monteggio;6995;TI;&X=94261&Y=707043&zoom=6
+Molinis;7056;GR;&X=188504&Y=769277&zoom=6
+Mollens VD;1146;VD;&X=159081&Y=517563&zoom=6
+Mollens VS;3974;VS;&X=129449&Y=606329&zoom=6
+Mollie-Margot;1073;VD;&X=156402&Y=547222&zoom=6
+Mollis;8753;GL;&X=217296&Y=724814&zoom=6
+Molondin;1415;VD;&X=178961&Y=547281&zoom=6
+Mols;8885;SG;&X=219540&Y=739930&zoom=6
+Moléson-sur-Gruyères;1663;FR;&X=156825&Y=569230&zoom=6
+Mon;7458;GR;&X=168781&Y=762514&zoom=6
+Moneto;6659;TI;&X=111690&Y=691330&zoom=6
+Monible;2715;BE;&X=236187&Y=581964&zoom=6
+Monnaz;1125;VD;&X=153472&Y=526371&zoom=6
+Mont-Crosin;2610;BE;&X=225922&Y=569352&zoom=6
+Mont-Soleil;2610;BE;&X=223290&Y=565735&zoom=6
+Mont-Tramelan;2723;BE;&X=228588&Y=570980&zoom=6
+Mont-de-Buttes;2116;NE;&X=192561&Y=529517&zoom=6
+Mont-la-Ville;1148;VD;&X=166592&Y=521166&zoom=6
+Mont-sur-Rolle;1185;VD;&X=147218&Y=515387&zoom=6
+Montagne-de-Courtelary;2608;BE;&X=224434&Y=575512&zoom=6
+Montagne-de-Sonvilier;2615;BE;&X=218999&Y=562680&zoom=6
+Montagnola;6926;TI;&X=93428&Y=714637&zoom=6
+Montagnon (Leytron);1912;VS;&X=115459&Y=581028&zoom=6
+Montagny-la-Ville;1776;FR;&X=185246&Y=566178&zoom=6
+Montagny-les-Monts;1774;FR;&X=184467&Y=565911&zoom=6
+Montagny-près-Yverdon;1442;VD;&X=182759&Y=536910&zoom=6
+Montalchez;2027;NE;&X=194271&Y=547157&zoom=6
+Montana;3963;VS;&X=127191&Y=604001&zoom=6
+Montaubion-Chardonney;1041;VD;&X=166460&Y=544550&zoom=6
+Montavon;2857;JU;&X=246893&Y=584503&zoom=6
+Montbovon;1669;FR;&X=148401&Y=569830&zoom=6
+Montbrelloz;1475;FR;&X=189310&Y=557841&zoom=6
+Montcherand;1354;VD;&X=176138&Y=529069&zoom=6
+Monte;6875;TI;&X=82360&Y=723388&zoom=6
+Monte Carasso;6513;TI;&X=116495&Y=720494&zoom=6
+Monteiller (Savièse);1965;VS;&X=122848&Y=593545&zoom=6
+Montenol;2884;JU;&X=244708&Y=578339&zoom=6
+Montet (Broye);1483;FR;&X=185144&Y=556505&zoom=6
+Montet (Glâne);1674;FR;&X=166118&Y=552176&zoom=6
+Montezillon;2037;NE;&X=204127&Y=554243&zoom=6
+Montfaucon;2362;JU;&X=236935&Y=570679&zoom=6
+Montfavergier;2362;JU;&X=239914&Y=573621&zoom=6
+Montherod;1174;VD;&X=150282&Y=517643&zoom=6
+Monthey;1870;VS;&X=122482&Y=562087&zoom=6
+Monthey;1870;VS;&X=117479&Y=551885&zoom=6
+Montignez;2924;JU;&X=259655&Y=571411&zoom=6
+Montlingen;9462;SG;&X=242048&Y=756403&zoom=6
+Montlingen;9462;SG;&X=244898&Y=762623&zoom=6
+Montmagny;1587;VD;&X=197387&Y=567309&zoom=6
+Montmelon;2883;JU;&X=244702&Y=580418&zoom=6
+Montmollin;2037;NE;&X=204837&Y=554990&zoom=6
+Montpreveyres;1081;VD;&X=159452&Y=547080&zoom=6
+Montreux;1820;VD;&X=142281&Y=559572&zoom=6
+Montricher;1147;VD;&X=161650&Y=518652&zoom=6
+Montsevelier;2828;JU;&X=245366&Y=605419&zoom=6
+Montévraz;1724;FR;&X=175045&Y=579916&zoom=6
+Moosleerau;5054;AG;&X=235247&Y=647026&zoom=6
+Moosseedorf;3302;BE;&X=207387&Y=603313&zoom=6
+Morbio Inferiore;6834;TI;&X=78949&Y=722776&zoom=6
+Morbio Superiore;6835;TI;&X=80215&Y=722967&zoom=6
+Morcles;1892;VD;&X=117584&Y=568968&zoom=6
+Morcote;6922;TI;&X=86840&Y=714470&zoom=6
+Morens FR;1541;FR;&X=188283&Y=559487&zoom=6
+Morgarten;6315;ZG;&X=217342&Y=690827&zoom=6
+Morges;1110;VD;&X=151479&Y=527961&zoom=6
+Morgins;1875;VS;&X=120809&Y=555171&zoom=6
+Morissen;7143;GR;&X=176885&Y=733157&zoom=6
+Morlens;1674;FR;&X=167044&Y=553921&zoom=6
+Morlon;1638;FR;&X=164136&Y=573129&zoom=6
+Morrens VD;1054;VD;&X=160314&Y=537773&zoom=6
+Morschach;6443;SZ;&X=203890&Y=689647&zoom=6
+Mosen;6295;LU;&X=232735&Y=659747&zoom=6
+Mosnang;9607;SG;&X=246733&Y=720909&zoom=6
+Mosogno;6611;TI;&X=117084&Y=692661&zoom=6
+Mossel;1675;FR;&X=162003&Y=554850&zoom=6
+Motto (Blenio);6721;TI;&X=143079&Y=717801&zoom=6
+Moudon;1510;VD;&X=168747&Y=551061&zoom=6
+Moutier;2740;BE;&X=236623&Y=594971&zoom=6
+Movelier;2812;JU;&X=251133&Y=591000&zoom=6
+Mugena;6939;TI;&X=100740&Y=712318&zoom=6
+Muggio;6838;TI;&X=84736&Y=724507&zoom=6
+Muhen;5037;AG;&X=242866&Y=646310&zoom=6
+Mulegns;7455;GR;&X=154902&Y=767260&zoom=6
+Mumpf;4322;AG;&X=266149&Y=635747&zoom=6
+Mumpé Medel;7183;GR;&X=171640&Y=707751&zoom=6
+Mund;3903;VS;&X=129562&Y=638545&zoom=6
+Muntelier;3286;FR;&X=198308&Y=576043&zoom=6
+Muolen;9313;SG;&X=264954&Y=741806&zoom=6
+Muotathal;6436;SZ;&X=203787&Y=700530&zoom=6
+Mur (Vully) FR;1787;FR;&X=199342&Y=571430&zoom=6
+Mur (Vully) VD;1787;VD;&X=199390&Y=571171&zoom=6
+Muralto;6600;TI;&X=114590&Y=705329&zoom=6
+Muraz (Collombey);1893;VS;&X=125550&Y=560470&zoom=6
+Muraz (Sierre);3960;VS;&X=127350&Y=607018&zoom=6
+Murg;8877;SG;&X=219303&Y=734729&zoom=6
+Murgenthal;4853;AG;&X=235021&Y=629790&zoom=6
+Murgenthal;4853;AG;&X=233437&Y=629535&zoom=6
+Muri AG;5630;AG;&X=236105&Y=668105&zoom=6
+Muri b. Bern;3074;BE;&X=197476&Y=603796&zoom=6
+Muriaux;2338;JU;&X=232899&Y=565149&zoom=6
+Murist;1489;FR;&X=182336&Y=551797&zoom=6
+Murten;3280;FR;&X=197530&Y=575666&zoom=6
+Murzelen;3034;BE;&X=203421&Y=590581&zoom=6
+Mutrux;1428;VD;&X=192690&Y=545796&zoom=6
+Mutten;7431;GR;&X=171842&Y=757518&zoom=6
+Muttenz;4132;BL;&X=263384&Y=616256&zoom=6
+Muzzano;6933;TI;&X=95187&Y=714673&zoom=6
+Mädris-Vermol;8886;SG;&X=212838&Y=748394&zoom=6
+Mägenwil;5506;AG;&X=251294&Y=660005&zoom=6
+Männedorf;8708;ZH;&X=234899&Y=695243&zoom=6
+Märstetten;8560;TG;&X=272507&Y=722171&zoom=6
+Märwil;9562;TG;&X=265686&Y=722822&zoom=6
+Ménières;1533;FR;&X=181594&Y=557452&zoom=6
+Mézery-près-Donneloye;1407;VD;&X=177789&Y=545656&zoom=6
+Mézières FR;1684;FR;&X=169895&Y=560804&zoom=6
+Mézières VD;1083;VD;&X=160659&Y=548856&zoom=6
+Môtier (Vully);1787;FR;&X=199770&Y=572925&zoom=6
+Môtiers NE;2112;NE;&X=195977&Y=536993&zoom=6
+Möhlin;4313;AG;&X=267968&Y=630463&zoom=6
+Mönchaltorf;8617;ZH;&X=241048&Y=696508&zoom=6
+Mönthal;5237;AG;&X=263154&Y=652856&zoom=6
+Mörel;3983;VS;&X=134236&Y=646650&zoom=6
+Mörigen;2572;BE;&X=214837&Y=582787&zoom=6
+Möriken AG;5103;AG;&X=252012&Y=656775&zoom=6
+Mörschwil;9402;SG;&X=259384&Y=749701&zoom=6
+Mötschwil;3324;BE;&X=210874&Y=609785&zoom=6
+Mühlau;5642;AG;&X=231619&Y=671772&zoom=6
+Mühlebach (Goms);3995;VS;&X=140006&Y=655539&zoom=6
+Mühlebach (Goms);3995;VS;&X=139833&Y=661523&zoom=6
+Mühleberg;3203;BE;&X=200591&Y=586647&zoom=6
+Mühledorf BE;3116;BE;&X=186319&Y=606967&zoom=6
+Mühledorf SO;4583;SO;&X=220326&Y=603013&zoom=6
+Mühlehorn;8874;GL;&X=219652&Y=731808&zoom=6
+Mühlethal;4812;AG;&X=239085&Y=640800&zoom=6
+Mühlethurnen;3127;BE;&X=184769&Y=605264&zoom=6
+Mühlrüti;9613;SG;&X=247817&Y=716574&zoom=6
+Mülchi;3317;BE;&X=216754&Y=602657&zoom=6
+Mülenen;3711;BE;&X=165375&Y=619135&zoom=6
+Müllheim Dorf;8555;TG;&X=273457&Y=717823&zoom=6
+Müllheim-Wigoltingen;8554;TG;&X=272227&Y=718487&zoom=6
+Mülligen;5243;AG;&X=256415&Y=660371&zoom=6
+Mümliswil;4717;SO;&X=243400&Y=619384&zoom=6
+Münchenbuchsee;3053;BE;&X=207851&Y=600561&zoom=6
+Münchenstein;4142;BL;&X=262565&Y=613779&zoom=6
+Münchenwiler;1797;BE;&X=195673&Y=576209&zoom=6
+Münchringen;3303;BE;&X=210577&Y=606350&zoom=6
+Münchwilen AG;4333;AG;&X=265132&Y=639566&zoom=6
+Münchwilen TG;9542;TG;&X=259942&Y=716987&zoom=6
+Münsingen;3110;BE;&X=191710&Y=608899&zoom=6
+Münster VS;3985;VS;&X=149010&Y=663551&zoom=6
+Münsterlingen;8596;TG;&X=277187&Y=735006&zoom=6
+Müntschemier;3225;BE;&X=205042&Y=577566&zoom=6
+Mürren;3825;BE;&X=156688&Y=634957&zoom=6
+Müselbach;9602;SG;&X=250257&Y=721245&zoom=6
+Müstair;7537;GR;&X=167797&Y=830224&zoom=6
+Müswangen;6289;LU;&X=232281&Y=664400&zoom=6
+Nassen;9123;SG;&X=248445&Y=728450&zoom=6
+Nassenwil;8155;ZH;&X=257840&Y=677682&zoom=6
+Naters;3904;VS;&X=130739&Y=641981&zoom=6
+Nax;1973;VS;&X=119764&Y=599656&zoom=6
+Naz;1041;VD;&X=167717&Y=543112&zoom=6
+Nebikon;6244;LU;&X=226836&Y=640622&zoom=6
+Necker;9126;SG;&X=245402&Y=727682&zoom=6
+Neerach;8173;ZH;&X=262467&Y=677798&zoom=6
+Neftenbach;8413;ZH;&X=264809&Y=693122&zoom=6
+Neggio;6991;TI;&X=93893&Y=711641&zoom=6
+Neirivue;1669;FR;&X=152733&Y=570796&zoom=6
+Nendeln;9485;LI;&X=229631&Y=759518&zoom=6
+Nennigkofen;4574;SO;&X=226241&Y=603873&zoom=6
+Nenzlingen;4224;BL;&X=255185&Y=608929&zoom=6
+Neschwil;8484;ZH;&X=254061&Y=702149&zoom=6
+Nesselnbach;5524;AG;&X=249191&Y=664710&zoom=6
+Nesslau;9650;SG;&X=231831&Y=733516&zoom=6
+Netstal;8754;GL;&X=213771&Y=722466&zoom=6
+Neu St. Johann;9652;SG;&X=232842&Y=732789&zoom=6
+Neuchâtel;2000;NE;&X=204681&Y=561033&zoom=6
+Neudorf;6025;LU;&X=225408&Y=658612&zoom=6
+Neuendorf;4623;SO;&X=239024&Y=627077&zoom=6
+Neuenegg;3176;BE;&X=194010&Y=589321&zoom=6
+Neuenhof;5432;AG;&X=255367&Y=666752&zoom=6
+Neuenkirch;6206;LU;&X=216832&Y=658070&zoom=6
+Neuhaus SG;8732;SG;&X=233691&Y=713909&zoom=6
+Neuhausen am Rheinfall;8212;SH;&X=281909&Y=688513&zoom=6
+Neuheim;6345;ZG;&X=228515&Y=686519&zoom=6
+Neukirch (Egnach);9315;TG;&X=265836&Y=745478&zoom=6
+Neukirch an der Thur;9217;TG;&X=263781&Y=730277&zoom=6
+Neunkirch;8213;SH;&X=282756&Y=679584&zoom=6
+Neuwilen;8566;TG;&X=275706&Y=727348&zoom=6
+Neuägeri;6314;ZG;&X=222989&Y=685254&zoom=6
+Neyruz FR;1740;FR;&X=179703&Y=571476&zoom=6
+Neyruz-sur-Moudon;1515;VD;&X=172053&Y=550175&zoom=6
+Nidau;2560;BE;&X=219358&Y=584970&zoom=6
+Nidfurn;8772;GL;&X=205244&Y=722678&zoom=6
+Niederbipp;4704;BE;&X=235309&Y=619918&zoom=6
+Niederbuchsiten;4626;SO;&X=238267&Y=625244&zoom=6
+Niederbüren;9246;SG;&X=258511&Y=732891&zoom=6
+Niederdorf;4435;BL;&X=251006&Y=623469&zoom=6
+Niedergampel;3945;VS;&X=129016&Y=620954&zoom=6
+Niedergesteln;3942;VS;&X=128859&Y=626399&zoom=6
+Niederglatt SG;9240;SG;&X=254677&Y=730500&zoom=6
+Niederglatt ZH;8172;ZH;&X=260731&Y=679566&zoom=6
+Niedergösgen;5013;SO;&X=247543&Y=641498&zoom=6
+Niederhasli;8155;ZH;&X=258917&Y=678692&zoom=6
+Niederhelfenschwil;9527;SG;&X=260044&Y=731486&zoom=6
+Niederhünigen;3504;BE;&X=192011&Y=615241&zoom=6
+Niederlenz;5702;AG;&X=250466&Y=655234&zoom=6
+Niedermuhlern;3087;BE;&X=190028&Y=602036&zoom=6
+Niederneunforn;8525;TG;&X=272475&Y=700736&zoom=6
+Niederrickenbach;6383;NW;&X=197180&Y=676031&zoom=6
+Niederried b. Interlaken;3853;BE;&X=174063&Y=637522&zoom=6
+Niederried b. Kallnach;3283;BE;&X=206627&Y=585837&zoom=6
+Niederrohrdorf;5443;AG;&X=252912&Y=664821&zoom=6
+Niederscherli;3145;BE;&X=192729&Y=595951&zoom=6
+Niederstetten;9249;SG;&X=257108&Y=723903&zoom=6
+Niederstocken;3632;BE;&X=173269&Y=610281&zoom=6
+Niederteufen;9052;AR;&X=250858&Y=745287&zoom=6
+Niederurnen;8867;GL;&X=220750&Y=720416&zoom=6
+Niederuzwil;9244;SG;&X=256814&Y=728353&zoom=6
+Niederwald;3989;VS;&X=143039&Y=657598&zoom=6
+Niederwangen b. Bern;3172;BE;&X=197199&Y=595297&zoom=6
+Niederweningen;8166;ZH;&X=262088&Y=670459&zoom=6
+Niederwil AG;5524;AG;&X=247547&Y=664197&zoom=6
+Niederwil SG;9203;SG;&X=255773&Y=732920&zoom=6
+Niederwil SO;4523;SO;&X=233169&Y=609943&zoom=6
+Niederönz;3362;BE;&X=226106&Y=618804&zoom=6
+Niederösch;3424;BE;&X=218393&Y=613182&zoom=6
+Nierlet-les-Bois;1772;FR;&X=185319&Y=570941&zoom=6
+Niouc;3960;VS;&X=124394&Y=608749&zoom=6
+Niva (Vallemaggia);6683;TI;&X=127223&Y=684179&zoom=6
+Nivo;6746;TI;&X=143723&Y=707874&zoom=6
+Nods;2518;BE;&X=217986&Y=572804&zoom=6
+Noflen BE;3116;BE;&X=183832&Y=607989&zoom=6
+Nohl;8212;ZH;&X=280578&Y=687812&zoom=6
+Noiraigue;2103;NE;&X=200802&Y=545525&zoom=6
+Noréaz;1757;FR;&X=183591&Y=568632&zoom=6
+Nottwil;6207;LU;&X=220610&Y=652741&zoom=6
+Novaggio;6986;TI;&X=96457&Y=710071&zoom=6
+Novalles;1431;VD;&X=186708&Y=535698&zoom=6
+Novazzano;6883;TI;&X=77834&Y=720206&zoom=6
+Noville;1845;VD;&X=136760&Y=558452&zoom=6
+Noës;3976;VS;&X=125416&Y=605234&zoom=6
+Nufenen;7437;GR;&X=155981&Y=738583&zoom=6
+Nuglar;4412;SO;&X=257634&Y=619580&zoom=6
+Nunningen;4208;SO;&X=249003&Y=613800&zoom=6
+Nussbaumen AG;5415;AG;&X=260166&Y=664124&zoom=6
+Nussbaumen TG;8537;TG;&X=276010&Y=704124&zoom=6
+Nusshof;4453;BL;&X=260138&Y=627288&zoom=6
+Nuvilly;1485;FR;&X=181612&Y=553572&zoom=6
+Nyon;1260;VD;&X=137313&Y=507634&zoom=6
+Näfels;8752;GL;&X=217947&Y=722853&zoom=6
+Nänikon;8606;ZH;&X=247735&Y=694670&zoom=6
+Némiaz (Chamoson);1955;VS;&X=117897&Y=583397&zoom=6
+Nürensdorf;8309;ZH;&X=256112&Y=691849&zoom=6
+Obbürgen;6363;NW;&X=204117&Y=670923&zoom=6
+Oberaach;8587;TG;&X=269311&Y=737732&zoom=6
+Oberarth;6414;SZ;&X=211913&Y=683186&zoom=6
+Oberbalm;3096;BE;&X=191316&Y=597407&zoom=6
+Oberbalmberg;4524;SO;&X=234836&Y=607620&zoom=6
+Oberbipp;4538;BE;&X=234376&Y=616509&zoom=6
+Oberbuchsiten;4625;SO;&X=239989&Y=625268&zoom=6
+Oberburg;3414;BE;&X=209843&Y=613820&zoom=6
+Oberbussnang;9565;TG;&X=267581&Y=724257&zoom=6
+Oberbüren;9245;SG;&X=256788&Y=730179&zoom=6
+Oberbütschel;3088;BE;&X=187320&Y=601563&zoom=6
+Oberdiessbach;3672;BE;&X=187462&Y=614122&zoom=6
+Oberdorf BL;4436;BL;&X=249067&Y=624191&zoom=6
+Oberdorf NW;6370;NW;&X=201316&Y=671928&zoom=6
+Oberdorf SO;4515;SO;&X=230759&Y=604808&zoom=6
+Oberegg;9413;AI;&X=254320&Y=759129&zoom=6
+Oberegg;9413;AI;&X=255151&Y=761434&zoom=6
+Oberembrach;8425;ZH;&X=260363&Y=689452&zoom=6
+Oberems;3948;VS;&X=125575&Y=619367&zoom=6
+Oberengstringen;8102;ZH;&X=251489&Y=677602&zoom=6
+Oberentfelden;5036;AG;&X=245410&Y=644962&zoom=6
+Oberflachs;5108;AG;&X=254606&Y=651789&zoom=6
+Oberfrittenbach;3551;BE;&X=203020&Y=627498&zoom=6
+Obergerlafingen;4564;SO;&X=223346&Y=611033&zoom=6
+Obergesteln;3988;VS;&X=151904&Y=667691&zoom=6
+Oberglatt ZH;8154;ZH;&X=259464&Y=682227&zoom=6
+Obergoldbach;3434;BE;&X=201085&Y=617824&zoom=6
+Obergösgen;4653;SO;&X=245865&Y=639071&zoom=6
+Oberhallau;8216;SH;&X=284325&Y=678049&zoom=6
+Oberhasli;8156;ZH;&X=257495&Y=679639&zoom=6
+Oberhelfenschwil;9621;SG;&X=246196&Y=726200&zoom=6
+Oberhof;5062;AG;&X=255481&Y=642545&zoom=6
+Oberhofen AG;5273;AG;&X=267321&Y=652292&zoom=6
+Oberhofen TG;8574;TG;&X=275399&Y=731813&zoom=6
+Oberhofen am Thunersee;3653;BE;&X=175682&Y=618071&zoom=6
+Oberhünigen;3504;BE;&X=192092&Y=616764&zoom=6
+Oberiberg;8843;SZ;&X=210954&Y=702427&zoom=6
+Oberkirch LU;6208;LU;&X=223282&Y=651313&zoom=6
+Oberkulm;5727;AG;&X=238860&Y=651194&zoom=6
+Oberlunkhofen;8917;AG;&X=240623&Y=672514&zoom=6
+Obermumpf;4324;AG;&X=264465&Y=637530&zoom=6
+Obermutten;7431;GR;&X=170897&Y=756676&zoom=6
+Obernau;6012;LU;&X=209262&Y=661541&zoom=6
+Oberneunforn;8526;TG;&X=273587&Y=700400&zoom=6
+Oberramsern;4588;SO;&X=218082&Y=602031&zoom=6
+Oberrickenbach;6387;NW;&X=193473&Y=675096&zoom=6
+Oberried FR;1724;FR;&X=176070&Y=580917&zoom=6
+Oberried am Brienzersee;3854;BE;&X=176439&Y=639595&zoom=6
+Oberrieden;8942;ZH;&X=236389&Y=685928&zoom=6
+Oberriet SG;9463;SG;&X=243882&Y=761166&zoom=6
+Oberrindal;9604;SG;&X=252254&Y=726769&zoom=6
+Oberrohrdorf;5452;AG;&X=252811&Y=666654&zoom=6
+Oberrüti;5647;AG;&X=224298&Y=672594&zoom=6
+Obersaxen;7134;GR;&X=178827&Y=726957&zoom=6
+Oberschan;9479;SG;&X=218612&Y=754404&zoom=6
+Oberschrot;1716;FR;&X=176492&Y=587404&zoom=6
+Oberstammheim;8477;ZH;&X=276277&Y=702195&zoom=6
+Obersteckholz;4924;BE;&X=227688&Y=628772&zoom=6
+Oberstetten;9249;SG;&X=256481&Y=724540&zoom=6
+Oberstocken;3632;BE;&X=173849&Y=608852&zoom=6
+Oberterzen;8884;SG;&X=218099&Y=738056&zoom=6
+Oberthal;3531;BE;&X=196572&Y=618753&zoom=6
+Oberurnen;8868;GL;&X=219615&Y=722701&zoom=6
+Oberuzwil;9242;SG;&X=254532&Y=726796&zoom=6
+Oberwald;3999;VS;&X=154180&Y=669669&zoom=6
+Oberwangen TG;8374;TG;&X=254112&Y=715728&zoom=6
+Oberwangen b. Bern;3173;BE;&X=196087&Y=594098&zoom=6
+Oberweningen;8165;ZH;&X=261897&Y=672984&zoom=6
+Oberwil (Dägerlen);8471;ZH;&X=269790&Y=695807&zoom=6
+Oberwil BL;4104;BL;&X=263224&Y=608304&zoom=6
+Oberwil b. Büren;3298;BE;&X=219559&Y=597775&zoom=6
+Oberwil b. Zug;6317;ZG;&X=222320&Y=681427&zoom=6
+Oberwil im Simmental;3765;BE;&X=167347&Y=599536&zoom=6
+Oberwil-Lieli;8966;AG;&X=243524&Y=672214&zoom=6
+Oberägeri;6315;ZG;&X=221576&Y=689123&zoom=6
+Oberönz;3363;BE;&X=225329&Y=619612&zoom=6
+Oberösch;3424;BE;&X=217631&Y=612859&zoom=6
+Obfelden;8912;ZH;&X=235449&Y=674232&zoom=6
+Obstalden;8758;GL;&X=219941&Y=730165&zoom=6
+Ochlenberg;3367;BE;&X=222209&Y=622871&zoom=6
+Ocourt;2889;JU;&X=244626&Y=572746&zoom=6
+Odogno;6960;TI;&X=104578&Y=718432&zoom=6
+Oekingen;4566;SO;&X=225606&Y=612697&zoom=6
+Oensingen;4702;SO;&X=237417&Y=621574&zoom=6
+Oerlingen;8461;ZH;&X=275395&Y=692809&zoom=6
+Oeschenbach;4943;BE;&X=216791&Y=623421&zoom=6
+Oeschgen;5072;AG;&X=263754&Y=643710&zoom=6
+Oeschseite;3776;BE;&X=152521&Y=592628&zoom=6
+Oetwil am See;8618;ZH;&X=236213&Y=697480&zoom=6
+Oetwil an der Limmat;8955;ZH;&X=253831&Y=671725&zoom=6
+Oey;3753;BE;&X=167503&Y=610857&zoom=6
+Oftringen;4665;AG;&X=239984&Y=637409&zoom=6
+Ogens;1045;VD;&X=173567&Y=545203&zoom=6
+Oggio;6955;TI;&X=103377&Y=719715&zoom=6
+Oggio;6955;TI;&X=103174&Y=719365&zoom=6
+Ohmstal;6143;LU;&X=223334&Y=639086&zoom=6
+Oleyres;1580;VD;&X=189200&Y=569453&zoom=6
+Olivone;6718;TI;&X=154264&Y=715295&zoom=6
+Ollon VD;1867;VD;&X=127400&Y=565779&zoom=6
+Ollon VS;3971;VS;&X=124700&Y=602991&zoom=6
+Olsberg;4305;AG;&X=263678&Y=625991&zoom=6
+Olten;4600;SO;&X=244781&Y=635733&zoom=6
+Oltingen;4494;BL;&X=253695&Y=637764&zoom=6
+Onex;1213;GE;&X=115393&Y=496714&zoom=6
+Onnens FR;1756;FR;&X=180596&Y=569511&zoom=6
+Onnens VD;1425;VD;&X=187763&Y=542596&zoom=6
+Opfershofen TG;8584;TG;&X=269186&Y=730433&zoom=6
+Opfertshofen SH;8236;SH;&X=292581&Y=691738&zoom=6
+Opfikon;8152;ZH;&X=253984&Y=686230&zoom=6
+Oppens;1047;VD;&X=173927&Y=542946&zoom=6
+Oppikon;9565;TG;&X=267806&Y=722077&zoom=6
+Oppligen;3629;BE;&X=185579&Y=611882&zoom=6
+Orbe;1350;VD;&X=175222&Y=530768&zoom=6
+Orges;1430;VD;&X=184447&Y=535116&zoom=6
+Orient;1341;VD;&X=161780&Y=508036&zoom=6
+Origlio;6945;TI;&X=101102&Y=716624&zoom=6
+Ormalingen;4466;BL;&X=258124&Y=632625&zoom=6
+Ormône (Savièse);1965;VS;&X=121185&Y=593087&zoom=6
+Orny;1317;VD;&X=168972&Y=530129&zoom=6
+Oron-la-Ville;1610;VD;&X=157873&Y=553131&zoom=6
+Oron-le-Châtel;1608;VD;&X=158338&Y=553928&zoom=6
+Orpund;2552;BE;&X=220703&Y=590457&zoom=6
+Orselina;6644;TI;&X=115205&Y=705132&zoom=6
+Orsières;1937;VS;&X=97770&Y=577357&zoom=6
+Orsonnens;1694;FR;&X=174119&Y=565998&zoom=6
+Ortschwaben;3042;BE;&X=204604&Y=597016&zoom=6
+Orvin;2534;BE;&X=223154&Y=583146&zoom=6
+Orzens;1413;VD;&X=174743&Y=542285&zoom=6
+Oschwand;3476;BE;&X=221153&Y=621257&zoom=6
+Osco;6763;TI;&X=150008&Y=703068&zoom=6
+Osogna;6703;TI;&X=130274&Y=719272&zoom=6
+Ospizio Bernina;7710;GR;&X=143193&Y=798601&zoom=6
+Ossingen;8475;ZH;&X=273943&Y=696812&zoom=6
+Osterfingen;8218;SH;&X=279690&Y=679055&zoom=6
+Ostermundigen;3072;BE;&X=200736&Y=604493&zoom=6
+Otelfingen;8112;ZH;&X=257224&Y=671516&zoom=6
+Othmarsingen;5504;AG;&X=250430&Y=658238&zoom=6
+Ottenbach;8913;ZH;&X=236836&Y=672898&zoom=6
+Ottikon (Gossau ZH);8626;ZH;&X=239126&Y=701557&zoom=6
+Ottikon b. Kemptthal;8307;ZH;&X=254488&Y=696707&zoom=6
+Ottoberg;8561;TG;&X=272120&Y=724099&zoom=6
+Oulens-sous-Echallens;1377;VD;&X=166177&Y=534134&zoom=6
+Oulens-sur-Lucens;1522;VD;&X=172771&Y=551782&zoom=6
+Ovronnaz;1911;VS;&X=116473&Y=579432&zoom=6
+Pagig;7028;GR;&X=189811&Y=767585&zoom=6
+Pailly;1416;VD;&X=172298&Y=541402&zoom=6
+Palagnedra;6657;TI;&X=112111&Y=692206&zoom=6
+Palasuit (Liddes);1945;VS;&X=92327&Y=580986&zoom=6
+Palézieux;1607;VD;&X=154763&Y=553912&zoom=6
+Palézieux-Village;1607;VD;&X=156338&Y=553362&zoom=6
+Pambio-Noranco;6915;TI;&X=93868&Y=715643&zoom=6
+Pampigny;1142;VD;&X=159429&Y=522607&zoom=6
+Panex;1867;VD;&X=128958&Y=567309&zoom=6
+Pany;7243;GR;&X=200377&Y=777467&zoom=6
+Paradiso;6900;TI;&X=94018&Y=717037&zoom=6
+Parpan;7076;GR;&X=181216&Y=762126&zoom=6
+Parsonz;7464;GR;&X=164159&Y=763237&zoom=6
+Paspels;7417;GR;&X=179651&Y=753256&zoom=6
+Passugg;7062;GR;&X=188515&Y=761025&zoom=6
+Paudex;1094;VD;&X=150804&Y=541183&zoom=6
+Payerne;1530;VD;&X=185632&Y=561779&zoom=6
+Pazzallo;6912;TI;&X=93506&Y=716503&zoom=6
+Peccia;6695;TI;&X=140259&Y=692996&zoom=6
+Pedrinate;6832;TI;&X=76154&Y=722375&zoom=6
+Peiden;7110;GR;&X=175818&Y=734347&zoom=6
+Peist;7029;GR;&X=189445&Y=770369&zoom=6
+Peney-le-Jorat;1059;VD;&X=164993&Y=545553&zoom=6
+Pensier;1783;FR;&X=188169&Y=576856&zoom=6
+Penthalaz;1305;VD;&X=162961&Y=530344&zoom=6
+Penthaz;1303;VD;&X=161402&Y=531057&zoom=6
+Penthéréaz;1375;VD;&X=170426&Y=536110&zoom=6
+Perlen;6035;LU;&X=218148&Y=669913&zoom=6
+Perly;1258;GE;&X=112513&Y=495640&zoom=6
+Perrefitte;2742;BE;&X=235987&Y=592681&zoom=6
+Perroy;1166;VD;&X=146816&Y=517566&zoom=6
+Personico;6744;TI;&X=136523&Y=713883&zoom=6
+Peseux;2034;NE;&X=204174&Y=558161&zoom=6
+Petit Vichères (Liddes);1945;VS;&X=93592&Y=578913&zoom=6
+Petit-Lancy;1213;GE;&X=116152&Y=497985&zoom=6
+Petit-Martel;2316;NE;&X=206840&Y=547776&zoom=6
+Peyres-Possens;1063;VD;&X=168273&Y=543998&zoom=6
+Pfaffhausen;8118;ZH;&X=246679&Y=689673&zoom=6
+Pfaffnau;6264;LU;&X=230764&Y=634973&zoom=6
+Pfeffikon LU;5735;LU;&X=233392&Y=655589&zoom=6
+Pfeffingen;4148;BL;&X=256279&Y=610689&zoom=6
+Pfungen;8422;ZH;&X=263168&Y=690929&zoom=6
+Pfyn;8505;TG;&X=273180&Y=714029&zoom=6
+Pfäfers;7312;SG;&X=206542&Y=757153&zoom=6
+Pfäfers;7312;SG;&X=203528&Y=755983&zoom=6
+Pfäffikon SZ;8808;SZ;&X=228581&Y=701481&zoom=6
+Pfäffikon ZH;8330;ZH;&X=246910&Y=701403&zoom=6
+Piandera Paese;6959;TI;&X=104743&Y=723855&zoom=6
+Piandera Paese;6959;TI;&X=104341&Y=723227&zoom=6
+Pianezzo;6582;TI;&X=114329&Y=722990&zoom=6
+Piano di Peccia;6695;TI;&X=140943&Y=689927&zoom=6
+Piazzogna;6579;TI;&X=110226&Y=707151&zoom=6
+Pierrafortscha;1723;FR;&X=181786&Y=580682&zoom=6
+Pieterlen;2542;BE;&X=224802&Y=591634&zoom=6
+Pignia;7443;GR;&X=164437&Y=753390&zoom=6
+Pigniu;7156;GR;&X=185559&Y=728080&zoom=6
+Piotta;6776;TI;&X=152242&Y=694786&zoom=6
+Pitasch;7111;GR;&X=177057&Y=735916&zoom=6
+Pizy;1174;VD;&X=149763&Y=516251&zoom=6
+Plaffeien;1716;FR;&X=176819&Y=588332&zoom=6
+Plagne;2536;BE;&X=226393&Y=588538&zoom=6
+Plan-les-Ouates;1228;GE;&X=113817&Y=497838&zoom=6
+Planken;9498;LI;&X=228165&Y=759689&zoom=6
+Plasselb;1737;FR;&X=176052&Y=585731&zoom=6
+Platta;7185;GR;&X=168423&Y=708332&zoom=6
+Plaun da Lej;7517;GR;&X=143724&Y=775701&zoom=6
+Pleigne;2807;JU;&X=250773&Y=589098&zoom=6
+Pleujouse;2953;JU;&X=251379&Y=582806&zoom=6
+Plons;8889;SG;&X=213663&Y=748928&zoom=6
+Pohlern;3638;BE;&X=174888&Y=607386&zoom=6
+Poliez-Pittet;1041;VD;&X=164314&Y=542093&zoom=6
+Poliez-le-Grand;1041;VD;&X=165571&Y=540669&zoom=6
+Pollegio;6742;TI;&X=136001&Y=715646&zoom=6
+Pompaples;1318;VD;&X=168759&Y=529028&zoom=6
+Pomy;1405;VD;&X=178970&Y=541239&zoom=6
+Pont (Veveyse);1699;FR;&X=159945&Y=555168&zoom=6
+Pont-de-la-Morge (Sion);1962;VS;&X=119434&Y=590752&zoom=6
+Pont-la-Ville;1649;FR;&X=172152&Y=574946&zoom=6
+Ponte Capriasca;6946;TI;&X=102392&Y=716425&zoom=6
+Ponte Capriasca;6946;TI;&X=109370&Y=725768&zoom=6
+Ponte Cremenaga;6996;TI;&X=94375&Y=705534&zoom=6
+Ponte Tresa;6988;TI;&X=92205&Y=710037&zoom=6
+Pontenet;2733;BE;&X=232016&Y=586053&zoom=6
+Ponthaux;1772;FR;&X=185013&Y=569585&zoom=6
+Ponto Valentino;6724;TI;&X=149069&Y=714922&zoom=6
+Pontresina;7504;GR;&X=152024&Y=789547&zoom=6
+Porrentruy;2900;JU;&X=251739&Y=572696&zoom=6
+Porsel;1699;FR;&X=161105&Y=556121&zoom=6
+Porsel;1699;FR;&X=160608&Y=557617&zoom=6
+Port;2562;BE;&X=218486&Y=586096&zoom=6
+Portalban;1568;FR;&X=196430&Y=563196&zoom=6
+Portein;7423;GR;&X=175137&Y=750468&zoom=6
+Porto Ronco;6613;TI;&X=110700&Y=699465&zoom=6
+Porza;6948;TI;&X=98377&Y=717018&zoom=6
+Posat;1726;FR;&X=176380&Y=570894&zoom=6
+Poschiavo;7742;GR;&X=133837&Y=801993&zoom=6
+Posieux;1725;FR;&X=179074&Y=573746&zoom=6
+Praden;7063;GR;&X=188087&Y=763682&zoom=6
+Pragg-Jenaz;7231;GR;&X=201305&Y=772430&zoom=6
+Prahins;1408;VD;&X=176247&Y=546616&zoom=6
+Prangins;1197;VD;&X=138823&Y=508569&zoom=6
+Praratoud;1528;FR;&X=176105&Y=554821&zoom=6
+Prato (Leventina);6773;TI;&X=148795&Y=701197&zoom=6
+Prato-Sornico;6694;TI;&X=139073&Y=693489&zoom=6
+Pratteln;4133;BL;&X=262799&Y=618790&zoom=6
+Pratval;7415;GR;&X=177617&Y=753611&zoom=6
+Pravidondaz (Salins);1991;VS;&X=117891&Y=593536&zoom=6
+Praz (Vully);1788;FR;&X=200270&Y=574015&zoom=6
+Praz-de-Fort;1943;VS;&X=93210&Y=575734&zoom=6
+Preda;7482;GR;&X=162575&Y=779190&zoom=6
+Pregassona;6963;TI;&X=97840&Y=718702&zoom=6
+Premier;1324;VD;&X=173066&Y=524032&zoom=6
+Preonzo;6523;TI;&X=124764&Y=720529&zoom=6
+Presinge;1243;GE;&X=119301&Y=508673&zoom=6
+Prez-vers-Noréaz;1746;FR;&X=181683&Y=567657&zoom=6
+Prez-vers-Siviriez;1677;FR;&X=165363&Y=556803&zoom=6
+Prilly;1008;VD;&X=154014&Y=536259&zoom=6
+Pringy;1663;FR;&X=158652&Y=571904&zoom=6
+Produit (Leytron);1912;VS;&X=115038&Y=581169&zoom=6
+Progens;1624;FR;&X=159269&Y=559502&zoom=6
+Progens;1624;FR;&X=160375&Y=562536&zoom=6
+Promasens;1673;FR;&X=161313&Y=552835&zoom=6
+Promontogno;7606;GR;&X=133922&Y=763012&zoom=6
+Prosito;6526;TI;&X=126666&Y=719139&zoom=6
+Provence;1428;VD;&X=193456&Y=545710&zoom=6
+Prugiasco;6723;TI;&X=146670&Y=714698&zoom=6
+Prugiasco;6723;TI;&X=148142&Y=714670&zoom=6
+Präz;7424;GR;&X=178872&Y=750394&zoom=6
+Préverenges;1028;VD;&X=152306&Y=530039&zoom=6
+Prévondavaux;1410;FR;&X=175333&Y=550667&zoom=6
+Prévonloup;1682;VD;&X=172215&Y=557392&zoom=6
+Prêles;2515;BE;&X=216526&Y=576561&zoom=6
+Pugerna;6823;TI;&X=93087&Y=719358&zoom=6
+Puidoux;1070;VD;&X=149813&Y=549675&zoom=6
+Pully;1009;VD;&X=151171&Y=540390&zoom=6
+Puplinge;1241;GE;&X=118321&Y=506911&zoom=6
+Pura;6984;TI;&X=93549&Y=710699&zoom=6
+Purasca;6989;TI;&X=92910&Y=709574&zoom=6
+Pusserein;7228;GR;&X=206111&Y=772852&zoom=6
+Putz;7224;GR;&X=199799&Y=775430&zoom=6
+Péry;2603;BE;&X=227128&Y=585671&zoom=6
+Quarten;8883;SG;&X=218674&Y=736447&zoom=6
+Quartino;6572;TI;&X=112436&Y=712458&zoom=6
+Quinten;8878;SG;&X=221460&Y=734979&zoom=6
+Quinto;6777;TI;&X=151884&Y=697671&zoom=6
+Rabius;7172;GR;&X=177138&Y=715901&zoom=6
+Radelfingen b. Aarberg;3271;BE;&X=207882&Y=587108&zoom=6
+Rafz;8197;ZH;&X=274322&Y=682427&zoom=6
+Rain;6026;LU;&X=220189&Y=662560&zoom=6
+Ramersberg;6060;OW;&X=194635&Y=660412&zoom=6
+Ramiswil;4719;SO;&X=244028&Y=616706&zoom=6
+Ramlinsburg;4433;BL;&X=255424&Y=624959&zoom=6
+Ramosch;7556;GR;&X=191211&Y=824870&zoom=6
+Ramosch;7556;GR;&X=198279&Y=813756&zoom=6
+Ramsei;3435;BE;&X=205301&Y=620520&zoom=6
+Ramsen;8262;SH;&X=284939&Y=703147&zoom=6
+Rancate;6862;TI;&X=81131&Y=718840&zoom=6
+Rances;1439;VD;&X=179292&Y=530657&zoom=6
+Randa;3928;VS;&X=105428&Y=626906&zoom=6
+Randogne;3975;VS;&X=129069&Y=605558&zoom=6
+Ranflüh;3439;BE;&X=204316&Y=623188&zoom=6
+Ranzo;6577;TI;&X=107653&Y=703045&zoom=6
+Raperswilen;8558;TG;&X=277216&Y=720862&zoom=6
+Rapperswil BE;3255;BE;&X=212367&Y=597467&zoom=6
+Rapperswil SG;8640;SG;&X=231411&Y=704499&zoom=6
+Raron;3942;VS;&X=128792&Y=627576&zoom=6
+Rasa;6655;TI;&X=112349&Y=693931&zoom=6
+Ravoire;1928;VS;&X=105149&Y=569635&zoom=6
+Realp;6491;UR;&X=161496&Y=681775&zoom=6
+Realta;7408;GR;&X=180152&Y=751419&zoom=6
+Rebeuvelier;2832;JU;&X=241545&Y=597788&zoom=6
+Rebstein;9445;SG;&X=252067&Y=761946&zoom=6
+Rebévelier;2717;BE;&X=237694&Y=580987&zoom=6
+Recherswil;4565;SO;&X=223288&Y=612244&zoom=6
+Rechthalten;1718;FR;&X=179488&Y=584413&zoom=6
+Reckingen VS;3998;VS;&X=147109&Y=661807&zoom=6
+Reconvilier;2732;BE;&X=231592&Y=582807&zoom=6
+Regensberg;8158;ZH;&X=259459&Y=675282&zoom=6
+Regensdorf;8105;ZH;&X=253980&Y=677526&zoom=6
+Rehetobel;9038;AR;&X=254948&Y=754423&zoom=6
+Reichenbach im Kandertal;3713;BE;&X=163910&Y=619561&zoom=6
+Reichenburg;8864;SZ;&X=225246&Y=716365&zoom=6
+Reiden;6260;LU;&X=232651&Y=640394&zoom=6
+Reidermoos;6260;LU;&X=233881&Y=641741&zoom=6
+Reigoldswil;4418;BL;&X=249983&Y=618724&zoom=6
+Reinach AG;5734;AG;&X=234214&Y=656976&zoom=6
+Reinach BL;4153;BL;&X=260221&Y=611444&zoom=6
+Reisiswil;4919;BE;&X=223876&Y=630909&zoom=6
+Reitnau;5057;AG;&X=233525&Y=646197&zoom=6
+Rekingen AG;5332;AG;&X=269182&Y=666885&zoom=6
+Remaufens;1617;FR;&X=153081&Y=557035&zoom=6
+Remetschwil;5453;AG;&X=251093&Y=667408&zoom=6
+Remigen;5236;AG;&X=263362&Y=656217&zoom=6
+Renan BE;2616;BE;&X=219699&Y=561337&zoom=6
+Renens VD;1020;VD;&X=154300&Y=534952&zoom=6
+Rengg;6162;LU;&X=206029&Y=649636&zoom=6
+Rennaz;1847;VD;&X=136192&Y=559990&zoom=6
+Retschwil;6285;LU;&X=227205&Y=661750&zoom=6
+Reute AR;9411;SG;&X=254396&Y=762645&zoom=6
+Reute AR;9411;AR;&X=254162&Y=761213&zoom=6
+Reutigen;3647;BE;&X=171346&Y=613834&zoom=6
+Reutlingen (Winterthur);8404;ZH;&X=264971&Y=698634&zoom=6
+Reverolle;1128;VD;&X=155060&Y=523379&zoom=6
+Rheinau;8462;ZH;&X=277895&Y=687899&zoom=6
+Rheineck;9424;SG;&X=259449&Y=762188&zoom=6
+Rheinfelden;4310;AG;&X=266626&Y=627754&zoom=6
+Rheinklingen;8259;TG;&X=281386&Y=702784&zoom=6
+Rheinsulz;5084;AG;&X=267259&Y=648786&zoom=6
+Rhäzüns;7403;GR;&X=184724&Y=749173&zoom=6
+Riaz;1632;FR;&X=165654&Y=571099&zoom=6
+Riazzino;6595;TI;&X=115132&Y=711916&zoom=6
+Richenthal;6263;LU;&X=229862&Y=638164&zoom=6
+Richigen;3078;BE;&X=196438&Y=611294&zoom=6
+Richterswil;8805;ZH;&X=229360&Y=695631&zoom=6
+Ricken SG;8726;SG;&X=236072&Y=721683&zoom=6
+Rickenbach BL;4462;BL;&X=259546&Y=630805&zoom=6
+Rickenbach LU;6221;LU;&X=230866&Y=654037&zoom=6
+Rickenbach SO;4613;SO;&X=243587&Y=631442&zoom=6
+Rickenbach Sulz;8545;ZH;&X=266573&Y=701216&zoom=6
+Rickenbach ZH;8545;ZH;&X=267484&Y=702365&zoom=6
+Rickenbach b. Schwyz;6432;SZ;&X=207991&Y=693304&zoom=6
+Rickenbach b. Wil;9532;SG;&X=255020&Y=722540&zoom=6
+Rickenbach b. Wil;9532;TG;&X=256518&Y=721291&zoom=6
+Ricketwil (Winterthur);8352;ZH;&X=260458&Y=702639&zoom=6
+Riddes;1908;VS;&X=113332&Y=583707&zoom=6
+Ried (Frutigen);3724;BE;&X=157012&Y=613282&zoom=6
+Ried (Muotathal);6436;SZ;&X=204711&Y=697013&zoom=6
+Ried b. Kerzers;3216;FR;&X=200394&Y=580780&zoom=6
+Ried-Brig;3911;VS;&X=129153&Y=644592&zoom=6
+Ried-Mörel;3986;VS;&X=134278&Y=645512&zoom=6
+Rieden AG;5415;AG;&X=259604&Y=665225&zoom=6
+Rieden SG;8739;SG;&X=231467&Y=722162&zoom=6
+Riederalp;3987;VS;&X=136190&Y=644900&zoom=6
+Riedern;8750;GL;&X=212146&Y=722224&zoom=6
+Riedholz;4533;SO;&X=231438&Y=609672&zoom=6
+Riedikon;8616;ZH;&X=243187&Y=696207&zoom=6
+Riedstätt;3159;BE;&X=181411&Y=590927&zoom=6
+Riedt b. Erlen;8586;TG;&X=267359&Y=733844&zoom=6
+Riedtwil;3475;BE;&X=221138&Y=619577&zoom=6
+Riehen;4125;BS;&X=270467&Y=615842&zoom=6
+Riein;7128;GR;&X=178582&Y=737120&zoom=6
+Riemenstalden;6452;SZ;&X=200276&Y=693464&zoom=6
+Riet (Neftenbach);8412;ZH;&X=265764&Y=694183&zoom=6
+Rietheim;5323;AG;&X=272713&Y=663322&zoom=6
+Riex;1097;VD;&X=149353&Y=546032&zoom=6
+Riffenmatt;3156;BE;&X=179384&Y=593453&zoom=6
+Rifferswil;8911;ZH;&X=233329&Y=680124&zoom=6
+Riggisberg;3132;BE;&X=184497&Y=602904&zoom=6
+Rigi Kaltbad;6356;LU;&X=210840&Y=678450&zoom=6
+Rigi Klösterli;6410;SZ;&X=210915&Y=679658&zoom=6
+Rigi Kulm;6410;SZ;&X=212100&Y=679338&zoom=6
+Rigi Scheidegg;6410;SZ;&X=208797&Y=682270&zoom=6
+Rigi Staffel;6410;SZ;&X=211927&Y=678763&zoom=6
+Riken AG;4853;AG;&X=236229&Y=631094&zoom=6
+Rikon im Tösstal;8486;ZH;&X=255718&Y=702555&zoom=6
+Ringgenberg BE;3852;BE;&X=172285&Y=635017&zoom=6
+Ringoldswil;3656;BE;&X=175833&Y=619560&zoom=6
+Riniken;5223;AG;&X=260623&Y=656374&zoom=6
+Riom;7463;GR;&X=164067&Y=764250&zoom=6
+Riom;7463;GR;&X=166394&Y=764372&zoom=6
+Riom;7463;GR;&X=166936&Y=764956&zoom=6
+Risch;6343;ZG;&X=220696&Y=677862&zoom=6
+Ritzingen;3989;VS;&X=145496&Y=660425&zoom=6
+Riva San Vitale;6826;TI;&X=84921&Y=718754&zoom=6
+Rivaz;1071;VD;&X=147440&Y=549304&zoom=6
+Rive Haute (Liddes);1945;VS;&X=95051&Y=579278&zoom=6
+Riveo;6674;TI;&X=127925&Y=692182&zoom=6
+Rivera;6802;TI;&X=109419&Y=714379&zoom=6
+Rizenbach;3206;BE;&X=199177&Y=583894&zoom=6
+Robasacco;6599;TI;&X=111185&Y=716296&zoom=6
+Roche VD;1852;VD;&X=134604&Y=560888&zoom=6
+Roche-d'Or;2912;JU;&X=246376&Y=563394&zoom=6
+Rochefort;2019;NE;&X=203148&Y=552165&zoom=6
+Roches BE;2762;BE;&X=239021&Y=595757&zoom=6
+Rocourt;2907;JU;&X=248827&Y=563589&zoom=6
+Rodels;7415;GR;&X=178363&Y=752987&zoom=6
+Rodersdorf;4118;SO;&X=258932&Y=601318&zoom=6
+Rodi-Fiesso;6772;TI;&X=149526&Y=699496&zoom=6
+Roggenburg;2814;BL;&X=253587&Y=592662&zoom=6
+Roggliswil;6265;LU;&X=229113&Y=633911&zoom=6
+Roggwil BE;4914;BE;&X=232180&Y=629003&zoom=6
+Roggwil TG;9325;TG;&X=263132&Y=747425&zoom=6
+Rohr b. Olten;4655;SO;&X=251216&Y=639068&zoom=6
+Rohrbach;4938;BE;&X=220279&Y=628344&zoom=6
+Rohrbachgraben;4938;BE;&X=218936&Y=627460&zoom=6
+Rohrmatt;6132;LU;&X=214949&Y=641479&zoom=6
+Rolle;1180;VD;&X=145844&Y=515307&zoom=6
+Romainmôtier;1323;VD;&X=171830&Y=525256&zoom=6
+Romairon;1423;VD;&X=189155&Y=539239&zoom=6
+Romanel-sur-Lausanne;1032;VD;&X=157218&Y=536169&zoom=6
+Romanel-sur-Morges;1122;VD;&X=156452&Y=528914&zoom=6
+Romanens;1626;FR;&X=166720&Y=564170&zoom=6
+Romanshorn;8590;TG;&X=270028&Y=745288&zoom=6
+Rombach;5022;AG;&X=250683&Y=645831&zoom=6
+Romont BE;2538;BE;&X=226439&Y=592554&zoom=6
+Romont FR;1680;FR;&X=171709&Y=560195&zoom=6
+Romoos;6113;LU;&X=206827&Y=644512&zoom=6
+Rona;7454;GR;&X=158996&Y=767426&zoom=6
+Ronco sopra Ascona;6622;TI;&X=111040&Y=699592&zoom=6
+Rongellen;7430;GR;&X=171104&Y=753380&zoom=6
+Root;6037;LU;&X=218486&Y=671787&zoom=6
+Root D4;6039;LU;&X=217279&Y=670888&zoom=6
+Ropraz;1088;VD;&X=162864&Y=547377&zoom=6
+Rorbas;8427;ZH;&X=264946&Y=685341&zoom=6
+Rorschach;9400;SG;&X=260212&Y=754724&zoom=6
+Rorschacherberg;9404;SG;&X=259324&Y=755560&zoom=6
+Rosenlaui;3860;BE;&X=170067&Y=654724&zoom=6
+Rossa;6548;GR;&X=137399&Y=729874&zoom=6
+Rossemaison;2842;JU;&X=243725&Y=592615&zoom=6
+Rossenges;1513;VD;&X=167159&Y=549045&zoom=6
+Rossens FR;1728;FR;&X=174365&Y=574167&zoom=6
+Rossens VD;1554;VD;&X=176118&Y=560542&zoom=6
+Rosshäusern;3204;BE;&X=197973&Y=587545&zoom=6
+Rossinière;1658;VD;&X=146177&Y=572542&zoom=6
+Rossrüti;9512;SG;&X=259686&Y=722437&zoom=6
+Rossura;6760;TI;&X=148055&Y=706471&zoom=6
+Rosswald;3913;VS;&X=128408&Y=646774&zoom=6
+Rosé;1754;FR;&X=181289&Y=571161&zoom=6
+Rothenbrunnen;7405;GR;&X=181584&Y=751643&zoom=6
+Rothenburg;6023;LU;&X=216217&Y=663351&zoom=6
+Rothenfluh;4467;BL;&X=256914&Y=636313&zoom=6
+Rothenhausen;9565;TG;&X=267727&Y=725770&zoom=6
+Rothenthurm;6418;SZ;&X=217858&Y=693856&zoom=6
+Rothrist;4852;AG;&X=238696&Y=633660&zoom=6
+Rothwald;3901;VS;&X=125688&Y=646411&zoom=6
+Rotkreuz;6343;ZG;&X=221227&Y=675575&zoom=6
+Rottenschwil;8919;AG;&X=240809&Y=670113&zoom=6
+Rougemont;1659;VD;&X=148497&Y=582157&zoom=6
+Roumaz (Savièse);1965;VS;&X=121658&Y=592954&zoom=6
+Roveredo GR;6535;GR;&X=121575&Y=729696&zoom=6
+Roveredo TI;6957;TI;&X=103644&Y=719502&zoom=6
+Rovio;6821;TI;&X=88191&Y=720054&zoom=6
+Rovray;1463;VD;&X=181702&Y=548575&zoom=6
+Rubigen;3113;BE;&X=194095&Y=608429&zoom=6
+Rudolfingen;8465;ZH;&X=277385&Y=692515&zoom=6
+Rudolfstetten;8964;AG;&X=246833&Y=671317&zoom=6
+Rue;1673;FR;&X=163338&Y=552792&zoom=6
+Rueras;7189;GR;&X=170157&Y=700181&zoom=6
+Rueun;7156;GR;&X=182242&Y=730842&zoom=6
+Rueyres;1046;VD;&X=171631&Y=542882&zoom=6
+Rueyres-St-Laurent;1695;FR;&X=174110&Y=568961&zoom=6
+Rueyres-Treyfayes;1626;FR;&X=166494&Y=563266&zoom=6
+Rueyres-les-Prés;1542;FR;&X=189966&Y=560201&zoom=6
+Rufi;8723;SG;&X=226830&Y=722324&zoom=6
+Ruggell;9491;LI;&X=234085&Y=758483&zoom=6
+Rumendingen;3472;BE;&X=217229&Y=615240&zoom=6
+Rumisberg;4539;BE;&X=234986&Y=615224&zoom=6
+Rumlikon;8332;ZH;&X=251701&Y=699503&zoom=6
+Rupperswil;5102;AG;&X=250449&Y=652533&zoom=6
+Ruppoldsried;3251;BE;&X=215340&Y=599079&zoom=6
+Ruschein;7154;GR;&X=182870&Y=733922&zoom=6
+Russikon;8332;ZH;&X=250149&Y=701411&zoom=6
+Russin;1281;GE;&X=116119&Y=490017&zoom=6
+Russo;6662;TI;&X=117431&Y=691356&zoom=6
+Russy;1773;FR;&X=188056&Y=566653&zoom=6
+Ruswil;6017;LU;&X=215129&Y=652245&zoom=6
+Rutschwil (Dägerlen);8471;ZH;&X=268261&Y=697394&zoom=6
+Ruvigliana;6977;TI;&X=96133&Y=719017&zoom=6
+Rämismühle;8487;ZH;&X=255447&Y=704122&zoom=6
+Réchy;3966;VS;&X=123369&Y=604514&zoom=6
+Réclère;2912;JU;&X=247330&Y=561107&zoom=6
+Römerswil LU;6027;LU;&X=224621&Y=661451&zoom=6
+Röschenz;4244;BL;&X=253000&Y=602544&zoom=6
+Röthenbach Herzogenbuchsee;3373;BE;&X=228439&Y=618547&zoom=6
+Röthenbach im Emmental;3538;BE;&X=189095&Y=623395&zoom=6
+Rüderswil;3437;BE;&X=203560&Y=621375&zoom=6
+Rüdlingen;8455;SH;&X=270447&Y=685283&zoom=6
+Rüdtligen;3422;BE;&X=215034&Y=609682&zoom=6
+Rüedisbach;3474;BE;&X=218590&Y=620145&zoom=6
+Rüeggisberg;3088;BE;&X=185767&Y=600223&zoom=6
+Rüegsau;3417;BE;&X=208469&Y=618009&zoom=6
+Rüegsauschachen;3415;BE;&X=208033&Y=616567&zoom=6
+Rüegsbach;3418;BE;&X=209241&Y=619239&zoom=6
+Rüeterswil;8735;SG;&X=235420&Y=717158&zoom=6
+Rüfenach AG;5235;AG;&X=262104&Y=658040&zoom=6
+Rüfenacht BE;3075;BE;&X=197629&Y=607607&zoom=6
+Rümikon AG;5464;AG;&X=268535&Y=670651&zoom=6
+Rümlang;8153;ZH;&X=255907&Y=681686&zoom=6
+Rümligen;3128;BE;&X=186654&Y=604353&zoom=6
+Rümlingen;4444;BL;&X=252856&Y=631302&zoom=6
+Rünenberg;4497;BL;&X=253675&Y=633840&zoom=6
+Rüschegg Gambach;3153;BE;&X=180563&Y=595067&zoom=6
+Rüschegg Heubach;3154;BE;&X=181207&Y=597604&zoom=6
+Rüschlikon;8803;ZH;&X=239854&Y=683842&zoom=6
+Rüthi (Rheintal);9464;SG;&X=240336&Y=759078&zoom=6
+Rüti GL;8782;GL;&X=199439&Y=720252&zoom=6
+Rüti ZH;8630;ZH;&X=234579&Y=706824&zoom=6
+Rüti b. Büren;3295;BE;&X=222611&Y=597596&zoom=6
+Rüti b. Lyssach;3421;BE;&X=211745&Y=610506&zoom=6
+Rüti b. Riggisberg;3099;BE;&X=181292&Y=600679&zoom=6
+Rütihof;5406;AG;&X=254696&Y=662586&zoom=6
+Rütli;6441;UR;&X=202601&Y=687834&zoom=6
+Rütschelen;4933;BE;&X=224749&Y=625204&zoom=6
+Rüttenen;4522;SO;&X=231068&Y=607304&zoom=6
+S-chanf;7525;GR;&X=165680&Y=795031&zoom=6
+S. Antonino;6592;TI;&X=112632&Y=718341&zoom=6
+S. Antonio (Val Morobbia);6583;TI;&X=114579&Y=725630&zoom=6
+S. Benedetg;7174;GR;&X=176909&Y=714488&zoom=6
+S. Bernardino;6565;GR;&X=147408&Y=734941&zoom=6
+S. Carlo (Poschiavo);7741;GR;&X=135869&Y=802100&zoom=6
+S. Carlo (Val Bavona);6690;TI;&X=140296&Y=683744&zoom=6
+S. Nazzaro;6575;TI;&X=109934&Y=705576&zoom=6
+S. Pietro;6854;TI;&X=79734&Y=716277&zoom=6
+S. Vittore;6534;GR;&X=122150&Y=728922&zoom=6
+S. Vittore;6534;GR;&X=116436&Y=733097&zoom=6
+Saanen;3792;BE;&X=148796&Y=586168&zoom=6
+Saanenmöser;3777;BE;&X=151805&Y=590261&zoom=6
+Saas im Prättigau;7247;GR;&X=198443&Y=780509&zoom=6
+Saas-Almagell;3905;VS;&X=104876&Y=639760&zoom=6
+Saas-Balen;3908;VS;&X=111781&Y=637931&zoom=6
+Saas-Fee;3906;VS;&X=106292&Y=637954&zoom=6
+Saas-Grund;3910;VS;&X=107991&Y=638711&zoom=6
+Sachseln;6072;OW;&X=190687&Y=660571&zoom=6
+Saclentse;1996;VS;&X=113762&Y=590743&zoom=6
+Safenwil;5745;AG;&X=241016&Y=641466&zoom=6
+Safien Platz;7107;GR;&X=171931&Y=743555&zoom=6
+Safnern;2553;BE;&X=222159&Y=591592&zoom=6
+Sagno;6839;TI;&X=79659&Y=724466&zoom=6
+Sagogn;7152;GR;&X=183788&Y=738813&zoom=6
+Saicourt;2732;BE;&X=232477&Y=582507&zoom=6
+Saignelégier;2350;JU;&X=233964&Y=566472&zoom=6
+Saillon;1913;VS;&X=113355&Y=580391&zoom=6
+Saillon;1913;VS;&X=115480&Y=575537&zoom=6
+Sala Capriasca;6954;TI;&X=107978&Y=723172&zoom=6
+Sala Capriasca;6954;TI;&X=102813&Y=717225&zoom=6
+Saland;8493;ZH;&X=249884&Y=706818&zoom=6
+Salavaux;1585;VD;&X=196284&Y=568334&zoom=6
+Salenstein;8268;TG;&X=281107&Y=721593&zoom=6
+Salez;9465;SG;&X=233896&Y=756265&zoom=6
+Salgesch;3970;VS;&X=128934&Y=610179&zoom=6
+Salins;1991;VS;&X=117549&Y=593770&zoom=6
+Salmsach;8599;TG;&X=269017&Y=745719&zoom=6
+Salorino;6872;TI;&X=81317&Y=720881&zoom=6
+Salouf;7462;GR;&X=165896&Y=763423&zoom=6
+Salvan;1922;VS;&X=107768&Y=567711&zoom=6
+Salvenach;1794;FR;&X=195756&Y=578043&zoom=6
+Samedan;7503;GR;&X=156514&Y=786539&zoom=6
+Samnaun Dorf;7563;GR;&X=203042&Y=822491&zoom=6
+Samnaun-Compatsch;7562;GR;&X=205384&Y=825357&zoom=6
+Samstagern;8833;ZH;&X=227429&Y=694226&zoom=6
+Sangernboden;1738;BE;&X=173545&Y=593481&zoom=6
+Sargans;7320;SG;&X=212967&Y=752746&zoom=6
+Sarmenstorf;5614;AG;&X=240315&Y=660791&zoom=6
+Sarn;7423;GR;&X=176067&Y=750479&zoom=6
+Sarnen;6060;OW;&X=193925&Y=661797&zoom=6
+Sarreyer;1948;VS;&X=101325&Y=585653&zoom=6
+Sarzens;1683;VD;&X=170287&Y=554974&zoom=6
+Sassel;1534;VD;&X=180839&Y=555630&zoom=6
+Sassel;1534;VD;&X=179937&Y=554728&zoom=6
+Satigny;1242;GE;&X=119507&Y=491418&zoom=6
+Sattel;6417;SZ;&X=215470&Y=690804&zoom=6
+Saubraz;1189;VD;&X=152042&Y=514947&zoom=6
+Saulcy;2873;JU;&X=239080&Y=578489&zoom=6
+Saules;2063;NE;&X=209826&Y=562029&zoom=6
+Saules BE;2732;BE;&X=232782&Y=583584&zoom=6
+Savagnier;2065;NE;&X=210819&Y=563127&zoom=6
+Savigny;1073;VD;&X=154277&Y=545874&zoom=6
+Savognin;7460;GR;&X=162772&Y=765807&zoom=6
+Savosa;6942;TI;&X=97495&Y=716661&zoom=6
+Sax;9468;SG;&X=233016&Y=752870&zoom=6
+Saxeten;3813;BE;&X=165107&Y=630042&zoom=6
+Saxon;1907;VS;&X=110461&Y=580074&zoom=6
+Saxonne (Ayent);1966;VS;&X=125523&Y=597436&zoom=6
+Says;7202;GR;&X=197065&Y=763186&zoom=6
+Scareglia;6951;TI;&X=105574&Y=723537&zoom=6
+Schaan;9494;LI;&X=226749&Y=756734&zoom=6
+Schaanwald;9486;LI;&X=231314&Y=760824&zoom=6
+Schachen LU;6105;LU;&X=209698&Y=653294&zoom=6
+Schachen b. Herisau;9112;AR;&X=249429&Y=735904&zoom=6
+Schachen b. Reute;9414;AR;&X=254891&Y=760335&zoom=6
+Schaffhausen;8200;SH;&X=283564&Y=689904&zoom=6
+Schaffhausen;8203;SH;&X=283955&Y=691832&zoom=6
+Schaffhausen;8207;SH;&X=286603&Y=692594&zoom=6
+Schaffhausen;8208;SH;&X=285243&Y=689787&zoom=6
+Schafhausen im Emmental;3415;BE;&X=204955&Y=616556&zoom=6
+Schafisheim;5503;AG;&X=247475&Y=653402&zoom=6
+Schalchen;8489;ZH;&X=251604&Y=704729&zoom=6
+Schalunen;3314;BE;&X=217712&Y=606513&zoom=6
+Schangnau;6197;BE;&X=186431&Y=632438&zoom=6
+Scharans;7412;GR;&X=176015&Y=754890&zoom=6
+Scharnachtal;3722;BE;&X=162608&Y=620214&zoom=6
+Schattdorf;6467;UR;&X=191050&Y=693040&zoom=6
+Schattenhalb;3860;BE;&X=173142&Y=657483&zoom=6
+Scheid;7419;GR;&X=182735&Y=753673&zoom=6
+Schellenberg;9488;LI;&X=233616&Y=759966&zoom=6
+Schelten;2827;BE;&X=242354&Y=608514&zoom=6
+Schenkon;6214;LU;&X=224934&Y=652831&zoom=6
+Scherz;5246;AG;&X=255389&Y=656232&zoom=6
+Scherzingen;8596;TG;&X=277228&Y=734116&zoom=6
+Scheunen;3305;BE;&X=213232&Y=601219&zoom=6
+Scheuren;2556;BE;&X=220421&Y=591068&zoom=6
+Schiers;7220;GR;&X=204520&Y=770719&zoom=6
+Schiers;7220;GR;&X=207552&Y=777310&zoom=6
+Schindellegi;8834;SZ;&X=225608&Y=696582&zoom=6
+Schinznach Bad;5116;AG;&X=256151&Y=655057&zoom=6
+Schinznach Dorf;5107;AG;&X=255646&Y=652882&zoom=6
+Schlans;7168;GR;&X=179211&Y=720437&zoom=6
+Schlatt TG;8252;TG;&X=279719&Y=694480&zoom=6
+Schlatt ZH;8418;ZH;&X=258389&Y=704589&zoom=6
+Schlattingen;8255;TG;&X=280020&Y=700391&zoom=6
+Schleinikon;8165;ZH;&X=261034&Y=671945&zoom=6
+Schleitheim;8226;SH;&X=289310&Y=678739&zoom=6
+Schlierbach;6231;LU;&X=230781&Y=650844&zoom=6
+Schlieren;8952;ZH;&X=249670&Y=676447&zoom=6
+Schliern b. Köniz;3098;BE;&X=195349&Y=598285&zoom=6
+Schlossrued;5044;AG;&X=238186&Y=649199&zoom=6
+Schlosswil;3082;BE;&X=195302&Y=613186&zoom=6
+Schluein;7151;GR;&X=183334&Y=736727&zoom=6
+Schmerikon;8716;SG;&X=231563&Y=713835&zoom=6
+Schmidigen-Mühleweg;3464;BE;&X=216015&Y=623157&zoom=6
+Schmidrüti;8495;ZH;&X=252587&Y=710538&zoom=6
+Schmidshof;9565;TG;&X=267231&Y=721704&zoom=6
+Schmiedrued;5046;AG;&X=235780&Y=650696&zoom=6
+Schmitten (Albula);7493;GR;&X=173051&Y=771235&zoom=6
+Schmitten FR;3185;FR;&X=189203&Y=585960&zoom=6
+Schnaus;7130;GR;&X=182136&Y=733028&zoom=6
+Schnaus;7130;GR;&X=187184&Y=732962&zoom=6
+Schneisingen;5425;AG;&X=263700&Y=669894&zoom=6
+Schnottwil;3253;SO;&X=217862&Y=596850&zoom=6
+Schocherswil;8581;TG;&X=266739&Y=737604&zoom=6
+Schongau;6288;LU;&X=235468&Y=663029&zoom=6
+Schuders;7228;GR;&X=207171&Y=774816&zoom=6
+Schupfart;4325;AG;&X=262646&Y=639463&zoom=6
+Schwaderloch;5326;AG;&X=270597&Y=653202&zoom=6
+Schwadernau;2556;BE;&X=219654&Y=590072&zoom=6
+Schwanden (Sigriswil);3657;BE;&X=176087&Y=621222&zoom=6
+Schwanden GL;8762;GL;&X=206515&Y=723868&zoom=6
+Schwanden b. Brienz;3855;BE;&X=178641&Y=647344&zoom=6
+Schwanden im Emmental;3433;BE;&X=203869&Y=619463&zoom=6
+Schwarzenbach (Huttwil);4953;BE;&X=217338&Y=629891&zoom=6
+Schwarzenbach LU;6215;LU;&X=231728&Y=658603&zoom=6
+Schwarzenbach SG;9536;SG;&X=255736&Y=723196&zoom=6
+Schwarzenberg LU;6103;LU;&X=207399&Y=655541&zoom=6
+Schwarzenburg;3150;BE;&X=185097&Y=592614&zoom=6
+Schwarzenegg;3616;BE;&X=182884&Y=621082&zoom=6
+Schwarzhäusern;4911;BE;&X=233853&Y=625085&zoom=6
+Schwarzsee;1716;FR;&X=169052&Y=588417&zoom=6
+Schweizersholz;9223;TG;&X=262818&Y=732417&zoom=6
+Schwellbrunn;9103;AR;&X=246229&Y=736713&zoom=6
+Schwende;9057;AI;&X=240666&Y=750911&zoom=6
+Schwenden im Diemtigtal;3757;BE;&X=158206&Y=603715&zoom=6
+Schwendi im Weisstannental;7325;SG;&X=208310&Y=746233&zoom=6
+Schwendibach;3624;BE;&X=179886&Y=617055&zoom=6
+Schwerzenbach;8603;ZH;&X=248438&Y=691922&zoom=6
+Schwyz;6430;SZ;&X=208527&Y=692371&zoom=6
+Schwändi b. Schwanden;8762;GL;&X=207562&Y=723749&zoom=6
+Schänis;8718;SG;&X=224311&Y=721464&zoom=6
+Schöfflisdorf;8165;ZH;&X=261298&Y=673900&zoom=6
+Schöftland;5040;AG;&X=239505&Y=646284&zoom=6
+Schönenbaumgarten;8585;TG;&X=275211&Y=734641&zoom=6
+Schönenberg ZH;8824;ZH;&X=227719&Y=691664&zoom=6
+Schönenberg an der Thur;9215;TG;&X=264761&Y=732126&zoom=6
+Schönenbuch;4124;BL;&X=264903&Y=605065&zoom=6
+Schönengrund;9105;AR;&X=243372&Y=735289&zoom=6
+Schönenwerd;5012;SO;&X=246681&Y=643226&zoom=6
+Schönholzerswilen;8577;TG;&X=264351&Y=727830&zoom=6
+Schönried;3778;BE;&X=150328&Y=588669&zoom=6
+Schötz;6247;LU;&X=224753&Y=641462&zoom=6
+Schübelbach;8862;SZ;&X=225768&Y=712564&zoom=6
+Schüpbach;3535;BE;&X=197545&Y=622554&zoom=6
+Schüpfen;3054;BE;&X=209688&Y=595300&zoom=6
+Schüpfheim;6170;LU;&X=200170&Y=644346&zoom=6
+Scudellate;6838;TI;&X=86821&Y=724144&zoom=6
+Scuol;7550;GR;&X=186522&Y=818757&zoom=6
+Sedrun;7188;GR;&X=170719&Y=702731&zoom=6
+Seeberg;3365;BE;&X=222838&Y=617119&zoom=6
+Seedorf BE;3267;BE;&X=209250&Y=590306&zoom=6
+Seedorf UR;6462;UR;&X=193213&Y=689325&zoom=6
+Seehof;2747;BE;&X=239314&Y=606529&zoom=6
+Seelisberg;6377;UR;&X=203147&Y=687278&zoom=6
+Seengen;5707;AG;&X=242364&Y=657652&zoom=6
+Seewen SO;4206;SO;&X=253615&Y=616406&zoom=6
+Seewen SZ;6423;SZ;&X=209616&Y=690592&zoom=6
+Seewil;3256;BE;&X=210589&Y=597773&zoom=6
+Seewis Dorf;7212;GR;&X=206647&Y=766969&zoom=6
+Seewis-Pardisla;7212;GR;&X=205275&Y=766851&zoom=6
+Seewis-Schmitten;7212;GR;&X=205605&Y=767519&zoom=6
+Seftigen;3662;BE;&X=181745&Y=607791&zoom=6
+Segnas;7186;GR;&X=172321&Y=706241&zoom=6
+Seigneux;1525;VD;&X=175365&Y=557185&zoom=6
+Seiry;1470;FR;&X=184727&Y=553706&zoom=6
+Seleute;2888;JU;&X=246188&Y=575284&zoom=6
+Selkingen;3989;VS;&X=145004&Y=659336&zoom=6
+Selma;6545;GR;&X=131201&Y=729916&zoom=6
+Seltisberg;4411;BL;&X=256689&Y=620710&zoom=6
+Selzach;2545;SO;&X=228185&Y=601726&zoom=6
+Sembrancher;1933;VS;&X=103008&Y=577712&zoom=6
+Sementina;6514;TI;&X=115799&Y=719736&zoom=6
+Semione;6714;TI;&X=140747&Y=717880&zoom=6
+Sempach;6204;LU;&X=220505&Y=657689&zoom=6
+Sempach Station;6203;LU;&X=218457&Y=657252&zoom=6
+Semsales;1623;FR;&X=158085&Y=560832&zoom=6
+Senarclens;1304;VD;&X=161501&Y=527238&zoom=6
+Sennhof (Winterthur);8482;ZH;&X=258435&Y=699466&zoom=6
+Sennwald;9466;SG;&X=237033&Y=756585&zoom=6
+Sent;7554;GR;&X=189226&Y=821673&zoom=6
+Senèdes;1724;FR;&X=176843&Y=577380&zoom=6
+Seon;5703;AG;&X=244174&Y=654264&zoom=6
+Sergey;1355;VD;&X=178158&Y=528259&zoom=6
+Serneus;7249;GR;&X=196086&Y=783000&zoom=6
+Serpiano;6867;TI;&X=85569&Y=715637&zoom=6
+Servion;1077;VD;&X=158743&Y=549923&zoom=6
+Seseglio;6832;TI;&X=76195&Y=721268&zoom=6
+Sessa;6997;TI;&X=95275&Y=706920&zoom=6
+Seuzach;8472;ZH;&X=265891&Y=696715&zoom=6
+Sevelen;9475;SG;&X=221743&Y=755040&zoom=6
+Sevgein;7127;GR;&X=180898&Y=736165&zoom=6
+Sfazù;7742;GR;&X=140940&Y=803222&zoom=6
+Siat;7157;GR;&X=183639&Y=731687&zoom=6
+Siblingen;8225;SH;&X=285401&Y=681102&zoom=6
+Siebnen;8854;SZ;&X=226239&Y=711253&zoom=6
+Siegershausen;8573;TG;&X=274818&Y=730314&zoom=6
+Sierre;3960;VS;&X=123202&Y=609670&zoom=6
+Sierre;3960;VS;&X=126916&Y=607530&zoom=6
+Siggenthal Station;5301;AG;&X=263026&Y=660209&zoom=6
+Sigigen;6019;LU;&X=212929&Y=652907&zoom=6
+Sigirino;6806;TI;&X=104371&Y=714167&zoom=6
+Siglistorf;5462;AG;&X=266452&Y=671196&zoom=6
+Signau;3534;BE;&X=196620&Y=621506&zoom=6
+Signy;1274;VD;&X=138491&Y=504890&zoom=6
+Signèse (Ayent);1966;VS;&X=122893&Y=597106&zoom=6
+Signôra;6951;TI;&X=105816&Y=724353&zoom=6
+Sigriswil;3655;BE;&X=174100&Y=621520&zoom=6
+Sihlbrugg;6340;ZG;&X=230147&Y=686343&zoom=6
+Sihlbrugg Station;8135;ZH;&X=233043&Y=686014&zoom=6
+Sihlwald;8135;ZH;&X=235792&Y=684566&zoom=6
+Silenen;6473;UR;&X=182859&Y=693991&zoom=6
+Sils im Domleschg;7411;GR;&X=174192&Y=754363&zoom=6
+Sils/Segl Baselgia;7515;GR;&X=144954&Y=778012&zoom=6
+Sils/Segl Maria;7514;GR;&X=144703&Y=778900&zoom=6
+Silvaplana;7513;GR;&X=148302&Y=780837&zoom=6
+Silvaplana-Surlej;7513;GR;&X=148108&Y=782451&zoom=6
+Simplon Dorf;3907;VS;&X=116109&Y=647363&zoom=6
+Sins;5643;AG;&X=226652&Y=668800&zoom=6
+Sins;5643;AG;&X=227518&Y=672506&zoom=6
+Sion;1950;VS;&X=120277&Y=593861&zoom=6
+Sirnach;8370;TG;&X=257702&Y=717869&zoom=6
+Siselen BE;2577;BE;&X=208947&Y=580970&zoom=6
+Sisikon;6452;UR;&X=200347&Y=690207&zoom=6
+Sissach;4450;BL;&X=257844&Y=628447&zoom=6
+Sisseln AG;4334;AG;&X=266970&Y=641153&zoom=6
+Sitterdorf;8589;TG;&X=263277&Y=736114&zoom=6
+Siviez (Nendaz);1997;VS;&X=109274&Y=590762&zoom=6
+Siviriez;1678;FR;&X=167555&Y=557248&zoom=6
+Soazza;6562;GR;&X=136517&Y=736871&zoom=6
+Sobrio;6749;TI;&X=139784&Y=712511&zoom=6
+Soglio;7610;GR;&X=134553&Y=761790&zoom=6
+Solduno;6600;TI;&X=114170&Y=703489&zoom=6
+Solothurn;4500;SO;&X=228396&Y=606859&zoom=6
+Somazzo;6872;TI;&X=81963&Y=720669&zoom=6
+Someo;6674;TI;&X=126956&Y=694349&zoom=6
+Sommentier;1688;FR;&X=165368&Y=559692&zoom=6
+Sommeri;8580;TG;&X=270533&Y=739054&zoom=6
+Sonceboz-Sombeval;2605;BE;&X=227161&Y=579535&zoom=6
+Sonnental;9245;SG;&X=257780&Y=728243&zoom=6
+Sonogno;6637;TI;&X=134051&Y=703724&zoom=6
+Sonterswil;8564;TG;&X=275679&Y=723495&zoom=6
+Sonvico;6968;TI;&X=102130&Y=720167&zoom=6
+Sonvilier;2615;BE;&X=221109&Y=564021&zoom=6
+Sool;8762;GL;&X=206742&Y=725628&zoom=6
+Soral;1286;GE;&X=111329&Y=492170&zoom=6
+Sorengo;6924;TI;&X=95375&Y=715865&zoom=6
+Sorens;1642;FR;&X=168702&Y=571047&zoom=6
+Sornard (Nendaz);1997;VS;&X=115263&Y=589539&zoom=6
+Sornetan;2716;BE;&X=235931&Y=582999&zoom=6
+Sorvilier;2736;BE;&X=231849&Y=590140&zoom=6
+Sottens;1062;VD;&X=167376&Y=546685&zoom=6
+Soubey;2887;JU;&X=239927&Y=570501&zoom=6
+Souboz;2748;BE;&X=236022&Y=585308&zoom=6
+Soulce;2864;JU;&X=239088&Y=587127&zoom=6
+Soyhières;2805;JU;&X=249016&Y=595028&zoom=6
+Speicher;9042;AR;&X=252995&Y=751020&zoom=6
+Speicherschwendi;9037;AR;&X=254827&Y=751093&zoom=6
+Spiegel b. Bern;3095;BE;&X=197163&Y=599566&zoom=6
+Spiez;3700;BE;&X=171084&Y=618247&zoom=6
+Spiringen;6464;UR;&X=191907&Y=698327&zoom=6
+Splügen;7435;GR;&X=157603&Y=744567&zoom=6
+Spreitenbach;8957;AG;&X=252388&Y=669366&zoom=6
+Spruga;6663;TI;&X=117202&Y=687145&zoom=6
+St-Aubin FR;1566;FR;&X=193327&Y=565074&zoom=6
+St-Aubin-Sauges;2024;NE;&X=194044&Y=549324&zoom=6
+St-Barthélemy VD;1040;VD;&X=165105&Y=535380&zoom=6
+St-Blaise;2072;NE;&X=207030&Y=565650&zoom=6
+St-Brais;2364;JU;&X=239401&Y=575335&zoom=6
+St-Cergue;1264;VD;&X=144871&Y=501663&zoom=6
+St-Cierges;1410;VD;&X=171151&Y=545979&zoom=6
+St-George;1188;VD;&X=152167&Y=509744&zoom=6
+St-Germain (Savièse);1965;VS;&X=122203&Y=593125&zoom=6
+St-Gingolph;1898;VS;&X=138112&Y=551187&zoom=6
+St-Imier;2610;BE;&X=222497&Y=566485&zoom=6
+St-Jean VS;3961;VS;&X=116295&Y=610921&zoom=6
+St-Livres;1176;VD;&X=151215&Y=519260&zoom=6
+St-Luc;3961;VS;&X=119001&Y=612312&zoom=6
+St-Légier-La Chiésaz;1806;VD;&X=146822&Y=557400&zoom=6
+St-Léonard;1958;VS;&X=122718&Y=598545&zoom=6
+St-Martin FR;1609;FR;&X=158450&Y=556363&zoom=6
+St-Martin VS;1969;VS;&X=113660&Y=600445&zoom=6
+St-Maurice;1890;VS;&X=118529&Y=566389&zoom=6
+St-Oyens;1187;VD;&X=150348&Y=513292&zoom=6
+St-Pierre-de-Clages;1955;VS;&X=115670&Y=584750&zoom=6
+St-Prex;1162;VD;&X=148250&Y=524716&zoom=6
+St-Romain (Ayent);1966;VS;&X=125755&Y=597988&zoom=6
+St-Saphorin (Lavaux);1071;VD;&X=147101&Y=550652&zoom=6
+St-Saphorin-sur-Morges;1113;VD;&X=155364&Y=527053&zoom=6
+St-Sulpice NE;2123;NE;&X=195928&Y=533227&zoom=6
+St-Sulpice VD;1025;VD;&X=151237&Y=532560&zoom=6
+St-Séverin;1975;VS;&X=120819&Y=589526&zoom=6
+St-Triphon;1867;VD;&X=126913&Y=564540&zoom=6
+St-Ursanne;2882;JU;&X=246019&Y=578468&zoom=6
+St-Ursanne;2882;JU;&X=241132&Y=575299&zoom=6
+St. Antoni;1713;FR;&X=185508&Y=586747&zoom=6
+St. Antönien;7246;GR;&X=204780&Y=780738&zoom=6
+St. Erhard;6212;LU;&X=225942&Y=648175&zoom=6
+St. Gallen;9000;SG;&X=254316&Y=745132&zoom=6
+St. Gallen;9008;SG;&X=256391&Y=747312&zoom=6
+St. Gallen;9010;SG;&X=256401&Y=745797&zoom=6
+St. Gallen;9011;SG;&X=254198&Y=746489&zoom=6
+St. Gallen;9012;SG;&X=252831&Y=745128&zoom=6
+St. Gallen;9014;SG;&X=252655&Y=743159&zoom=6
+St. Gallen;9015;SG;&X=252214&Y=741190&zoom=6
+St. Gallen;9016;SG;&X=256399&Y=748992&zoom=6
+St. Gallenkappel;8735;SG;&X=234124&Y=716048&zoom=6
+St. German;3942;VS;&X=128965&Y=629432&zoom=6
+St. Josefen;9030;SG;&X=254608&Y=743385&zoom=6
+St. Margarethen TG;9543;TG;&X=261300&Y=717810&zoom=6
+St. Margrethen SG;9430;SG;&X=258206&Y=764928&zoom=6
+St. Margrethenberg;7313;SG;&X=204707&Y=757743&zoom=6
+St. Martin (Lugnez);7116;GR;&X=170647&Y=733511&zoom=6
+St. Moritz;7500;GR;&X=151985&Y=783661&zoom=6
+St. Niklaus VS;3924;VS;&X=114096&Y=628144&zoom=6
+St. Niklausen LU;6005;LU;&X=207980&Y=668558&zoom=6
+St. Niklausen OW;6066;OW;&X=191838&Y=664390&zoom=6
+St. Pantaleon;4421;SO;&X=256483&Y=618826&zoom=6
+St. Pelagiberg;9225;TG;&X=261490&Y=740454&zoom=6
+St. Peter;7028;GR;&X=189426&Y=768550&zoom=6
+St. Peterzell;9127;SG;&X=242284&Y=731312&zoom=6
+St. Silvester;1736;FR;&X=176830&Y=583598&zoom=6
+St. Stephan;3772;BE;&X=150469&Y=597059&zoom=6
+St. Urban;4915;LU;&X=231354&Y=630373&zoom=6
+St. Ursen;1717;FR;&X=182080&Y=583089&zoom=6
+Sta. Maria Val Müstair;7536;GR;&X=165467&Y=828598&zoom=6
+Sta. Maria in Calanca;6541;GR;&X=125163&Y=731563&zoom=6
+Staad SG;9422;SG;&X=260994&Y=758540&zoom=6
+Stabio;6855;TI;&X=78853&Y=716577&zoom=6
+Stachen;9320;TG;&X=263374&Y=748652&zoom=6
+Stadel (Winterthur);8404;ZH;&X=265800&Y=699839&zoom=6
+Stadel b. Niederglatt;8174;ZH;&X=264796&Y=677763&zoom=6
+Staffelbach;5053;AG;&X=237157&Y=645672&zoom=6
+Stalden (Sarnen);6063;OW;&X=193206&Y=658684&zoom=6
+Stalden VS;3922;VS;&X=120378&Y=633169&zoom=6
+Staldenried;3933;VS;&X=119868&Y=634642&zoom=6
+Stallikon;8143;ZH;&X=242011&Y=679728&zoom=6
+Stampa;7605;GR;&X=134777&Y=765504&zoom=6
+Stans;6370;NW;&X=201174&Y=670101&zoom=6
+Stansstad;6362;NW;&X=203229&Y=668550&zoom=6
+Starrkirch-Wil;4656;SO;&X=244320&Y=637063&zoom=6
+Staufen;5603;AG;&X=248020&Y=654691&zoom=6
+Ste-Croix;1450;VD;&X=186215&Y=528604&zoom=6
+Stechelberg;3824;BE;&X=155303&Y=635507&zoom=6
+Steckborn;8266;TG;&X=280710&Y=716022&zoom=6
+Steffisburg;3612;BE;&X=180703&Y=614227&zoom=6
+Steffisburg;3613;BE;&X=180000&Y=613435&zoom=6
+Steg VS;3940;VS;&X=129031&Y=624130&zoom=6
+Steg im Tösstal;8496;ZH;&X=245859&Y=712851&zoom=6
+Stehrenberg;9503;TG;&X=264932&Y=724344&zoom=6
+Stein AG;4332;AG;&X=266354&Y=638943&zoom=6
+Stein AR;9063;AR;&X=248836&Y=744069&zoom=6
+Stein SG;9655;SG;&X=229193&Y=735722&zoom=6
+Stein am Rhein;8260;SH;&X=279667&Y=706783&zoom=6
+Steinach;9323;SG;&X=263244&Y=750792&zoom=6
+Steinebrunn;9314;TG;&X=266758&Y=743614&zoom=6
+Steinen;6422;SZ;&X=211362&Y=689148&zoom=6
+Steinerberg;6416;SZ;&X=212240&Y=687069&zoom=6
+Steinhaus;3995;VS;&X=140536&Y=661481&zoom=6
+Steinhaus;3995;VS;&X=141352&Y=656886&zoom=6
+Steinhausen;6312;ZG;&X=228075&Y=679692&zoom=6
+Steinhof SO;4556;SO;&X=223161&Y=618783&zoom=6
+Steinhuserberg;6114;LU;&X=210392&Y=646188&zoom=6
+Steinmaur;8162;ZH;&X=260899&Y=676530&zoom=6
+Stels;7226;GR;&X=209284&Y=779410&zoom=6
+Stels;7226;GR;&X=204184&Y=773406&zoom=6
+Sternenberg;8499;ZH;&X=249541&Y=711225&zoom=6
+Stetten AG;5608;AG;&X=250451&Y=665164&zoom=6
+Stetten SH;8234;SH;&X=288469&Y=691845&zoom=6
+Stettfurt;9507;TG;&X=264923&Y=714614&zoom=6
+Stettlen;3066;BE;&X=200899&Y=606391&zoom=6
+Stierva;7459;GR;&X=170308&Y=760716&zoom=6
+Stilli;5233;AG;&X=263162&Y=659721&zoom=6
+Stoos SZ;6433;SZ;&X=203994&Y=693269&zoom=6
+Strada;7558;GR;&X=194678&Y=828411&zoom=6
+Strengelbach;4802;AG;&X=236814&Y=636430&zoom=6
+Studen BE;2557;BE;&X=218015&Y=589724&zoom=6
+Studen SZ;8845;SZ;&X=214539&Y=705955&zoom=6
+Stugl/Stuls;7482;GR;&X=169097&Y=775606&zoom=6
+Stäfa;8712;ZH;&X=232809&Y=697854&zoom=6
+Stüsslingen;4655;SO;&X=249410&Y=640439&zoom=6
+Suberg;3262;BE;&X=212297&Y=592160&zoom=6
+Subingen;4553;SO;&X=227317&Y=613954&zoom=6
+Suchy;1433;VD;&X=174929&Y=535811&zoom=6
+Suen (St-Martin);1969;VS;&X=114480&Y=600100&zoom=6
+Sufers;7434;GR;&X=159697&Y=747819&zoom=6
+Sugiez;1786;FR;&X=201253&Y=575202&zoom=6
+Sugnens;1043;VD;&X=167423&Y=541235&zoom=6
+Suhr;5034;AG;&X=247181&Y=648929&zoom=6
+Sulgen;8583;TG;&X=267104&Y=731209&zoom=6
+Sullens;1036;VD;&X=160708&Y=533210&zoom=6
+Sulz AG;5085;AG;&X=265166&Y=649139&zoom=6
+Sulz LU;6284;LU;&X=230258&Y=664404&zoom=6
+Sulzbach;8614;ZH;&X=242835&Y=698873&zoom=6
+Sumiswald;3454;BE;&X=208571&Y=623288&zoom=6
+Summaprada;7421;GR;&X=175661&Y=752626&zoom=6
+Sumvitg;7175;GR;&X=176129&Y=714616&zoom=6
+Sundlauenen;3800;BE;&X=170759&Y=627305&zoom=6
+Sur;7456;GR;&X=154739&Y=768429&zoom=6
+Surava;7472;GR;&X=170538&Y=766282&zoom=6
+Surcasti;7115;GR;&X=173203&Y=732938&zoom=6
+Surcuolm;7138;GR;&X=179930&Y=730286&zoom=6
+Surin;7148;GR;&X=169580&Y=728293&zoom=6
+Surpierre;1528;FR;&X=177251&Y=555884&zoom=6
+Surrein;7173;GR;&X=175603&Y=715590&zoom=6
+Sursee;6210;LU;&X=224924&Y=650852&zoom=6
+Susch;7542;GR;&X=181141&Y=801433&zoom=6
+Suscévaz;1437;VD;&X=179589&Y=534254&zoom=6
+Susten;3952;VS;&X=128537&Y=616144&zoom=6
+Sutz;2572;BE;&X=217023&Y=583169&zoom=6
+Syens;1510;VD;&X=166301&Y=549482&zoom=6
+Sâles (Gruyère);1625;FR;&X=165036&Y=564356&zoom=6
+Säriswil;3049;BE;&X=204531&Y=592054&zoom=6
+Sédeilles;1554;VD;&X=177703&Y=561354&zoom=6
+Sévaz;1541;FR;&X=187694&Y=557042&zoom=6
+Sévery;1141;VD;&X=158781&Y=523297&zoom=6
+Sörenberg;6174;LU;&X=185974&Y=645300&zoom=6
+Süderen;3618;BE;&X=185289&Y=624455&zoom=6
+Sünikon;8162;ZH;&X=260444&Y=674933&zoom=6
+Tafers;1712;FR;&X=185212&Y=583049&zoom=6
+Tagelswangen;8317;ZH;&X=253757&Y=692796&zoom=6
+Tamins;7015;GR;&X=188660&Y=750477&zoom=6
+Tann;8632;ZH;&X=235910&Y=706634&zoom=6
+Tannay;1295;VD;&X=129385&Y=502753&zoom=6
+Tarasp;7553;GR;&X=184394&Y=815792&zoom=6
+Tartar;7422;GR;&X=176159&Y=751467&zoom=6
+Tartegnin;1180;VD;&X=146736&Y=513698&zoom=6
+Tatroz;1617;FR;&X=152922&Y=556298&zoom=6
+Tavanasa;7162;GR;&X=179511&Y=724246&zoom=6
+Tavannes;2710;BE;&X=230091&Y=581728&zoom=6
+Taverne;6807;TI;&X=102918&Y=715584&zoom=6
+Tecknau;4492;BL;&X=255464&Y=633377&zoom=6
+Tegerfelden;5306;AG;&X=267863&Y=663738&zoom=6
+Tegna;6652;TI;&X=115805&Y=700808&zoom=6
+Tenero;6598;TI;&X=115400&Y=708859&zoom=6
+Tenna;7106;GR;&X=179118&Y=744985&zoom=6
+Tenniken;4456;BL;&X=254038&Y=628498&zoom=6
+Tennwil;5617;AG;&X=239836&Y=659153&zoom=6
+Tentlingen;1734;FR;&X=179901&Y=581782&zoom=6
+Termen;3912;VS;&X=131099&Y=645086&zoom=6
+Termine;6998;TI;&X=95082&Y=704950&zoom=6
+Territet;1820;VD;&X=141847&Y=560376&zoom=6
+Tersnaus;7116;GR;&X=172815&Y=733552&zoom=6
+Tesserete;6950;TI;&X=103292&Y=718362&zoom=6
+Teufen AR;9053;AR;&X=250695&Y=747676&zoom=6
+Teufen ZH;8428;ZH;&X=267185&Y=684966&zoom=6
+Teufenthal AG;5723;AG;&X=242143&Y=651945&zoom=6
+Teuffenthal b. Thun;3623;BE;&X=179551&Y=620813&zoom=6
+Thal;9425;SG;&X=259321&Y=760638&zoom=6
+Thalheim AG;5112;AG;&X=254122&Y=650105&zoom=6
+Thalheim an der Thur;8478;ZH;&X=270641&Y=698658&zoom=6
+Thalkirch;7109;GR;&X=167020&Y=741018&zoom=6
+Thalwil;8800;ZH;&X=238319&Y=685516&zoom=6
+Thayngen;8240;SH;&X=289315&Y=695434&zoom=6
+Theilingen;8484;ZH;&X=252860&Y=700381&zoom=6
+Therwil;4106;BL;&X=260643&Y=608231&zoom=6
+Thielle;2075;NE;&X=207873&Y=568908&zoom=6
+Thierachern;3634;BE;&X=177824&Y=610520&zoom=6
+Thierrens;1410;VD;&X=172652&Y=547812&zoom=6
+Thun;3600;BE;&X=178636&Y=614716&zoom=6
+Thun;3603;BE;&X=178997&Y=612338&zoom=6
+Thun;3604;BE;&X=176609&Y=613915&zoom=6
+Thun;3608;BE;&X=176540&Y=612244&zoom=6
+Thundorf;8512;TG;&X=267203&Y=715125&zoom=6
+Thunersee;9999;BE;&X=170795&Y=621182&zoom=6
+Thunstetten;4922;BE;&X=227887&Y=623714&zoom=6
+Thusis;7430;GR;&X=174793&Y=753262&zoom=6
+Thyon;1988;VS;&X=113835&Y=595093&zoom=6
+Thônex;1226;GE;&X=115533&Y=503198&zoom=6
+Thônex;1226;GE;&X=115959&Y=504270&zoom=6
+Thörigen;3367;BE;&X=224929&Y=622066&zoom=6
+Thörishaus;3174;BE;&X=193663&Y=593382&zoom=6
+Thürnen;4441;BL;&X=256072&Y=629352&zoom=6
+Tiefencastel;7450;GR;&X=170045&Y=763489&zoom=6
+Tinizong;7453;GR;&X=161471&Y=767130&zoom=6
+Titterten;4425;BL;&X=250380&Y=621204&zoom=6
+Tobel;9555;TG;&X=264213&Y=720225&zoom=6
+Toffen;3125;BE;&X=189711&Y=604132&zoom=6
+Tolochenaz;1131;VD;&X=150968&Y=525949&zoom=6
+Torgon;1899;VS;&X=129464&Y=556872&zoom=6
+Torny-le-Grand;1748;FR;&X=180047&Y=564094&zoom=6
+Torre;6717;TI;&X=149562&Y=716338&zoom=6
+Torricella;6808;TI;&X=102683&Y=714511&zoom=6
+Trachselwald;3456;BE;&X=207378&Y=623163&zoom=6
+Trachslau;8840;SZ;&X=217111&Y=697685&zoom=6
+Tramelan;2720;BE;&X=230301&Y=574138&zoom=6
+Trans;7407;GR;&X=181191&Y=754673&zoom=6
+Trasadingen;8219;SH;&X=280171&Y=674510&zoom=6
+Travers;2105;NE;&X=199149&Y=541835&zoom=6
+Treiten;3226;BE;&X=206484&Y=578884&zoom=6
+Tremona;6865;TI;&X=82174&Y=718006&zoom=6
+Trey;1552;VD;&X=180027&Y=560837&zoom=6
+Treycovagnes;1436;VD;&X=180663&Y=536668&zoom=6
+Treyfayes;1626;FR;&X=167117&Y=562979&zoom=6
+Treytorrens (Payerne);1538;VD;&X=180194&Y=551287&zoom=6
+Treyvaux;1733;FR;&X=175302&Y=576986&zoom=6
+Triboltingen;8273;TG;&X=280373&Y=725375&zoom=6
+Triengen;6234;LU;&X=231936&Y=648766&zoom=6
+Trient;1929;VS;&X=100595&Y=565645&zoom=6
+Triesen;9495;LI;&X=219660&Y=758623&zoom=6
+Triesenberg;9497;LI;&X=220651&Y=760243&zoom=6
+Trimbach;4632;SO;&X=246389&Y=634543&zoom=6
+Trimmis;7203;GR;&X=196291&Y=761408&zoom=6
+Trimstein;3083;BE;&X=194966&Y=610774&zoom=6
+Trin;7014;GR;&X=188389&Y=746855&zoom=6
+Trin Mulin;7016;GR;&X=188427&Y=744773&zoom=6
+Trogen;9043;AR;&X=252691&Y=753201&zoom=6
+Trogne (St-Martin);1969;VS;&X=112988&Y=601174&zoom=6
+Troinex;1256;GE;&X=113007&Y=500348&zoom=6
+Troistorrents;1872;VS;&X=119946&Y=559912&zoom=6
+Trub;3556;BE;&X=199210&Y=633408&zoom=6
+Trubschachen;3555;BE;&X=196948&Y=631004&zoom=6
+Trun;7166;GR;&X=178048&Y=717888&zoom=6
+Truttikon;8467;ZH;&X=275985&Y=696774&zoom=6
+Trélex;1270;VD;&X=140955&Y=505071&zoom=6
+Trübbach;9477;SG;&X=215641&Y=755226&zoom=6
+Trüllikon;8466;ZH;&X=276999&Y=693897&zoom=6
+Tschappina;7428;GR;&X=172442&Y=748356&zoom=6
+Tscheppach;4576;SO;&X=221968&Y=603343&zoom=6
+Tscherlach;8881;SG;&X=220374&Y=744135&zoom=6
+Tschiertschen;7064;GR;&X=187271&Y=765270&zoom=6
+Tschierv;7532;GR;&X=167800&Y=822219&zoom=6
+Tschingel ob Gunten;3656;BE;&X=174778&Y=620641&zoom=6
+Tschlin;7559;GR;&X=195408&Y=827464&zoom=6
+Tschugg;3233;BE;&X=208483&Y=572436&zoom=6
+Tuggen;8856;SZ;&X=228778&Y=714341&zoom=6
+Tumegl/Tomils;7418;GR;&X=180852&Y=752873&zoom=6
+Turbach;3781;BE;&X=147521&Y=592092&zoom=6
+Turbenthal;8488;ZH;&X=254772&Y=706270&zoom=6
+Turgi;5300;AG;&X=260315&Y=661422&zoom=6
+Turin (Salins);1991;VS;&X=118232&Y=593475&zoom=6
+Turtmann;3946;VS;&X=128030&Y=620264&zoom=6
+Tuttwil;9546;TG;&X=260181&Y=713485&zoom=6
+Twann;2513;BE;&X=216074&Y=578837&zoom=6
+Tägerig;5522;AG;&X=250874&Y=663263&zoom=6
+Tägerschen;9554;TG;&X=262949&Y=719641&zoom=6
+Tägertschi;3111;BE;&X=191441&Y=611278&zoom=6
+Tägerwilen;8274;TG;&X=279191&Y=726795&zoom=6
+Täsch;3929;VS;&X=101904&Y=626576&zoom=6
+Täuffelen;2575;BE;&X=212702&Y=581772&zoom=6
+Törbel;3923;VS;&X=120840&Y=631676&zoom=6
+Tübach;9327;SG;&X=261509&Y=751922&zoom=6
+Tüscherz-Alfermée;2512;BE;&X=218491&Y=581534&zoom=6
+Udligenswil;6044;LU;&X=216014&Y=672938&zoom=6
+Ueberstorf;3182;FR;&X=190605&Y=589819&zoom=6
+Uebeschi;3635;BE;&X=176503&Y=608624&zoom=6
+Ueken;5028;AG;&X=259482&Y=645655&zoom=6
+Uerikon;8713;ZH;&X=232354&Y=699808&zoom=6
+Uerkheim;4813;AG;&X=239642&Y=644332&zoom=6
+Uerschhausen;8537;TG;&X=273915&Y=703798&zoom=6
+Uerzlikon;8926;ZH;&X=230514&Y=680381&zoom=6
+Uesslingen;8524;TG;&X=270911&Y=705171&zoom=6
+Uetendorf;3661;BE;&X=180818&Y=610498&zoom=6
+Uetikon am See;8707;ZH;&X=236138&Y=693864&zoom=6
+Uetliberg;8143;ZH;&X=244735&Y=679494&zoom=6
+Uetliburg SG;8738;SG;&X=233613&Y=720247&zoom=6
+Uettligen;3043;BE;&X=204026&Y=595972&zoom=6
+Uezwil;5619;AG;&X=241004&Y=662980&zoom=6
+Uffikon;6253;LU;&X=229076&Y=644129&zoom=6
+Ufhusen;6153;LU;&X=218611&Y=635011&zoom=6
+Uhwiesen;8248;ZH;&X=280734&Y=689802&zoom=6
+Uitikon Waldegg;8142;ZH;&X=247141&Y=676273&zoom=6
+Ulisbach;9631;SG;&X=238455&Y=726155&zoom=6
+Ulmiz;3214;FR;&X=197971&Y=581880&zoom=6
+Ulrichen;3988;VS;&X=151138&Y=666240&zoom=6
+Umiken;5222;AG;&X=259122&Y=656205&zoom=6
+Undervelier;2863;JU;&X=239156&Y=583384&zoom=6
+Unterbach BE;3857;BE;&X=176664&Y=651473&zoom=6
+Unterbäch VS;3944;VS;&X=125818&Y=627521&zoom=6
+Untereggen;9033;SG;&X=257656&Y=751366&zoom=6
+Unterems;3948;VS;&X=126759&Y=619456&zoom=6
+Unterendingen;5305;AG;&X=266495&Y=664290&zoom=6
+Unterengstringen;8103;ZH;&X=251734&Y=675673&zoom=6
+Unterentfelden;5035;AG;&X=246711&Y=645297&zoom=6
+Unteriberg;8842;SZ;&X=212606&Y=703673&zoom=6
+Unterkulm;5726;AG;&X=240087&Y=650636&zoom=6
+Unterlangenegg;3614;BE;&X=183029&Y=619403&zoom=6
+Unterlunkhofen;8918;AG;&X=241680&Y=671726&zoom=6
+Unterramsern;4588;SO;&X=218528&Y=603342&zoom=6
+Unterrindal;9604;SG;&X=252332&Y=724645&zoom=6
+Unterschächen;6465;UR;&X=190868&Y=701395&zoom=6
+Unterseen;3800;BE;&X=170794&Y=631434&zoom=6
+Untersiggenthal;5417;AG;&X=261939&Y=661872&zoom=6
+Unterstammheim;8476;ZH;&X=277478&Y=701103&zoom=6
+Untersteckholz;4916;BE;&X=228305&Y=630920&zoom=6
+Unterterzen;8882;SG;&X=219510&Y=737556&zoom=6
+Untervaz;7204;GR;&X=199535&Y=759187&zoom=6
+Untervaz Bahnhof;7201;GR;&X=197702&Y=761037&zoom=6
+Unterwasser;9657;SG;&X=228935&Y=741699&zoom=6
+Unterägeri;6314;ZG;&X=221456&Y=686786&zoom=6
+Uors (Lumnezia);7114;GR;&X=173711&Y=733408&zoom=6
+Urdorf;8902;ZH;&X=248668&Y=674034&zoom=6
+Urmein;7427;GR;&X=173153&Y=750281&zoom=6
+Urnerboden;8751;UR;&X=194135&Y=711553&zoom=6
+Urnäsch;9107;AR;&X=242324&Y=739429&zoom=6
+Ursenbach;4937;BE;&X=220576&Y=625359&zoom=6
+Ursins;1412;VD;&X=176305&Y=541117&zoom=6
+Urswil;6280;LU;&X=222473&Y=665095&zoom=6
+Ursy;1670;FR;&X=165105&Y=553716&zoom=6
+Urtenen-Schönbühl;3322;BE;&X=208282&Y=604657&zoom=6
+Uster;8610;ZH;&X=244675&Y=696589&zoom=6
+Uttigen;3628;BE;&X=182449&Y=610362&zoom=6
+Uttwil;8592;TG;&X=272056&Y=743101&zoom=6
+Utzenstorf;3427;BE;&X=219542&Y=609003&zoom=6
+Utzigen;3068;BE;&X=201090&Y=609592&zoom=6
+Uvrier;1958;VS;&X=122147&Y=597981&zoom=6
+Uznach;8730;SG;&X=231416&Y=716613&zoom=6
+Uzwil;9240;SG;&X=255167&Y=728257&zoom=6
+Vacallo;6833;TI;&X=78597&Y=724009&zoom=6
+Vadura;7314;SG;&X=202636&Y=755834&zoom=6
+Vaduz;9490;LI;&X=224107&Y=758143&zoom=6
+Vaglio;6947;TI;&X=101955&Y=717619&zoom=6
+Vaglio;6947;TI;&X=107133&Y=720865&zoom=6
+Vairano;6575;TI;&X=109815&Y=706192&zoom=6
+Val-d'Illiez;1873;VS;&X=117146&Y=557893&zoom=6
+Valangin;2042;NE;&X=207372&Y=559583&zoom=6
+Valbella;7077;GR;&X=179921&Y=761536&zoom=6
+Valchava;7535;GR;&X=165299&Y=827511&zoom=6
+Valendas;7122;GR;&X=183303&Y=740677&zoom=6
+Valens;7317;SG;&X=204159&Y=755162&zoom=6
+Valeyres-sous-Montagny;1441;VD;&X=183422&Y=536659&zoom=6
+Valeyres-sous-Rances;1358;VD;&X=178271&Y=529760&zoom=6
+Valeyres-sous-Ursins;1412;VD;&X=177533&Y=540166&zoom=6
+Vallamand;1586;VD;&X=197930&Y=569542&zoom=6
+Vallon;1565;FR;&X=192743&Y=563012&zoom=6
+Vallorbe;1337;VD;&X=174069&Y=519058&zoom=6
+Vals;7132;GR;&X=164510&Y=733223&zoom=6
+Valzeina;7213;GR;&X=202262&Y=764756&zoom=6
+Vandoeuvres;1253;GE;&X=119615&Y=504628&zoom=6
+Varen;3953;VS;&X=129472&Y=612992&zoom=6
+Varenzo;6777;TI;&X=151005&Y=698688&zoom=6
+Vasön;7317;SG;&X=202247&Y=754969&zoom=6
+Vattiz;7146;GR;&X=174274&Y=731640&zoom=6
+Vauderens;1675;FR;&X=163727&Y=554729&zoom=6
+Vauffelin;2537;BE;&X=226307&Y=589732&zoom=6
+Vaugondry;1423;VD;&X=188679&Y=538846&zoom=6
+Vaulion;1325;VD;&X=171426&Y=519815&zoom=6
+Vaulruz;1627;FR;&X=163716&Y=565881&zoom=6
+Vaumarcus;2028;NE;&X=192176&Y=547898&zoom=6
+Vaux-sur-Morges;1126;VD;&X=154379&Y=525413&zoom=6
+Vaz/Obervaz;7082;GR;&X=173418&Y=759348&zoom=6
+Vella;7144;GR;&X=175544&Y=732637&zoom=6
+Vellerat;2830;JU;&X=241051&Y=594809&zoom=6
+Veltheim AG;5106;AG;&X=254105&Y=653264&zoom=6
+Vendlincourt;2943;JU;&X=255627&Y=577957&zoom=6
+Vens (Sembrancher);1933;VS;&X=104149&Y=575839&zoom=6
+Venthône;3973;VS;&X=128486&Y=607192&zoom=6
+Verbier;1936;VS;&X=105674&Y=583033&zoom=6
+Vercorin;3967;VS;&X=122900&Y=607287&zoom=6
+Verdabbio;6538;GR;&X=125251&Y=738426&zoom=6
+Verdabbio;6538;GR;&X=125667&Y=732562&zoom=6
+Verdasio;6655;TI;&X=113294&Y=692491&zoom=6
+Vergeletto;6664;TI;&X=120164&Y=689770&zoom=6
+Vermes;2829;JU;&X=242101&Y=602980&zoom=6
+Vernamiège;1961;VS;&X=117634&Y=599948&zoom=6
+Vernate;6992;TI;&X=94821&Y=711988&zoom=6
+Vernayaz;1904;VS;&X=109281&Y=569095&zoom=6
+Vernier;1214;GE;&X=119105&Y=495664&zoom=6
+Vers-chez-Perrin;1551;VD;&X=182926&Y=562136&zoom=6
+Vers-l'Eglise;1864;VD;&X=133632&Y=576371&zoom=6
+Versam;7104;GR;&X=184215&Y=744809&zoom=6
+Versam;7104;GR;&X=178063&Y=745558&zoom=6
+Verscio;6653;TI;&X=115620&Y=699864&zoom=6
+Versegères;1947;VS;&X=101475&Y=584118&zoom=6
+Versoix;1290;GE;&X=126408&Y=501862&zoom=6
+Vesin;1483;FR;&X=184212&Y=556809&zoom=6
+Vessy;1234;GE;&X=114240&Y=500845&zoom=6
+Vevey;1800;VD;&X=145474&Y=554637&zoom=6
+Vex;1981;VS;&X=117959&Y=597023&zoom=6
+Veyras;3968;VS;&X=127898&Y=607581&zoom=6
+Veyrier;1255;GE;&X=113588&Y=503259&zoom=6
+Veysonnaz;1993;VS;&X=116200&Y=592085&zoom=6
+Veytaux;1820;VD;&X=141179&Y=560807&zoom=6
+Vezia;6943;TI;&X=97989&Y=716029&zoom=6
+Vezio;6938;TI;&X=100410&Y=711753&zoom=6
+Viano;7747;GR;&X=126062&Y=808258&zoom=6
+Vich;1267;VD;&X=142692&Y=508613&zoom=6
+Vichères (Liddes);1945;VS;&X=93918&Y=578922&zoom=6
+Vico Morcote;6921;TI;&X=87628&Y=715098&zoom=6
+Vicosoprano;7603;GR;&X=135765&Y=768209&zoom=6
+Vicques;2824;JU;&X=244035&Y=598073&zoom=6
+Vielbringen b. Worb;3075;BE;&X=196031&Y=608414&zoom=6
+Viganello;6962;TI;&X=96770&Y=718545&zoom=6
+Vignogn;7147;GR;&X=173446&Y=731373&zoom=6
+Vilars NE;2063;NE;&X=209106&Y=561127&zoom=6
+Villa (Ayent);1966;VS;&X=124995&Y=598295&zoom=6
+Villa (Evolène);1985;VS;&X=106200&Y=605740&zoom=6
+Villa Bedretto;6781;TI;&X=151638&Y=683299&zoom=6
+Villa Luganese;6966;TI;&X=101479&Y=720566&zoom=6
+Villaraboud;1679;FR;&X=167658&Y=559758&zoom=6
+Villarbeney;1652;FR;&X=164259&Y=574731&zoom=6
+Villard-sur-Chamby;1832;VD;&X=146365&Y=561031&zoom=6
+Villarepos;1583;FR;&X=192561&Y=572085&zoom=6
+Villargiroud;1694;FR;&X=172752&Y=566612&zoom=6
+Villariaz;1685;FR;&X=168299&Y=561834&zoom=6
+Villarimboud;1691;FR;&X=176587&Y=563637&zoom=6
+Villarlod;1695;FR;&X=172749&Y=568197&zoom=6
+Villars-Bozon;1148;VD;&X=162220&Y=520984&zoom=6
+Villars-Bramard;1682;VD;&X=174275&Y=558708&zoom=6
+Villars-Burquin;1423;VD;&X=188710&Y=537963&zoom=6
+Villars-Epeney;1404;VD;&X=181439&Y=543358&zoom=6
+Villars-Mendraz;1061;VD;&X=166479&Y=545702&zoom=6
+Villars-Ste-Croix;1029;VD;&X=157622&Y=532684&zoom=6
+Villars-Tiercelin;1058;VD;&X=164235&Y=543772&zoom=6
+Villars-le-Comte;1515;VD;&X=173470&Y=551137&zoom=6
+Villars-le-Grand;1584;VD;&X=195031&Y=565818&zoom=6
+Villars-le-Terroir;1040;VD;&X=167704&Y=538800&zoom=6
+Villars-sous-Champvent;1443;VD;&X=182044&Y=534683&zoom=6
+Villars-sous-Mont;1666;FR;&X=154364&Y=571682&zoom=6
+Villars-sous-Yens;1168;VD;&X=151510&Y=522482&zoom=6
+Villars-sur-Fontenais;2903;JU;&X=248621&Y=572979&zoom=6
+Villars-sur-Glâne;1752;FR;&X=182258&Y=575369&zoom=6
+Villars-sur-Ollon;1884;VD;&X=127427&Y=570547&zoom=6
+Villarsel-le-Gibloux;1695;FR;&X=173816&Y=567947&zoom=6
+Villarsel-sur-Marly;1723;FR;&X=178841&Y=579706&zoom=6
+Villarsiviriaux;1694;FR;&X=172201&Y=567352&zoom=6
+Villarvolard;1651;FR;&X=166056&Y=574636&zoom=6
+Villarzel;1555;VD;&X=177657&Y=559812&zoom=6
+Villaz-St-Pierre;1690;FR;&X=174424&Y=563174&zoom=6
+Villeneuve FR;1527;FR;&X=177355&Y=556439&zoom=6
+Villeneuve VD;1844;VD;&X=138451&Y=560509&zoom=6
+Villeret;2613;BE;&X=222916&Y=568044&zoom=6
+Villette (Lavaux);1096;VD;&X=149415&Y=544102&zoom=6
+Villiers;2057;NE;&X=213844&Y=564526&zoom=6
+Villigen;5234;AG;&X=264331&Y=658315&zoom=6
+Villmergen;5612;AG;&X=244187&Y=660847&zoom=6
+Villnachern;5213;AG;&X=257867&Y=654125&zoom=6
+Vilters;7324;SG;&X=210503&Y=753359&zoom=6
+Vinelz;3234;BE;&X=209246&Y=575116&zoom=6
+Vinzel;1184;VD;&X=144751&Y=510889&zoom=6
+Vionnaz;1895;VS;&X=128763&Y=558479&zoom=6
+Vira (Gambarogno);6574;TI;&X=111203&Y=708451&zoom=6
+Visp;3930;VS;&X=126732&Y=633799&zoom=6
+Visperterminen;3932;VS;&X=123223&Y=636345&zoom=6
+Vissoie;3961;VS;&X=118101&Y=611121&zoom=6
+Vitznau;6354;LU;&X=207121&Y=679472&zoom=6
+Vnà;7557;GR;&X=192367&Y=822939&zoom=6
+Vogelsang AG;5412;AG;&X=261144&Y=660323&zoom=6
+Vogorno;6632;TI;&X=120012&Y=709559&zoom=6
+Volken;8459;ZH;&X=269805&Y=689565&zoom=6
+Volketswil;8604;ZH;&X=249407&Y=694181&zoom=6
+Vollèges;1941;VS;&X=104020&Y=579128&zoom=6
+Vordemwald;4803;AG;&X=235843&Y=634619&zoom=6
+Vorderthal;8857;SZ;&X=220115&Y=710850&zoom=6
+Vouvry;1896;VS;&X=131710&Y=557450&zoom=6
+Vrin;7149;GR;&X=168447&Y=727106&zoom=6
+Vuadens;1628;FR;&X=162887&Y=567867&zoom=6
+Vuarmarens;1674;FR;&X=166150&Y=553168&zoom=6
+Vuarrens;1418;VD;&X=170974&Y=539536&zoom=6
+Vucherens;1509;VD;&X=163691&Y=549090&zoom=6
+Vufflens-la-Ville;1302;VD;&X=158806&Y=531029&zoom=6
+Vufflens-le-Château;1134;VD;&X=153294&Y=525750&zoom=6
+Vugelles-La Mothe;1431;VD;&X=186242&Y=534375&zoom=6
+Vuibroye;1610;VD;&X=158055&Y=551454&zoom=6
+Vuippens;1633;FR;&X=167578&Y=572010&zoom=6
+Vuissens;1486;FR;&X=176531&Y=548576&zoom=6
+Vuisternens-devant-Romont;1687;FR;&X=167345&Y=561047&zoom=6
+Vuisternens-en-Ogoz;1696;FR;&X=173028&Y=570518&zoom=6
+Vuiteboeuf;1445;VD;&X=184376&Y=532161&zoom=6
+Vulliens;1085;VD;&X=163581&Y=550832&zoom=6
+Vullierens;1115;VD;&X=158550&Y=526606&zoom=6
+Vulpera;7552;GR;&X=185731&Y=817387&zoom=6
+Vättis;7315;SG;&X=197371&Y=752183&zoom=6
+Vérossaz;1891;VS;&X=117776&Y=565252&zoom=6
+Vésenaz;1222;GE;&X=121434&Y=504433&zoom=6
+Vétroz;1963;VS;&X=119147&Y=587654&zoom=6
+Wabern;3084;BE;&X=197499&Y=600830&zoom=6
+Wagen;8646;SG;&X=232373&Y=709591&zoom=6
+Wagenhausen;8259;TG;&X=279952&Y=705876&zoom=6
+Wagerswil;8564;TG;&X=274379&Y=722046&zoom=6
+Wahlen b. Laufen;4246;BL;&X=250182&Y=605850&zoom=6
+Wahlendorf;3046;BE;&X=206301&Y=592335&zoom=6
+Walchwil;6318;ZG;&X=217144&Y=681692&zoom=6
+Wald AR;9044;AR;&X=253773&Y=754689&zoom=6
+Wald ZH;8636;ZH;&X=237615&Y=711847&zoom=6
+Walde AG;5046;AG;&X=234428&Y=650978&zoom=6
+Walde SG;8727;SG;&X=236860&Y=719132&zoom=6
+Waldenburg;4437;BL;&X=248068&Y=623400&zoom=6
+Waldhäusern AG;5624;AG;&X=242203&Y=666480&zoom=6
+Waldkirch;9205;SG;&X=259251&Y=738730&zoom=6
+Waldstatt;9104;AR;&X=246996&Y=739324&zoom=6
+Walenstadt;8880;SG;&X=220748&Y=741793&zoom=6
+Walenstadtberg;8881;SG;&X=222314&Y=740511&zoom=6
+Walkringen;3512;BE;&X=199677&Y=613413&zoom=6
+Wallbach;4323;AG;&X=268090&Y=634753&zoom=6
+Wallenbuch;3206;FR;&X=197749&Y=583660&zoom=6
+Wallenried;1784;FR;&X=191544&Y=575362&zoom=6
+Wallenwil;8360;TG;&X=256904&Y=714252&zoom=6
+Wallisellen;8304;ZH;&X=252632&Y=687250&zoom=6
+Walliswil b. Niederbipp;3380;BE;&X=231858&Y=619168&zoom=6
+Walliswil b. Wangen;3377;BE;&X=230909&Y=618499&zoom=6
+Walperswil;3272;BE;&X=212037&Y=584156&zoom=6
+Waltalingen;8468;ZH;&X=275447&Y=700337&zoom=6
+Waltensburg/Vuorz;7158;GR;&X=181691&Y=728102&zoom=6
+Waltenschwil;5622;AG;&X=242985&Y=664824&zoom=6
+Walterswil BE;4942;BE;&X=218038&Y=625638&zoom=6
+Walterswil SO;5746;SO;&X=241642&Y=639101&zoom=6
+Walzenhausen;9428;AR;&X=257812&Y=763347&zoom=6
+Wangen SZ;8855;SZ;&X=227613&Y=710039&zoom=6
+Wangen an der Aare;3380;BE;&X=231215&Y=616845&zoom=6
+Wangen b. Dübendorf;8602;ZH;&X=251651&Y=691381&zoom=6
+Wangen b. Olten;4612;SO;&X=243627&Y=633156&zoom=6
+Wangenried;3374;BE;&X=229600&Y=616439&zoom=6
+Wangs;7323;SG;&X=210628&Y=751529&zoom=6
+Wanzwil;3372;BE;&X=227582&Y=619199&zoom=6
+Warth;8532;TG;&X=271373&Y=708166&zoom=6
+Wasen im Emmental;3457;BE;&X=210289&Y=627244&zoom=6
+Wassen UR;6484;UR;&X=173447&Y=688481&zoom=6
+Wasserauen;9057;AI;&X=239061&Y=750509&zoom=6
+Wasterkingen;8195;ZH;&X=271560&Y=677773&zoom=6
+Watt;8105;ZH;&X=255312&Y=678960&zoom=6
+Wattenwil;3665;BE;&X=179930&Y=605059&zoom=6
+Wattwil;9630;SG;&X=240006&Y=725165&zoom=6
+Wauwil;6242;LU;&X=226313&Y=644258&zoom=6
+Wavre;2075;NE;&X=208534&Y=568384&zoom=6
+Weesen;8872;SG;&X=221964&Y=725777&zoom=6
+Wegenstetten;4317;AG;&X=260463&Y=637121&zoom=6
+Weggis;6353;LU;&X=209553&Y=675680&zoom=6
+Weiach;8187;ZH;&X=267510&Y=675072&zoom=6
+Weier im Emmental;3462;BE;&X=212442&Y=623910&zoom=6
+Weinfelden;8570;TG;&X=269302&Y=726143&zoom=6
+Weingarten-Kalthäusern;9508;TG;&X=264876&Y=716714&zoom=6
+Weiningen TG;8532;TG;&X=271719&Y=709226&zoom=6
+Weiningen ZH;8104;ZH;&X=252242&Y=675148&zoom=6
+Weissbad;9057;AI;&X=241718&Y=750937&zoom=6
+Weissenburg;3764;BE;&X=167475&Y=602829&zoom=6
+Weissenstein b. Solothurn;4515;SO;&X=233347&Y=605099&zoom=6
+Weisslingen;8484;ZH;&X=254184&Y=699648&zoom=6
+Weisstannen;7326;SG;&X=206151&Y=744797&zoom=6
+Weite;9476;SG;&X=217572&Y=756490&zoom=6
+Welschenrohr;4716;SO;&X=236563&Y=606012&zoom=6
+Wengen;3823;BE;&X=161887&Y=636828&zoom=6
+Wengi b. Büren;3251;BE;&X=214788&Y=596707&zoom=6
+Wengi b. Frutigen;3714;BE;&X=162060&Y=617176&zoom=6
+Wenslingen;4493;BL;&X=254489&Y=635825&zoom=6
+Werdenberg;9470;SG;&X=226157&Y=753341&zoom=6
+Wergenstein;7433;GR;&X=165709&Y=750559&zoom=6
+Wermatswil;8615;ZH;&X=246518&Y=698753&zoom=6
+Wernetshausen;8342;ZH;&X=239659&Y=707983&zoom=6
+Werthenstein;6106;LU;&X=211699&Y=650512&zoom=6
+Wettingen;5430;AG;&X=258224&Y=667347&zoom=6
+Wettswil;8907;ZH;&X=243687&Y=677860&zoom=6
+Wetzikon TG;8512;TG;&X=266362&Y=717414&zoom=6
+Wetzikon ZH;8620;ZH;&X=242180&Y=703395&zoom=6
+Wetzikon ZH;8623;ZH;&X=243344&Y=704168&zoom=6
+Wichtrach;3114;BE;&X=188487&Y=610268&zoom=6
+Widen;8967;AG;&X=246721&Y=669418&zoom=6
+Widnau;9443;SG;&X=252699&Y=766119&zoom=6
+Wiedlisbach;4537;BE;&X=232914&Y=615848&zoom=6
+Wienacht-Tobel;9405;AR;&X=259366&Y=758215&zoom=6
+Wiesenberg;6383;NW;&X=197665&Y=670538&zoom=6
+Wiesendangen;8542;ZH;&X=264267&Y=701740&zoom=6
+Wiezikon b. Sirnach;8372;TG;&X=256555&Y=716926&zoom=6
+Wiggen;6192;LU;&X=193925&Y=635904&zoom=6
+Wiggiswil;3053;BE;&X=208920&Y=602450&zoom=6
+Wigoltingen;8556;TG;&X=273114&Y=719491&zoom=6
+Wikon;4806;LU;&X=234836&Y=640003&zoom=6
+Wil AG;5276;AG;&X=268004&Y=653767&zoom=6
+Wil SG;9500;SG;&X=255687&Y=721830&zoom=6
+Wil SG;9500;SG;&X=258322&Y=721618&zoom=6
+Wil ZH;8196;ZH;&X=272988&Y=680077&zoom=6
+Wila;8492;ZH;&X=253019&Y=706184&zoom=6
+Wilchingen;8217;SH;&X=280349&Y=677061&zoom=6
+Wildberg;8489;ZH;&X=253881&Y=703969&zoom=6
+Wildegg;5103;AG;&X=251928&Y=654827&zoom=6
+Wildensbuch;8465;ZH;&X=278500&Y=693223&zoom=6
+Wilderswil;3812;BE;&X=168408&Y=632972&zoom=6
+Wildhaus;9658;SG;&X=229613&Y=744784&zoom=6
+Wilen (Gottshaus);9225;TG;&X=261975&Y=738974&zoom=6
+Wilen (Sarnen);6062;OW;&X=192597&Y=659862&zoom=6
+Wilen b. Neunforn;8525;TG;&X=273218&Y=702067&zoom=6
+Wilen b. Wil;9535;TG;&X=256364&Y=720168&zoom=6
+Wilen b. Wollerau;8832;SZ;&X=228150&Y=698201&zoom=6
+Wiler (Lötschen);3918;VS;&X=139168&Y=626864&zoom=6
+Wiler b. Seedorf;3266;BE;&X=210841&Y=590983&zoom=6
+Wiler b. Utzenstorf;3428;BE;&X=222384&Y=608889&zoom=6
+Wileroltigen;3207;BE;&X=202126&Y=584506&zoom=6
+Wiliberg;5058;AG;&X=235355&Y=644175&zoom=6
+Wilihof;6236;LU;&X=230453&Y=647361&zoom=6
+Willadingen;3425;BE;&X=221758&Y=613083&zoom=6
+Willerzell;8846;SZ;&X=220761&Y=702838&zoom=6
+Willisau;6130;LU;&X=218323&Y=641666&zoom=6
+Willisdorf;8253;TG;&X=281694&Y=697583&zoom=6
+Wimmis;3752;BE;&X=169102&Y=615048&zoom=6
+Winden;9315;TG;&X=263525&Y=744677&zoom=6
+Windisch;5210;AG;&X=258615&Y=658398&zoom=6
+Windlach;8175;ZH;&X=266135&Y=678256&zoom=6
+Winikon;6235;LU;&X=231997&Y=646239&zoom=6
+Winistorf;4558;SO;&X=222466&Y=615839&zoom=6
+Winkel;8185;ZH;&X=260905&Y=684487&zoom=6
+Winterberg ZH;8312;ZH;&X=256970&Y=694847&zoom=6
+Wintersingen;4451;BL;&X=260631&Y=629295&zoom=6
+Winterthur;8400;ZH;&X=261894&Y=695996&zoom=6
+Winterthur;8404;ZH;&X=262695&Y=699485&zoom=6
+Winterthur;8405;ZH;&X=259393&Y=700976&zoom=6
+Winterthur;8406;ZH;&X=259927&Y=695114&zoom=6
+Winterthur;8408;ZH;&X=262631&Y=693767&zoom=6
+Winterthur;8409;ZH;&X=262984&Y=701155&zoom=6
+Winznau;4652;SO;&X=245973&Y=637127&zoom=6
+Wirzweli;6383;NW;&X=196221&Y=670579&zoom=6
+Wisen SO;4634;SO;&X=249120&Y=634075&zoom=6
+Wislikofen;5463;AG;&X=267826&Y=669554&zoom=6
+Wittenbach;9300;SG;&X=258459&Y=746291&zoom=6
+Wittenwil;9547;TG;&X=262572&Y=712002&zoom=6
+Witterswil;4108;SO;&X=259637&Y=606763&zoom=6
+Wittinsburg;4443;BL;&X=253016&Y=630229&zoom=6
+Wittnau;5064;AG;&X=258885&Y=640699&zoom=6
+Wittwil;5053;AG;&X=237914&Y=645459&zoom=6
+Wohlen AG;5610;AG;&X=244822&Y=663434&zoom=6
+Wohlen b. Bern;3033;BE;&X=202175&Y=593687&zoom=6
+Wohlenschwil;5512;AG;&X=251394&Y=661560&zoom=6
+Wolfenschiessen;6386;NW;&X=195633&Y=673536&zoom=6
+Wolfertswil;9116;SG;&X=250766&Y=731407&zoom=6
+Wolfhalden;9427;AR;&X=257806&Y=759265&zoom=6
+Wolfhausen;8633;ZH;&X=234577&Y=703194&zoom=6
+Wolfisberg;4704;BE;&X=236018&Y=616745&zoom=6
+Wolfwil;4628;SO;&X=235589&Y=626849&zoom=6
+Wolhusen;6110;LU;&X=212275&Y=648329&zoom=6
+Wollerau;8832;SZ;&X=228089&Y=699554&zoom=6
+Wollerau;8832;SZ;&X=228015&Y=697009&zoom=6
+Worb;3076;BE;&X=197680&Y=609571&zoom=6
+Worben;3252;BE;&X=215899&Y=588893&zoom=6
+Worblaufen;3048;BE;&X=203351&Y=602098&zoom=6
+Wuppenau;9514;TG;&X=261836&Y=725443&zoom=6
+Wynau;4923;BE;&X=234282&Y=628473&zoom=6
+Wynigen;3472;BE;&X=217260&Y=617310&zoom=6
+Wyssachen;4954;BE;&X=214311&Y=629300&zoom=6
+Wädenswil;8820;ZH;&X=231001&Y=692640&zoom=6
+Wäldi;8564;TG;&X=277079&Y=724584&zoom=6
+Wängi;9545;TG;&X=261789&Y=714467&zoom=6
+Wölflinswil;5063;AG;&X=257082&Y=642531&zoom=6
+Wöschnau;5012;SO;&X=248242&Y=644286&zoom=6
+Wünnewil;3184;FR;&X=191183&Y=587546&zoom=6
+Würenlingen;5303;AG;&X=264913&Y=661039&zoom=6
+Würenlos;5436;AG;&X=255078&Y=669863&zoom=6
+Yens;1169;VD;&X=152433&Y=521615&zoom=6
+Yverdon-les-Bains;1400;VD;&X=181165&Y=539038&zoom=6
+Yvonand;1462;VD;&X=183241&Y=547054&zoom=6
+Yvorne;1853;VD;&X=131168&Y=563209&zoom=6
+Zauggenried;3309;BE;&X=213579&Y=607770&zoom=6
+Zeglingen;4495;BL;&X=251933&Y=635631&zoom=6
+Zeihen;5079;AG;&X=258487&Y=648921&zoom=6
+Zeiningen;4314;AG;&X=265927&Y=632947&zoom=6
+Zell LU;6144;LU;&X=220518&Y=636670&zoom=6
+Zell ZH;8487;ZH;&X=256224&Y=704381&zoom=6
+Zeneggen;3934;VS;&X=124915&Y=632881&zoom=6
+Zermatt;3920;VS;&X=96488&Y=623862&zoom=6
+Zernez;7530;GR;&X=175446&Y=803145&zoom=6
+Zetzwil;5732;AG;&X=237728&Y=653885&zoom=6
+Zezikon;9556;TG;&X=266047&Y=718851&zoom=6
+Ziefen;4417;BL;&X=253194&Y=620120&zoom=6
+Ziegelbrücke;8866;GL;&X=221625&Y=722846&zoom=6
+Zielebach;4564;BE;&X=223188&Y=610186&zoom=6
+Zignau;7167;GR;&X=177643&Y=719710&zoom=6
+Zihlschlacht;8588;TG;&X=265137&Y=737428&zoom=6
+Zillis;7432;GR;&X=166894&Y=753485&zoom=6
+Zimmerwald;3086;BE;&X=191708&Y=602404&zoom=6
+Zinal;3961;VS;&X=109227&Y=614320&zoom=6
+Zizers;7205;GR;&X=200600&Y=761690&zoom=6
+Zofingen;4800;AG;&X=237233&Y=638889&zoom=6
+Zollbrück;3436;BE;&X=202987&Y=623298&zoom=6
+Zollikerberg;8125;ZH;&X=244460&Y=688269&zoom=6
+Zollikofen;3052;BE;&X=204649&Y=601733&zoom=6
+Zollikon;8702;ZH;&X=243879&Y=686461&zoom=6
+Zuben;8585;TG;&X=274441&Y=735189&zoom=6
+Zuchwil;4528;SO;&X=228169&Y=609387&zoom=6
+Zuckenriet;9526;SG;&X=260635&Y=730121&zoom=6
+Zufikon;5621;AG;&X=244487&Y=669643&zoom=6
+Zug;6300;ZG;&X=224762&Y=681888&zoom=6
+Zugerberg;6300;ZG;&X=221957&Y=683041&zoom=6
+Zullwil;4234;SO;&X=248947&Y=612523&zoom=6
+Zumholz;1719;FR;&X=178201&Y=589050&zoom=6
+Zumikon;8126;ZH;&X=243460&Y=689725&zoom=6
+Zunzgen;4455;BL;&X=255442&Y=627458&zoom=6
+Zuoz;7524;GR;&X=165190&Y=787505&zoom=6
+Zuoz;7524;GR;&X=164220&Y=792874&zoom=6
+Zuzgen;4315;AG;&X=263867&Y=634524&zoom=6
+Zuzwil BE;3303;BE;&X=211146&Y=602503&zoom=6
+Zuzwil SG;9524;SG;&X=259525&Y=726504&zoom=6
+Zweidlen;8192;ZH;&X=268498&Y=677654&zoom=6
+Zweilütschinen;3815;BE;&X=164736&Y=635323&zoom=6
+Zweisimmen;3770;BE;&X=155639&Y=594877&zoom=6
+Zwieselberg;3645;BE;&X=173221&Y=613615&zoom=6
+Zwillikon;8909;ZH;&X=237677&Y=675216&zoom=6
+Zwingen;4222;BL;&X=253875&Y=606504&zoom=6
+Zwischenflüh;3756;BE;&X=161801&Y=605896&zoom=6
+Zäziwil;3532;BE;&X=194617&Y=616950&zoom=6
+Zénauva;1724;FR;&X=176008&Y=580384&zoom=6
+Züberwangen;9523;SG;&X=258403&Y=724118&zoom=6
+Zürich;8001;ZH;&X=247386&Y=683284&zoom=6
+Zürich;8002;ZH;&X=246102&Y=682633&zoom=6
+Zürich;8003;ZH;&X=247419&Y=681380&zoom=6
+Zürich;8004;ZH;&X=248029&Y=681917&zoom=6
+Zürich;8005;ZH;&X=249001&Y=681701&zoom=6
+Zürich;8006;ZH;&X=248913&Y=683400&zoom=6
+Zürich;8008;ZH;&X=245361&Y=684827&zoom=6
+Zürich;8032;ZH;&X=246815&Y=685036&zoom=6
+Zürich;8037;ZH;&X=250308&Y=681953&zoom=6
+Zürich;8038;ZH;&X=243994&Y=682996&zoom=6
+Zürich;8041;ZH;&X=243358&Y=681399&zoom=6
+Zürich;8044;ZH;&X=248350&Y=685649&zoom=6
+Zürich;8045;ZH;&X=245077&Y=680624&zoom=6
+Zürich;8046;ZH;&X=252925&Y=680711&zoom=6
+Zürich;8047;ZH;&X=247535&Y=679178&zoom=6
+Zürich;8048;ZH;&X=248961&Y=678921&zoom=6
+Zürich;8049;ZH;&X=248407&Y=682943&zoom=6
+Zürich;8050;ZH;&X=251831&Y=683935&zoom=6
+Zürich;8051;ZH;&X=250494&Y=686070&zoom=6
+Zürich;8052;ZH;&X=253211&Y=683148&zoom=6
+Zürich;8053;ZH;&X=246251&Y=687536&zoom=6
+Zürich;8055;ZH;&X=246459&Y=679440&zoom=6
+Zürich;8057;ZH;&X=250492&Y=683697&zoom=6
+Zürich;8064;ZH;&X=250286&Y=679008&zoom=6
+
