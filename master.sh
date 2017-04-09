@@ -3,8 +3,8 @@
 
 
 ROOT=/tmp/test
-places="/home/gabi/Dokumente/places_test.txt"
-layers="/home/gabi/Dokumente/layers_test.txt"
+places="/home/gabi/Dokumente/places.txt"
+layers="/home/gabi/Dokumente/layers.txt"
 metadata="/tmp/test/metadata.txt"
 HTTP="/"
 OUTPUT=/tmp/_includes/site-index.html 
@@ -14,10 +14,12 @@ do
 	echo $lang  # Loop through languages
   while read l # Loop through layers
 	do
-		#echo $l  # Loop through layers
+		echo $l  # Loop through layers
+		 
 	     curl -silent http://api3.geo.admin.ch/rest/services/api/MapServer?searchText=$l"&"lang=$lang > $metadata
 		 abstract=$(cat $metadata |grep -Po 'abstract"."\K.*?(?=",")')
 		 fullname=$(cat $metadata |grep -Po 'fullName":"\K.*?(?=",")')
+		 fullname_nospace=$(echo $fullname | sed 's/ //g')
 		 name=$(cat $metadata |grep -Po 'name":"\K.*?(?=")')
 		 dataowner=$(cat $metadata |grep -Po 'dataOwner":"\K.*?(?=",")')
 		 urlDetails=$(cat $metadata |grep -Po 'urlDetails":"\K.*?(?=",")')
@@ -57,18 +59,18 @@ do
 
 mkdir -p $ROOT/$lang/$kanton/$ort/
 
-cat > $ROOT/$lang/$kanton/$ort/$plz-$ort-$l.html << _EOF_
+cat > $ROOT/$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html << _EOF_
 <!doctype html>
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title> $ort $name</title>
+    <title> $ort ($kanton) $name</title>
 <meta name="keywords" content="maps Switzerland, map viewer, Confederation, geodata, public platform, geographical information, geoportal, orthophotos, geolocation, geoinformation, Geodaten, Geoinformation, Bund, Plattform, Karte, Kartendienst, Kartenviewer $inspireUpperAbstract $ort $kanton $inspireUpperName $name $fullname">
 </head>
  
 <body>
  
-<center><h1><span>$plz $ort $fullname </span> </h1> <br> ($dataowner)</p></center>
+<center><h1><span>$plz $ort ($kanton) $fullname </span> </h1> <br> ($dataowner)</p></center>
 <p>$abstract</p>
 </div>
 <iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=$lang&layers=$l$url_end' width='100%' height='350' frameborder='0' style='border:0'></iframe>
@@ -76,7 +78,7 @@ cat > $ROOT/$lang/$kanton/$ort/$plz-$ort-$l.html << _EOF_
   <br>
   <h2> <span>Legend</span>  </h2><br>
   
-    <img src="https://api3.geo.admin.ch/static/images/legends/${l}_${lang}.png" alt="layer legend img">
+    <img src="https://api3.geo.admin.ch/static/images/legends/${l}_${lang}.png" alt="Click in map">
   </div>
   <br><br>
 
