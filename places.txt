@@ -1977,7 +1977,6 @@ Le Grand-Saconnex;1218;GE;&X=120962&Y=498587&zoom=6
 Le Landeron;2525;NE;&X=211470&Y=571612&zoom=6
 Le Lieu;1345;VD;&X=166899&Y=511462&zoom=6
 Le Lignon;1219;GE;&X=117865&Y=496335&zoom=6
-Le Locle;2400;;&X=211563&Y=544673&zoom=6
 Le Locle;2400;NE;&X=212133&Y=547645&zoom=6
 Le Mont-Pèlerin;1801;VD;&X=147989&Y=553277&zoom=6
 Le Mont-sur-Lausanne;1052;VD;&X=156484&Y=538460&zoom=6
