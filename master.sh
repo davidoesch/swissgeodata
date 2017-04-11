@@ -9,8 +9,8 @@ ftp_url=swissgeodata.x10host.com
 remotedir=/public_html
 
 ROOT=/tmp/test
-places="/home/gabi/Dokumente/places.txt"
-layers="/home/gabi/Dokumente/layers.txt"
+places="/home/pi/swissgeodata/places.txt"
+layers="/home/pi/swissgeodata/layers.txt"
 metadata_unicode="/tmp/test/metadata_unicode.txt"
 metadata="/tmp/test/metadata.txt"
 HTTP="/"
@@ -49,6 +49,7 @@ do
 			 fullname_nospace=$(echo $fullname_nospace | sed 's/'$APO'/-/g')
 			 fullname_nospace=$(echo $fullname_nospace | sed 'y/'$SPEC_CHAR'/'$NORM_CHAR'/')
 			 fullname_nospace=$(echo $fullname_nospace | sed 's/--/-/g')
+   			iconv -f utf-8 -t utf-8 -c "$fullname_nospace" > "$fullname_nospace"
 		 name=$(echo -e "$(cat $metadata) " | grep -Po '(?<="name":")[^"]*' | head -1) 
 		 dataowner=$(echo -e "$(cat $metadata) " | grep -Po '(?<="dataOwner":")[^"]*' | head -1) 
 		 urlDetails=$(echo -e "$(cat $metadata) " | grep -Po '(?<="urlDetails":")[^"]*' | head -1) 
@@ -169,7 +170,7 @@ _EOF_
 		done < $places # End through places
 		#upload and clean up
 		ncftpput -R -u $ftp_u -p $ftp_p $ftp_url $remotedir $ROOT/$lang
-		find $ROOT "*$fullname_nospace*" -type f -delete
+		find $ROOT -name "*$fullname_nospace.html" -type f -delete
 
 		rm -f $metadata
 		rm -f $metadata_unicode
@@ -215,6 +216,7 @@ _EOF_
 
 
 	done # End through languages
+
 
  
 
