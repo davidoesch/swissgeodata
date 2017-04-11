@@ -2,13 +2,15 @@
 # SEO swissgeodata.
 #LANG=de_CH.UTF-8
 
-ftp_u=tbd
-ftp_p=tbd
-ftp_dir=ftp.ihostfull.com/htdocs/
+ftp_u= USERNAME
+ftp_p= PASSWORD
+ftp_dir=swissgeodata.x10host.com/public_html/
+ftp_url=swissgeodata.x10host.com
+remotedir=/public_html
 
 ROOT=/tmp/test
-places="/home/gabi/Dokumente/places_test.txt"
-layers="/home/gabi/Dokumente/layers_test.txt"
+places="/home/gabi/Dokumente/places.txt"
+layers="/home/gabi/Dokumente/layers.txt"
 metadata_unicode="/tmp/test/metadata_unicode.txt"
 metadata="/tmp/test/metadata.txt"
 HTTP="/"
@@ -60,6 +62,8 @@ do
 		do
 				ort=${p%;*;*;*}
 				ort=$(echo $ort | sed 's/ //g')
+				ort=$(echo $ort | sed 's/'$APO'/-/g')
+				ort=$(echo $ort | sed 'y/'$SPEC_CHAR'/'$NORM_CHAR'/')
 					temp=${p%;*;*}
 				plz=${temp#*;}
 					temp=${p#*;*;}
@@ -129,7 +133,7 @@ do
 </html>
 _EOF_
 
-				curl -s -T $ROOT/$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html ftp://$ftp_u:$ftp_p@$ftp_dir$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html --ftp-create-dirs
+				#curl -T $ROOT/$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html ftp://$ftp_u:$ftp_p@$ftp_dir$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html --ftp-create-dirs
 
 				#update index site for place
 				output_index=$ROOT/$lang/$kanton/$ort/index.html
@@ -152,10 +156,10 @@ _EOF_
 					echo "<a href="$plz-$ort-$fullname_nospace.html">$fullname_nospace PLZ $plz </a><br/>" >> $output_index
 					echo "</body>" >> $output_index
 				fi
-				curl -s -T $output_index ftp://$ftp_u:$ftp_p@$ftp_dir$lang/$kanton/$ort/index.html --ftp-create-dirs
+				#curl -T $output_index ftp://$ftp_u:$ftp_p@$ftp_dir$lang/$kanton/$ort/index.html --ftp-create-dirs
 
 				#clean up after places run
-				rm $ROOT/$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html
+				#rm $ROOT/$lang/$kanton/$ort/$plz-$ort-$fullname_nospace.html
 				unset url_end
 				unset kanton
 				unset ort
@@ -163,7 +167,10 @@ _EOF_
 				unset output_index
 
 		done < $places # End through places
-		
+		#upload and clean up
+		ncftpput -R -u $ftp_u -p $ftp_p $ftp_url $remotedir $ROOT/$lang
+		find $ROOT "*$fullname_nospace*" -type f -delete
+
 		rm -f $metadata
 		rm -f $metadata_unicode
 		unset abstract
@@ -204,12 +211,14 @@ _EOF_
 	echo "</body>" >> $ROOT/$lang/index.html
 	echo "</html>" >> $ROOT/$lang/index.html
 
-	curl -s -T $ROOT/$lang/index.html ftp://$ftp_u:$ftp_p@$ftp_dir$lang/ --ftp-create-dirs
+	curl -T $ROOT/$lang/index.html ftp://$ftp_u:$ftp_p@$ftp_dir$lang/ --ftp-create-dirs
 
 
 	done # End through languages
 
  
+
+
 
 
 
